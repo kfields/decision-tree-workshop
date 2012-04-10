@@ -16,6 +16,7 @@ namespace DtWorkshop
     {
         Initial,
         Default,
+        Load,
         Total,
         Final
     }
@@ -67,6 +68,8 @@ namespace DtWorkshop
         {
             switch(kind){
                 case RefreshKind.Initial:
+                    break;
+                case RefreshKind.Load:
                     string[] heuristics = Enum.GetNames(typeof(DtHeuristicKind));
                     Control.HeuristicCombo.Items.AddRange(heuristics);
                     Control.HeuristicCombo.SelectedItem = heuristics[0];

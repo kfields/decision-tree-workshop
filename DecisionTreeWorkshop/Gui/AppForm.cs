@@ -19,6 +19,7 @@ namespace DtWorkshop
         private void ShowNewForm(object sender, EventArgs e)
         {
             DtDocForm form = CreateChildForm();
+            form.LoadDocument("");
             DockChildForm(form);
         }
 

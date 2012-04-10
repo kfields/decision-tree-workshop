@@ -26,6 +26,7 @@ namespace DtWorkshop
             FileName = Path.GetFileNameWithoutExtension(filePath);
             //DataTable.ReadCsv(filePath);
             DataTable.ReadTsv(filePath);
+            RefreshPages(RefreshKind.Load);
         }
         public void Build(DtHeuristicKind heuristicKind, string _targetAttr)
         {
@@ -42,7 +43,8 @@ namespace DtWorkshop
         }
         public void CancelBuild()
         {
-            TreeBuilder.Cancel();
+            if(TreeBuilder != null)
+                TreeBuilder.Cancel();
         }
         public void AddPage(DtPage page)
         {

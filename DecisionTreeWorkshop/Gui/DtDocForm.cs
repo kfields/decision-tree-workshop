@@ -19,7 +19,8 @@ namespace DtWorkshop
         public void LoadDocument(string filename)
         {
             Document = new DtDocument();
-            Document.Load(filename);
+            if (filename != "")
+                Document.Load(filename);
             Text = Document.FileName;
             //
             DtPage page;
@@ -31,6 +32,8 @@ namespace DtWorkshop
             Document.AddPage(page);
             //
             Document.RefreshPages(RefreshKind.Initial);
+            if (filename != "")
+                Document.RefreshPages(RefreshKind.Load);
         }
         public void CreateNewDocument()
         {

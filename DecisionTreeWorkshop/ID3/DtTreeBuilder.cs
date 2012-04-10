@@ -64,9 +64,6 @@ namespace DtWorkshop.ID3
                 from record in Query
                 select record[best.Index];
             IQueryable<object> distinctVals = vals.Distinct();
-            // Don't bother creating a branch if there is only one distinct value.
-            if (TreeBuilder.PrePruning && (distinctVals.Count() == 1))
-                return new DtLeaf(Query.First()[TreeBuilder.TargetAttr.Index]);
             //
             foreach (var val in distinctVals)
             {
@@ -113,7 +110,7 @@ namespace DtWorkshop.ID3
     }
     public class DtTreeBuilder
     {
-        public bool PrePruning = true;
+        public bool Prepruning = true;
         public IQueryable<object[]> Query;
         public DtAttribute TargetAttr;
         public DtAttribute[] Attributes;
