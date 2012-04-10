@@ -1,0 +1,369 @@
+surgery	Age	rectal_temperature	pulse	respiratory_rate	temp_extremities	peripheral_pulse	mucous_membranes	capillary_refill_time	pain	peristalsis	abdominal_distension	nasogastric_tube	nasogastric_reflux	nasogastric_reflux_PH	rectal_examination	abdomen	packed_cell_volume	total_protein	abdominocentesis_appearan	abdomcentesis_total_prote	outcome	surgical_lesion
+no	adult	38.50	66.00	28.00	cool	reduced	?	'>=3'	'continuous severe pain'	absent	severe	?	?	4.96	decreased	'distended large intestin	45.00	8.40	?	2.95	died	no
+yes	adult	39.20	88.00	20.00	?	?	'pale cyanotic'	'<3'	'intermittent mild pain'	absent	slight	?	?	4.96	absent	other	50.00	85.00	cloudy	2.00	euthanized	no
+no	adult	38.30	40.00	24.00	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	none	?	?	4.96	normal	normal	33.00	6.70	?	2.95	lived	no
+yes	young	39.10	164.00	84.00	cold	normal	'dark cyanotic'	'>=3'	depressed	absent	severe	none	'>1l'	5.00	decreased	?	48.00	7.20	serosanguinous	5.30	died	yes
+no	adult	37.30	104.00	35.00	?	?	'dark cyanotic'	'>=3'	?	?	?	?	?	4.96	?	?	74.00	7.40	?	2.95	died	no
+no	adult	38.13	70.76	30.52	warm	normal	'pale pink'	'<3'	depressed	hypomotile	slight	slight	none	4.96	decreased	'firm feces in large inte	45.66	24.77	?	2.95	lived	no
+yes	adult	37.90	48.00	16.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	none	none	4.96	decreased	'distended large intestin	37.00	7.00	?	2.95	lived	yes
+yes	adult	38.13	60.00	30.52	cool	?	?	'<3'	?	absent	slight	slight	none	4.96	decreased	'distended small intestin	44.00	8.30	?	2.95	died	yes
+no	adult	38.13	80.00	36.00	cool	absent	'pale pink'	'<3'	'intermittent severe pain	absent	severe	slight	none	4.96	decreased	'distended large intestin	38.00	6.20	?	2.95	euthanized	yes
+no	young	38.30	90.00	30.52	normal	?	'normal pink'	'<3'	'continuous severe pain'	hypomotile	none	slight	none	4.96	decreased	?	40.00	6.20	clear	2.20	lived	no
+yes	adult	38.10	66.00	12.00	cool	reduced	'bright red'	'<3'	'intermittent mild pain'	hypomotile	none	slight	none	3.00	increased	'distended large intestin	44.00	6.00	cloudy	3.60	lived	yes
+no	adult	39.10	72.00	52.00	warm	?	'bright pink'	'<3'	depressed	hypermotile	slight	none	none	4.96	absent	'distended small intestin	50.00	7.80	?	2.95	lived	yes
+yes	adult	37.20	42.00	12.00	warm	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	significant	none	4.96	absent	'distended large intestin	45.66	7.00	?	2.95	lived	no
+no	young	38.00	92.00	28.00	normal	normal	'bright pink'	'<3'	'alert no pain'	hypomotile	slight	significant	?	7.20	normal	normal	37.00	6.10	clear	2.95	died	no
+yes	adult	38.20	76.00	28.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	absent	none	slight	'>1l'	4.96	absent	'distended small intestin	46.00	81.00	clear	2.00	lived	yes
+yes	adult	37.60	96.00	48.00	cool	normal	'pale cyanotic'	'<3'	'continuous severe pain'	hypomotile	moderate	slight	'<1l'	4.50	absent	?	45.00	6.80	?	2.95	died	yes
+yes	young	38.13	128.00	36.00	cool	reduced	'pale cyanotic'	'>=3'	'intermittent severe pain	absent	moderate	significant	?	4.96	absent	'distended large intestin	53.00	7.80	serosanguinous	4.70	died	no
+no	adult	37.50	48.00	24.00	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	no
+yes	adult	37.60	64.00	21.00	normal	normal	'bright pink'	'<3'	depressed	hypomotile	none	none	none	4.96	increased	'distended large intestin	40.00	7.00	clear	2.95	lived	yes
+no	adult	39.40	110.00	35.00	cold	reduced	'dark cyanotic'	?	?	hypomotile	moderate	?	?	4.96	?	?	55.00	8.70	?	2.95	lived	no
+yes	adult	39.90	72.00	60.00	normal	normal	'bright red'	'>=3'	'continuous severe pain'	absent	severe	significant	none	4.96	absent	'distended small intestin	46.00	6.10	cloudy	2.95	lived	yes
+no	adult	38.40	48.00	16.00	normal	?	'normal pink'	'<3'	'alert no pain'	hypomotile	none	slight	'<1l'	5.50	absent	'firm feces in large inte	49.00	6.80	?	2.95	lived	no
+yes	adult	38.60	42.00	34.00	warm	normal	'pale cyanotic'	?	depressed	hypomotile	none	?	?	4.96	normal	?	48.00	7.20	?	2.95	lived	yes
+yes	young	38.30	130.00	60.00	?	reduced	?	'<3'	depressed	absent	?	?	?	4.96	?	?	50.00	70.00	?	2.95	lived	yes
+yes	adult	38.10	60.00	12.00	cool	reduced	'pale pink'	'<3'	?	absent	moderate	significant	'>1l'	2.00	?	?	51.00	65.00	?	2.95	lived	yes
+no	adult	37.80	60.00	42.00	?	?	?	'<3'	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	no
+yes	adult	38.30	72.00	30.00	cold	reduced	'pale pink'	'>=3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	decreased	'distended large intestin	43.00	7.00	cloudy	3.90	lived	yes
+yes	adult	37.80	48.00	12.00	cool	normal	'normal pink'	'<3'	?	hypomotile	slight	none	none	4.96	normal	'firm feces in large inte	37.00	5.50	cloudy	1.30	lived	no
+yes	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	died	no
+no	adult	37.70	48.00	30.52	warm	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	none	none	4.96	?	?	45.00	76.00	?	2.95	lived	no
+no	adult	37.70	96.00	30.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	significant	'>1l'	4.00	absent	'distended large intestin	66.00	7.50	?	2.95	died	yes
+no	adult	37.20	108.00	12.00	cool	reduced	'pale cyanotic'	'>=3'	depressed	absent	slight	?	'<1l'	6.00	decreased	'firm feces in large inte	52.00	8.20	serosanguinous	7.40	euthanized	yes
+yes	adult	37.20	60.00	30.52	warm	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	absent	'distended large intestin	43.00	6.60	?	2.95	lived	yes
+yes	adult	38.20	64.00	28.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	?	?	?	4.96	absent	'distended small intestin	49.00	8.60	cloudy	6.60	lived	yes
+yes	adult	38.13	100.00	30.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	significant	'<1l'	4.96	absent	'distended small intestin	52.00	6.60	?	2.95	lived	yes
+no	adult	38.13	104.00	24.00	cold	reduced	'pale pink'	'>=3'	'intermittent severe pain	absent	moderate	?	'<1l'	4.96	?	other	73.00	8.40	?	2.95	euthanized	yes
+no	adult	38.30	112.00	16.00	?	reduced	'bright red'	'>=3'	?	?	none	none	'>1l'	4.96	?	'distended large intestin	51.00	6.00	cloudy	1.00	euthanized	no
+yes	adult	37.80	72.00	30.52	?	reduced	?	'<3'	'continuous severe pain'	hypomotile	none	?	none	4.96	normal	normal	56.00	80.00	clear	2.00	lived	yes
+no	adult	38.60	52.00	30.52	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	none	4.96	normal	'firm feces in large inte	32.00	6.60	clear	5.00	lived	no
+yes	young	39.20	146.00	96.00	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	died	yes
+yes	adult	38.13	88.00	30.52	cool	reduced	'dark cyanotic'	'>=3'	'continuous severe pain'	hypomotile	moderate	none	'<1l'	4.96	absent	'distended large intestin	63.00	6.50	serosanguinous	2.95	died	yes
+no	young	39.00	150.00	72.00	?	?	?	?	?	?	?	?	?	4.96	?	?	47.00	8.50	?	0.10	lived	yes
+no	adult	38.00	60.00	12.00	cool	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	none	none	none	4.96	increased	other	47.00	7.00	?	2.95	lived	no
+yes	adult	38.13	120.00	30.52	cool	absent	'pale cyanotic'	'<3'	'intermittent severe pain	absent	severe	none	none	4.96	?	'distended large intestin	52.00	67.00	cloudy	2.00	euthanized	yes
+yes	adult	35.40	140.00	24.00	cool	reduced	'pale cyanotic'	'>=3'	'intermittent severe pain	absent	?	slight	none	4.96	?	'distended large intestin	57.00	69.00	serosanguinous	2.00	euthanized	yes
+no	adult	38.13	120.00	30.52	cold	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	none	none	4.96	absent	'distended large intestin	60.00	6.50	serosanguinous	2.95	died	yes
+yes	adult	37.90	60.00	15.00	cool	?	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	slight	'>1l'	4.96	absent	'distended large intestin	65.00	7.50	?	2.95	lived	yes
+no	adult	37.50	48.00	16.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	none	none	4.96	normal	?	37.00	6.50	?	2.95	lived	no
+yes	adult	38.90	80.00	44.00	cool	reduced	'pale pink'	'>=3'	depressed	hypomotile	moderate	slight	'>1l'	7.00	decreased	normal	54.00	6.50	serosanguinous	2.95	died	yes
+no	adult	37.20	84.00	48.00	cool	reduced	'bright red'	'>=3'	'intermittent severe pain	hypermotile	slight	none	'>1l'	4.96	increased	normal	73.00	5.50	cloudy	4.10	died	no
+no	adult	38.60	46.00	30.52	normal	normal	'bright pink'	'<3'	'alert no pain'	hypomotile	slight	none	none	4.96	?	other	49.00	9.10	clear	1.60	lived	no
+yes	adult	37.40	84.00	36.00	normal	?	'pale pink'	'>=3'	'intermittent mild pain'	hypomotile	slight	?	?	4.96	absent	'distended large intestin	45.66	24.77	serosanguinous	2.95	died	yes
+no	adult	38.13	70.76	30.52	normal	normal	'pale pink'	'<3'	'alert no pain'	hypomotile	none	?	?	4.96	increased	other	43.00	7.70	?	2.95	lived	no
+no	adult	38.60	40.00	20.00	?	?	?	'<3'	?	?	?	?	?	4.96	?	?	41.00	6.40	?	2.95	lived	no
+no	adult	40.30	114.00	36.00	cool	reduced	'normal pink'	'>=3'	depressed	hypomotile	moderate	slight	none	7.00	normal	'distended large intestin	57.00	8.10	serosanguinous	4.50	euthanized	yes
+yes	young	38.60	160.00	20.00	cool	?	'bright red'	'<3'	'intermittent mild pain'	hypomotile	severe	significant	?	4.96	absent	?	38.00	24.77	cloudy	2.95	died	yes
+yes	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	24.00	6.70	?	2.95	lived	yes
+yes	adult	38.13	64.00	36.00	warm	?	'bright pink'	'<3'	'continuous severe pain'	hypomotile	moderate	slight	'>1l'	4.96	?	?	42.00	7.70	?	2.95	died	yes
+yes	adult	38.13	70.76	20.00	cold	reduced	'pale pink'	?	'continuous severe pain'	absent	moderate	slight	?	4.96	absent	'distended small intestin	53.00	5.90	serosanguinous	2.95	died	yes
+no	adult	38.13	96.00	30.52	cool	reduced	'pale pink'	'>=3'	'continuous severe pain'	absent	severe	none	'>1l'	4.96	absent	'distended large intestin	60.00	24.77	?	2.95	died	yes
+no	adult	37.80	48.00	32.00	normal	normal	'pale pink'	'<3'	depressed	hypermotile	?	none	none	4.96	absent	'distended large intestin	37.00	6.70	?	2.95	lived	no
+no	adult	38.50	60.00	30.52	warm	increased	'normal pink'	'<3'	'alert no pain'	normal	slight	slight	none	4.96	normal	normal	44.00	7.70	?	2.95	lived	no
+yes	adult	37.80	88.00	22.00	warm	normal	'bright pink'	'<3'	'intermittent mild pain'	?	?	slight	?	4.96	absent	?	64.00	8.00	clear	6.00	died	yes
+no	adult	38.20	130.00	16.00	cold	reduced	'pale cyanotic'	'>=3'	depressed	absent	severe	none	none	4.96	?	?	65.00	82.00	cloudy	2.00	euthanized	no
+yes	adult	39.00	64.00	36.00	cool	normal	'pale cyanotic'	'>=3'	'intermittent mild pain'	hypomotile	slight	none	'>1l'	7.00	absent	'distended large intestin	44.00	7.50	serosanguinous	5.00	lived	yes
+yes	adult	38.13	60.00	36.00	cool	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	none	4.96	decreased	'distended small intestin	26.00	72.00	cloudy	1.00	lived	yes
+no	adult	37.90	72.00	30.52	normal	normal	'bright red'	'>=3'	'intermittent mild pain'	hypomotile	none	none	'<1l'	2.00	decreased	'distended small intestin	58.00	74.00	clear	2.00	lived	yes
+no	adult	38.40	54.00	24.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	none	slight	none	4.96	decreased	other	49.00	7.20	clear	2.95	lived	no
+no	adult	38.13	52.00	16.00	normal	?	'pale pink'	'<3'	?	?	?	slight	'<1l'	5.50	?	?	55.00	7.20	?	2.95	lived	no
+no	adult	38.00	48.00	12.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	?	none	none	4.96	decreased	other	42.00	6.30	cloudy	4.10	lived	no
+no	adult	37.00	60.00	20.00	cool	?	?	'<3'	'intermittent mild pain'	?	moderate	slight	'>1l'	4.50	absent	'distended small intestin	43.00	7.60	?	2.95	euthanized	yes
+yes	adult	37.80	48.00	28.00	normal	normal	'normal pink'	'<3'	'alert no pain'	normal	none	slight	?	4.96	normal	normal	46.00	5.90	cloudy	7.00	lived	no
+yes	adult	37.70	56.00	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	died	yes
+yes	adult	38.10	52.00	24.00	normal	normal	'bright red'	'<3'	'intermittent severe pain	hypomotile	none	slight	'<1l'	7.00	normal	?	54.00	7.50	cloudy	2.60	died	yes
+yes	young	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	37.00	4.90	?	2.95	died	yes
+yes	young	39.70	100.00	30.52	cool	reduced	'bright red'	'>=3'	depressed	hypomotile	?	?	?	4.96	?	?	48.00	57.00	cloudy	2.00	euthanized	yes
+yes	adult	37.60	38.00	20.00	cool	reduced	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	?	?	4.96	decreased	?	37.00	68.00	?	2.95	lived	yes
+no	adult	38.70	52.00	20.00	warm	?	'normal pink'	'<3'	'alert no pain'	hypermotile	none	none	none	4.96	normal	normal	33.00	77.00	?	2.95	lived	no
+yes	adult	38.13	70.76	30.52	cool	reduced	'pale pink'	'meaning unknown'	'continuous severe pain'	hypomotile	moderate	significant	'>1l'	4.96	absent	'distended large intestin	46.00	5.90	?	2.95	died	yes
+yes	adult	37.50	96.00	18.00	normal	reduced	'dark cyanotic'	'>=3'	'intermittent mild pain'	absent	slight	slight	'<1l'	5.00	?	'distended small intestin	69.00	8.90	serosanguinous	2.95	lived	yes
+yes	adult	36.40	98.00	35.00	cool	reduced	'pale cyanotic'	'<3'	'intermittent severe pain	hypomotile	slight	?	?	4.96	absent	'distended small intestin	47.00	6.40	serosanguinous	3.60	died	yes
+yes	adult	37.30	40.00	30.52	?	reduced	'normal pink'	'<3'	depressed	hypomotile	slight	significant	none	4.96	decreased	'distended large intestin	36.00	24.77	serosanguinous	2.00	lived	yes
+yes	young	38.10	100.00	80.00	cool	normal	'bright pink'	'<3'	'intermittent mild pain'	absent	none	?	?	4.96	normal	?	36.00	5.70	?	2.95	lived	yes
+yes	adult	38.00	70.76	24.00	cool	reduced	'dark cyanotic'	'>=3'	'continuous severe pain'	?	severe	none	none	4.96	?	?	68.00	7.80	?	2.95	died	yes
+yes	adult	37.80	60.00	80.00	normal	reduced	'bright pink'	'>=3'	depressed	hypomotile	moderate	?	'>1l'	5.50	absent	?	40.00	4.50	cloudy	2.95	lived	yes
+no	adult	38.00	54.00	30.00	warm	reduced	'pale pink'	'meaning unknown'	'intermittent mild pain'	hypermotile	slight	slight	'>1l'	4.96	?	'distended small intestin	45.00	6.20	?	2.95	lived	no
+yes	adult	38.13	88.00	40.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	moderate	significant	?	4.96	absent	'distended large intestin	50.00	7.70	serosanguinous	1.40	died	yes
+no	adult	38.13	40.00	16.00	?	?	?	'<3'	?	?	?	?	?	4.96	?	?	50.00	7.00	cloudy	3.90	euthanized	yes
+no	adult	39.00	64.00	40.00	normal	normal	'bright red'	'<3'	'intermittent mild pain'	hypomotile	slight	slight	none	4.96	decreased	'firm feces in large inte	42.00	7.50	cloudy	2.30	lived	no
+no	adult	38.30	42.00	10.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	?	?	4.96	?	?	38.00	61.00	?	2.95	lived	no
+no	adult	38.00	52.00	16.00	?	?	?	?	depressed	?	?	?	'<1l'	1.00	normal	normal	53.00	86.00	?	2.95	lived	yes
+no	adult	40.30	114.00	36.00	cool	reduced	'normal pink'	'>=3'	depressed	hypomotile	moderate	slight	none	7.00	normal	'distended large intestin	57.00	8.10	serosanguinous	4.50	died	yes
+no	adult	38.80	50.00	20.00	cool	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	slight	none	4.96	decreased	normal	42.00	6.20	?	2.95	lived	no
+no	adult	38.13	70.76	30.52	cool	reduced	'normal pink'	'<3'	'continuous severe pain'	hypomotile	moderate	none	none	4.96	absent	'distended large intestin	38.00	6.50	?	2.95	died	yes
+no	adult	37.50	48.00	30.00	cold	normal	'pale pink'	'<3'	?	normal	none	none	none	4.96	normal	normal	48.00	8.60	?	2.95	lived	no
+yes	adult	37.30	48.00	20.00	?	normal	'bright pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	decreased	'distended large intestin	41.00	69.00	?	2.95	lived	yes
+no	adult	38.13	84.00	36.00	?	?	'pale pink'	'<3'	?	hypomotile	none	slight	none	4.96	decreased	other	44.00	8.50	?	2.95	lived	yes
+yes	adult	38.10	88.00	32.00	cool	reduced	'pale cyanotic'	'<3'	depressed	hypomotile	moderate	?	'<1l'	1.00	absent	'distended large intestin	55.00	60.00	?	2.95	euthanized	no
+no	adult	37.70	44.00	40.00	warm	normal	'pale pink'	'<3'	'alert no pain'	hypomotile	slight	none	none	4.96	normal	'distended large intestin	41.00	60.00	?	2.95	lived	no
+no	adult	39.60	108.00	51.00	cool	reduced	'dark cyanotic'	'>=3'	depressed	absent	moderate	none	'>1l'	4.96	decreased	'distended large intestin	59.00	8.00	cloudy	2.60	lived	no
+yes	adult	38.20	40.00	16.00	cool	reduced	'normal pink'	'<3'	'alert no pain'	hypomotile	?	?	?	4.96	normal	normal	34.00	66.00	?	2.95	lived	no
+yes	adult	38.13	60.00	20.00	cold	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	?	?	none	4.96	absent	'distended large intestin	45.66	24.77	?	2.95	euthanized	yes
+no	adult	38.30	40.00	16.00	cool	?	'normal pink'	'<3'	depressed	?	?	?	?	4.96	?	?	37.00	57.00	?	2.95	lived	no
+yes	young	38.00	140.00	68.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	?	?	4.96	increased	normal	39.00	5.30	?	2.95	lived	yes
+yes	adult	37.80	52.00	24.00	normal	reduced	'pale pink'	'<3'	'intermittent severe pain	absent	none	slight	'<1l'	5.70	increased	'distended large intestin	48.00	6.60	clear	3.70	died	yes
+yes	adult	38.13	70.00	36.00	normal	?	'pale pink'	'>=3'	depressed	hypomotile	slight	slight	?	4.96	absent	'distended large intestin	36.00	7.30	?	2.95	lived	yes
+yes	adult	38.30	52.00	96.00	?	reduced	'pale pink'	'<3'	?	?	?	none	none	4.96	normal	?	43.00	6.10	?	2.95	lived	yes
+no	adult	37.30	50.00	32.00	normal	normal	'pale pink'	'<3'	'alert no pain'	hypomotile	slight	?	?	4.96	normal	?	44.00	7.00	?	2.95	lived	no
+yes	adult	38.70	60.00	32.00	cold	reduced	'bright pink'	'>=3'	'intermittent severe pain	absent	severe	?	?	4.96	absent	'distended large intestin	53.00	64.00	serosanguinous	2.00	euthanized	yes
+yes	young	38.40	84.00	40.00	cool	reduced	'bright pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	none	none	4.96	?	?	36.00	6.60	cloudy	2.80	died	yes
+yes	adult	38.13	70.00	16.00	cool	absent	'bright red'	'>=3'	depressed	hypomotile	slight	slight	none	4.96	absent	'distended large intestin	60.00	7.50	?	2.95	died	yes
+yes	adult	38.30	40.00	16.00	cool	?	?	'<3'	'alert no pain'	hypomotile	slight	?	?	4.96	?	?	38.00	58.00	clear	2.00	lived	yes
+yes	adult	38.13	40.00	30.52	warm	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	none	none	none	4.96	?	'distended large intestin	39.00	56.00	?	2.95	lived	yes
+yes	adult	36.80	60.00	28.00	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	10.00	died	yes
+yes	adult	38.40	44.00	24.00	cool	?	'pale cyanotic'	?	'continuous severe pain'	absent	moderate	slight	none	4.96	absent	'distended large intestin	50.00	77.00	?	2.95	lived	yes
+no	adult	38.13	70.76	40.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	?	?	4.96	?	?	45.00	70.00	?	2.95	lived	no
+yes	adult	38.00	44.00	12.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	absent	'distended large intestin	42.00	65.00	?	2.95	lived	yes
+no	adult	39.50	70.76	30.52	cool	reduced	'pale cyanotic'	'>=3'	'intermittent mild pain'	absent	moderate	?	'<1l'	5.50	absent	'distended large intestin	45.66	6.70	clear	2.95	euthanized	yes
+yes	adult	36.50	78.00	30.00	normal	?	'normal pink'	'<3'	'continuous severe pain'	hypomotile	none	?	none	4.96	?	?	34.00	75.00	cloudy	1.00	lived	yes
+no	adult	38.10	56.00	20.00	warm	normal	'bright pink'	'<3'	'alert no pain'	hypomotile	none	none	none	4.96	?	?	46.00	70.00	?	2.95	lived	no
+yes	adult	39.40	54.00	66.00	normal	normal	'bright pink'	'<3'	depressed	hypomotile	slight	none	none	4.96	decreased	'distended small intestin	39.00	6.00	cloudy	2.95	lived	yes
+yes	adult	38.30	80.00	40.00	?	?	'dark cyanotic'	'>=3'	'intermittent severe pain	hypomotile	none	?	'>1l'	4.96	normal	'distended small intestin	67.00	10.20	cloudy	1.00	euthanized	yes
+no	adult	38.70	40.00	28.00	warm	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	none	?	?	4.96	normal	?	39.00	62.00	clear	1.00	lived	no
+yes	adult	38.20	64.00	24.00	normal	normal	'pale pink'	'<3'	'intermittent severe pain	absent	moderate	slight	none	4.96	absent	'distended small intestin	45.00	7.50	clear	2.00	died	yes
+no	adult	37.60	48.00	20.00	cool	normal	'pale cyanotic'	'<3'	'alert no pain'	hypermotile	moderate	slight	none	4.96	normal	normal	37.00	5.50	?	2.95	euthanized	yes
+yes	adult	38.00	42.00	68.00	cold	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	slight	'>1l'	4.96	absent	'distended small intestin	41.00	7.60	?	2.95	lived	yes
+yes	adult	38.70	70.76	30.52	cool	normal	'pale pink'	'<3'	'continuous severe pain'	absent	slight	?	?	4.96	?	?	33.00	6.50	cloudy	2.95	lived	yes
+yes	adult	37.40	50.00	32.00	cool	reduced	?	'<3'	'intermittent severe pain	absent	none	slight	none	4.96	normal	?	45.00	7.90	cloudy	1.00	lived	yes
+yes	adult	37.40	84.00	20.00	?	?	'pale pink'	'<3'	depressed	hypomotile	moderate	?	?	4.96	?	?	31.00	61.00	?	1.00	euthanized	no
+yes	adult	38.40	49.00	30.52	?	?	'normal pink'	'<3'	?	?	none	slight	none	4.96	?	?	44.00	7.60	?	2.95	lived	yes
+yes	adult	37.80	30.00	12.00	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	died	yes
+no	adult	37.60	88.00	36.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	'<1l'	1.50	?	?	44.00	6.00	?	2.95	died	yes
+?	adult	38.00	48.00	20.00	cool	normal	'pale pink'	'<3'	'intermittent severe pain	hypomotile	none	slight	none	4.96	decreased	'distended large intestin	43.00	73.00	cloudy	1.00	?	yes
+no	adult	37.90	40.00	24.00	normal	normal	'normal pink'	'<3'	depressed	hypomotile	none	?	?	4.96	?	'firm feces in large inte	40.00	5.70	?	2.95	lived	yes
+yes	adult	38.13	100.00	30.52	cool	?	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	?	slight	?	4.96	increased	?	59.00	6.30	?	2.95	died	yes
+yes	young	38.10	136.00	48.00	cool	reduced	'pale pink'	'<3'	'continuous severe pain'	hypermotile	moderate	slight	'>1l'	4.40	increased	?	33.00	4.90	cloudy	2.90	died	yes
+yes	adult	38.13	70.76	30.52	cool	reduced	'pale pink'	'>=3'	'continuous severe pain'	hypomotile	moderate	significant	'>1l'	4.96	absent	'distended large intestin	46.00	5.90	?	2.95	died	yes
+yes	adult	38.00	48.00	30.52	normal	normal	'normal pink'	'<3'	'alert no pain'	normal	severe	slight	'>1l'	4.96	absent	'distended large intestin	45.66	24.77	?	2.95	lived	yes
+no	adult	38.00	56.00	30.52	normal	increased	'pale pink'	'<3'	'alert no pain'	hypermotile	none	none	none	4.96	normal	normal	42.00	71.00	?	2.95	lived	no
+no	adult	38.00	60.00	32.00	normal	normal	?	'<3'	'intermittent mild pain'	hypomotile	?	none	none	4.96	?	?	50.00	7.00	clear	1.00	lived	no
+yes	adult	38.10	44.00	9.00	cool	normal	'normal pink'	'<3'	depressed	normal	none	none	none	4.96	absent	'distended large intestin	31.00	7.30	?	2.95	lived	no
+no	adult	36.00	42.00	30.00	?	?	'bright red'	'<3'	?	?	?	?	?	4.96	?	?	64.00	6.80	?	2.95	died	no
+yes	adult	38.13	120.00	30.52	cold	reduced	'dark cyanotic'	'>=3'	'continuous severe pain'	absent	severe	?	?	4.96	absent	'distended large intestin	57.00	4.50	serosanguinous	3.90	died	yes
+yes	adult	37.80	48.00	28.00	normal	normal	'normal pink'	'>=3'	'alert no pain'	normal	none	slight	?	4.96	normal	normal	46.00	5.90	cloudy	7.00	lived	no
+yes	adult	37.10	84.00	40.00	cool	reduced	'dark cyanotic'	'<3'	depressed	absent	severe	significant	'>1l'	2.00	absent	'distended large intestin	75.00	81.00	?	2.95	euthanized	no
+no	adult	38.13	80.00	32.00	cool	reduced	'bright pink'	'<3'	depressed	hypomotile	moderate	slight	none	4.96	decreased	?	50.00	80.00	?	2.95	lived	yes
+yes	adult	38.20	48.00	30.52	normal	reduced	'pale pink'	'<3'	'intermittent mild pain'	absent	severe	none	'<1l'	2.00	absent	'distended large intestin	42.00	71.00	?	2.95	lived	yes
+no	adult	38.00	44.00	12.00	warm	normal	'pale pink'	'<3'	'intermittent mild pain'	absent	moderate	none	'>1l'	6.50	normal	'distended small intestin	33.00	6.50	?	2.95	died	yes
+yes	adult	38.30	132.00	30.52	?	reduced	'dark cyanotic'	'>=3'	depressed	absent	slight	slight	'<1l'	6.20	absent	'distended small intestin	57.00	8.00	?	5.20	lived	yes
+no	adult	38.70	48.00	24.00	?	?	?	?	'alert no pain'	hypermotile	?	none	none	4.96	normal	?	34.00	63.00	?	2.95	lived	no
+no	adult	38.90	44.00	14.00	cool	normal	'normal pink'	'<3'	depressed	hypomotile	slight	?	?	4.96	?	other	33.00	64.00	?	2.95	lived	no
+yes	adult	39.30	70.76	30.52	cold	reduced	'dark cyanotic'	'>=3'	'intermittent severe pain	absent	slight	none	'<1l'	4.00	absent	'distended small intestin	75.00	24.77	serosanguinous	4.30	died	yes
+yes	adult	38.13	100.00	30.52	cool	reduced	'pale cyanotic'	'>=3'	?	absent	severe	slight	none	2.00	?	?	68.00	64.00	serosanguinous	2.00	lived	yes
+no	adult	38.60	48.00	20.00	cool	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	slight	slight	none	4.96	decreased	other	50.00	7.30	clear	2.95	lived	no
+no	adult	38.80	48.00	40.00	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	severe	slight	?	4.96	?	'distended large intestin	41.00	65.00	?	2.95	lived	yes
+no	adult	38.00	48.00	20.00	cool	reduced	'pale cyanotic'	'<3'	'alert no pain'	absent	slight	slight	?	5.00	?	other	49.00	8.30	clear	2.95	lived	no
+no	adult	38.60	52.00	20.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	none	4.96	normal	'firm feces in large inte	36.00	6.60	clear	5.00	lived	no
+yes	adult	37.80	60.00	24.00	normal	?	'pale pink'	'>=3'	?	absent	severe	slight	'<1l'	2.00	?	'distended large intestin	52.00	75.00	?	2.95	euthanized	yes
+no	adult	38.00	42.00	40.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	none	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	no
+no	adult	38.13	70.76	12.00	normal	normal	'bright pink'	'<3'	depressed	hypermotile	slight	significant	none	4.96	normal	'firm feces in large inte	44.00	7.50	cloudy	2.95	lived	no
+yes	adult	38.13	70.76	30.52	?	?	?	?	'intermittent severe pain	?	?	none	none	4.96	?	'distended large intestin	35.00	58.00	cloudy	1.00	lived	yes
+yes	adult	38.30	42.00	24.00	?	?	?	'<3'	?	?	?	?	?	4.96	?	?	40.00	8.50	?	2.95	died	yes
+no	adult	39.50	60.00	10.00	cool	?	?	'>=3'	'intermittent mild pain'	hypomotile	slight	slight	none	4.96	decreased	?	38.00	56.00	clear	2.95	lived	no
+yes	adult	38.00	66.00	20.00	normal	reduced	'pale pink'	'<3'	'continuous severe pain'	hypomotile	none	none	none	4.96	decreased	?	46.00	46.00	serosanguinous	2.00	euthanized	yes
+yes	adult	38.70	76.00	30.52	normal	normal	'bright red'	'>=3'	'intermittent mild pain'	hypomotile	slight	slight	'>1l'	4.96	absent	'distended small intestin	50.00	8.00	?	2.95	lived	yes
+yes	adult	39.40	120.00	48.00	?	?	'bright red'	'<3'	?	hypomotile	moderate	none	?	4.96	absent	?	56.00	64.00	clear	2.00	euthanized	no
+yes	adult	38.30	40.00	18.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	none	?	?	4.96	increased	normal	43.00	5.90	clear	2.95	lived	no
+no	adult	38.13	44.00	24.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	none	slight	none	4.96	?	normal	45.66	6.30	?	2.95	lived	no
+yes	adult	38.40	104.00	40.00	normal	normal	'pale pink'	'<3'	depressed	absent	slight	slight	'<1l'	6.50	?	'distended small intestin	55.00	8.50	?	2.95	lived	yes
+yes	adult	38.13	65.00	24.00	?	?	?	'>=3'	'continuous severe pain'	?	severe	significant	none	4.96	?	'distended large intestin	45.66	24.77	?	2.95	euthanized	yes
+no	adult	37.50	44.00	20.00	normal	normal	'pale pink'	'<3'	?	hypermotile	none	?	?	4.96	normal	?	35.00	7.20	?	2.95	lived	no
+no	adult	39.00	86.00	16.00	cool	reduced	'bright red'	?	'intermittent mild pain'	hypomotile	moderate	?	'>1l'	4.96	?	?	68.00	5.80	serosanguinous	6.00	died	yes
+yes	adult	38.50	129.00	48.00	cool	reduced	'pale pink'	'<3'	depressed	absent	moderate	none	'<1l'	2.00	?	?	57.00	66.00	serosanguinous	2.00	lived	yes
+yes	adult	38.13	104.00	30.52	cool	reduced	'bright red'	'>=3'	depressed	absent	moderate	?	'<1l'	4.96	absent	'distended small intestin	69.00	8.60	cloudy	3.40	died	yes
+no	adult	38.13	70.76	30.52	cool	absent	'dark cyanotic'	?	'intermittent severe pain	?	severe	?	?	4.96	?	?	45.66	24.77	?	2.95	died	yes
+yes	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	yes
+yes	adult	38.20	60.00	30.00	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	none	slight	none	4.96	decreased	other	48.00	66.00	?	2.95	lived	yes
+yes	adult	38.13	68.00	14.00	?	?	'pale cyanotic'	'<3'	'intermittent severe pain	?	?	?	none	4.30	?	?	45.66	24.77	cloudy	2.80	died	yes
+yes	adult	38.13	60.00	30.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	none	none	4.96	absent	?	45.00	70.00	serosanguinous	2.00	lived	yes
+no	adult	38.50	100.00	30.52	cool	reduced	'bright red'	'>=3'	'intermittent severe pain	hypomotile	severe	slight	none	4.96	absent	'distended large intestin	45.66	24.77	?	2.95	euthanized	no
+yes	adult	38.40	84.00	30.00	cool	normal	'bright red'	'>=3'	'intermittent severe pain	hypomotile	moderate	slight	'<1l'	6.50	absent	'distended small intestin	47.00	7.50	serosanguinous	2.95	died	yes
+no	adult	37.80	48.00	14.00	?	?	'normal pink'	'<3'	'intermittent mild pain'	?	slight	none	'<1l'	5.30	normal	?	35.00	7.50	?	2.95	lived	no
+yes	adult	38.00	70.76	24.00	cool	reduced	'dark cyanotic'	'>=3'	'continuous severe pain'	?	severe	none	none	4.96	?	?	68.00	7.80	?	2.95	died	yes
+no	adult	37.80	56.00	16.00	normal	normal	'bright pink'	'<3'	depressed	hypermotile	none	slight	none	4.96	normal	?	44.00	68.00	clear	1.00	lived	no
+no	adult	38.20	68.00	32.00	warm	increased	'bright pink'	'<3'	'alert no pain'	hypermotile	none	significant	none	4.96	normal	normal	43.00	65.00	?	2.95	lived	no
+yes	adult	38.50	120.00	60.00	cold	reduced	'dark cyanotic'	'>=3'	?	hypomotile	?	?	?	4.96	?	?	54.00	24.77	?	2.95	lived	yes
+yes	adult	39.30	64.00	90.00	warm	reduced	'normal pink'	'<3'	?	hypomotile	none	none	'>1l'	4.96	?	?	39.00	6.70	?	2.95	lived	yes
+yes	adult	38.40	80.00	30.00	cold	reduced	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	significant	'<1l'	4.96	absent	'distended large intestin	32.00	6.10	serosanguinous	4.30	lived	yes
+yes	adult	38.50	60.00	30.52	normal	normal	?	'<3'	?	hypermotile	none	?	?	4.96	?	?	33.00	53.00	clear	2.95	lived	yes
+yes	adult	38.30	60.00	16.00	cool	normal	'normal pink'	'<3'	depressed	hypermotile	none	slight	'>1l'	3.00	normal	'distended small intestin	30.00	6.00	clear	3.00	lived	yes
+yes	adult	37.10	40.00	8.00	?	normal	'pale cyanotic'	'<3'	'intermittent mild pain'	hypomotile	none	none	none	4.96	decreased	'firm feces in large inte	23.00	6.70	serosanguinous	2.95	lived	yes
+no	young	38.13	100.00	44.00	warm	normal	'normal pink'	'<3'	'intermittent severe pain	hypermotile	none	?	?	4.96	normal	?	37.00	4.70	?	2.95	lived	no
+yes	adult	38.20	48.00	18.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	none	'>1l'	4.96	absent	?	48.00	74.00	clear	2.00	lived	yes
+yes	adult	38.13	60.00	48.00	cool	reduced	'pale cyanotic'	'>=3'	'intermittent severe pain	hypomotile	severe	?	?	4.96	?	?	58.00	7.60	?	2.95	died	yes
+no	adult	37.90	88.00	24.00	normal	normal	'bright pink'	'<3'	depressed	normal	none	?	?	4.96	absent	normal	37.00	56.00	?	2.95	lived	no
+no	adult	38.00	44.00	12.00	cool	normal	'normal pink'	?	?	hypermotile	slight	?	?	4.96	normal	?	42.00	64.00	?	2.95	lived	no
+no	adult	38.50	60.00	20.00	normal	normal	'bright red'	'>=3'	depressed	normal	none	slight	none	4.96	increased	'firm feces in large inte	63.00	7.50	cloudy	2.30	euthanized	no
+no	adult	38.50	96.00	36.00	cool	reduced	?	'>=3'	depressed	absent	slight	none	'>1l'	4.96	absent	'distended large intestin	70.00	8.50	?	2.95	died	yes
+no	adult	38.30	60.00	20.00	normal	normal	'normal pink'	'>=3'	'alert no pain'	hypomotile	none	?	?	4.96	decreased	?	34.00	66.00	?	2.95	lived	no
+no	adult	38.50	60.00	40.00	cool	normal	'bright pink'	'<3'	depressed	hypermotile	slight	?	?	4.96	decreased	other	49.00	59.00	?	2.95	lived	no
+yes	adult	37.30	48.00	12.00	normal	?	'pale pink'	'<3'	'intermittent mild pain'	hypermotile	moderate	slight	none	4.96	decreased	'firm feces in large inte	40.00	6.60	cloudy	2.95	lived	yes
+yes	adult	38.50	86.00	30.52	normal	normal	'pale pink'	'<3'	'intermittent severe pain	absent	moderate	slight	none	4.96	decreased	'distended large intestin	45.00	7.40	clear	3.40	died	yes
+yes	adult	37.50	48.00	40.00	?	?	?	?	?	?	?	none	none	4.96	?	'distended large intestin	41.00	55.00	serosanguinous	2.00	euthanized	yes
+no	adult	37.20	36.00	9.00	normal	normal	'normal pink'	'<3'	depressed	hypomotile	none	slight	none	4.96	absent	normal	35.00	5.70	?	2.95	lived	no
+yes	adult	39.20	70.76	23.00	cool	normal	'pale pink'	'<3'	'intermittent severe pain	absent	slight	slight	?	4.96	?	?	36.00	6.60	clear	3.00	lived	yes
+no	adult	38.50	100.00	30.52	cool	reduced	'bright red'	'>=3'	'intermittent severe pain	hypomotile	severe	slight	none	4.96	absent	'distended large intestin	45.66	24.77	?	2.95	euthanized	no
+yes	adult	38.50	96.00	30.00	warm	reduced	'pale cyanotic'	'>=3'	'intermittent severe pain	absent	moderate	slight	none	4.96	decreased	'distended large intestin	50.00	65.00	?	2.95	lived	yes
+yes	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.00	8.70	?	2.95	died	yes
+yes	adult	37.80	88.00	80.00	cool	reduced	'bright red'	'>=3'	?	hypomotile	moderate	slight	'<1l'	4.96	absent	'distended large intestin	64.00	89.00	?	2.95	euthanized	yes
+no	adult	37.50	44.00	10.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	slight	slight	?	4.96	decreased	'firm feces in large inte	43.00	51.00	clear	1.00	lived	no
+yes	adult	37.90	68.00	20.00	?	normal	'bright pink'	'<3'	depressed	absent	slight	?	?	4.96	normal	'distended large intestin	45.00	4.00	serosanguinous	2.80	died	yes
+yes	adult	38.00	86.00	24.00	cold	reduced	'pale cyanotic'	'<3'	depressed	absent	severe	none	none	4.96	absent	'distended large intestin	45.00	5.50	clear	10.10	died	yes
+yes	young	38.90	120.00	30.00	normal	reduced	'bright pink'	'>=3'	'intermittent mild pain'	hypomotile	moderate	significant	none	3.00	?	?	47.00	6.30	clear	2.95	lived	no
+yes	adult	37.60	45.00	12.00	cool	normal	'pale pink'	'<3'	?	normal	slight	slight	none	4.96	normal	'distended small intestin	39.00	7.00	cloudy	1.50	lived	yes
+no	adult	38.60	56.00	32.00	warm	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	slight	?	4.96	increased	?	40.00	7.00	cloudy	2.10	lived	no
+yes	adult	37.80	40.00	12.00	normal	normal	'normal pink'	'<3'	'alert no pain'	normal	none	slight	none	4.96	normal	other	38.00	7.00	?	2.95	lived	yes
+no	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	no
+yes	adult	38.00	76.00	18.00	?	?	?	'>=3'	?	?	?	?	?	4.96	?	?	71.00	11.00	?	2.95	lived	yes
+yes	adult	38.10	40.00	36.00	normal	increased	'bright pink'	'<3'	depressed	normal	?	?	?	4.96	?	?	45.66	24.77	?	2.95	euthanized	yes
+yes	adult	38.13	52.00	28.00	cool	reduced	'pale cyanotic'	'<3'	'intermittent mild pain'	absent	moderate	slight	none	4.96	absent	'distended small intestin	37.00	8.10	?	2.95	lived	yes
+yes	adult	39.20	88.00	58.00	cold	absent	?	'>=3'	'continuous severe pain'	absent	?	?	?	4.96	?	?	45.66	24.77	cloudy	2.00	euthanized	no
+yes	adult	38.50	92.00	40.00	cold	reduced	?	'<3'	depressed	absent	moderate	?	?	4.96	absent	?	46.00	67.00	cloudy	2.00	lived	yes
+yes	adult	38.13	112.00	13.00	cold	absent	'pale cyanotic'	'<3'	depressed	hypomotile	none	slight	none	4.50	absent	'distended small intestin	60.00	6.30	serosanguinous	2.95	lived	yes
+yes	adult	37.70	66.00	12.00	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	slight	slight	?	4.96	absent	'distended small intestin	31.50	6.20	cloudy	1.60	lived	yes
+yes	adult	38.80	50.00	14.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	none	none	none	4.96	decreased	'distended large intestin	38.00	58.00	?	2.95	lived	yes
+no	adult	38.40	54.00	24.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	none	slight	none	4.96	decreased	other	49.00	7.20	clear	8.00	lived	no
+yes	adult	39.20	120.00	20.00	cold	reduced	'bright red'	'>=3'	depressed	hypomotile	moderate	none	'<1l'	4.96	?	'distended small intestin	60.00	8.80	serosanguinous	2.95	died	yes
+yes	young	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.00	6.50	cloudy	2.95	lived	yes
+yes	adult	37.30	90.00	40.00	cool	?	'dark cyanotic'	'>=3'	'continuous severe pain'	absent	moderate	slight	'>1l'	4.96	normal	'distended large intestin	65.00	50.00	serosanguinous	2.00	euthanized	yes
+yes	young	38.50	120.00	70.00	?	?	?	?	?	hypermotile	?	slight	?	4.96	normal	?	35.00	54.00	clear	1.00	lived	yes
+yes	adult	38.50	104.00	40.00	cool	reduced	?	'<3'	'intermittent severe pain	hypomotile	severe	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	yes
+no	adult	39.50	92.00	28.00	cool	reduced	'dark cyanotic'	'<3'	'continuous severe pain'	absent	none	?	'<1l'	4.96	absent	?	72.00	6.40	?	3.60	died	no
+yes	adult	38.50	30.00	18.00	?	?	?	?	?	?	?	?	?	4.96	?	?	40.00	7.70	?	2.95	lived	yes
+yes	adult	38.30	72.00	30.00	cold	reduced	'pale pink'	'>=3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	decreased	'distended large intestin	43.00	7.00	cloudy	3.90	lived	yes
+no	adult	37.50	48.00	30.00	cold	normal	'pale pink'	'<3'	?	normal	none	none	none	4.96	normal	normal	48.00	8.60	?	2.95	lived	no
+yes	adult	38.10	52.00	24.00	normal	normal	'bright red'	'<3'	'intermittent severe pain	hypomotile	none	slight	'<1l'	7.00	normal	?	54.00	7.50	cloudy	2.60	died	yes
+no	adult	38.20	42.00	26.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	slight	?	?	4.96	normal	?	36.00	6.90	?	2.95	lived	no
+no	adult	37.90	54.00	42.00	warm	normal	'bright red'	'<3'	'intermittent mild pain'	hypermotile	none	?	none	4.96	?	other	47.00	54.00	serosanguinous	1.00	lived	no
+no	adult	36.10	88.00	30.52	cool	reduced	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	slight	slight	'<1l'	4.96	?	'distended small intestin	45.00	7.00	serosanguinous	4.80	euthanized	yes
+yes	adult	38.10	70.00	22.00	?	normal	?	'<3'	'continuous severe pain'	hypomotile	?	?	?	4.96	?	'distended large intestin	36.00	65.00	?	2.95	euthanized	yes
+yes	adult	38.00	90.00	30.00	cold	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	?	?	4.96	absent	'distended large intestin	55.00	6.10	?	2.95	died	yes
+yes	adult	38.20	52.00	16.00	normal	normal	'bright pink'	'<3'	'alert no pain'	normal	none	none	none	4.96	normal	?	43.00	8.10	?	2.95	lived	no
+yes	adult	38.13	36.00	32.00	normal	normal	'pale cyanotic'	'<3'	'continuous severe pain'	hypomotile	moderate	slight	'<1l'	4.00	?	'distended small intestin	41.00	5.90	?	2.95	died	yes
+yes	adult	38.40	92.00	20.00	normal	?	?	'>=3'	?	hypomotile	moderate	?	?	4.96	normal	?	45.66	24.77	?	2.95	lived	yes
+yes	young	38.20	124.00	88.00	normal	reduced	'bright pink'	'<3'	depressed	hypomotile	severe	?	?	4.96	?	?	47.00	8.00	clear	2.95	lived	yes
+no	adult	38.13	96.00	30.52	cool	reduced	'pale pink'	'>=3'	'continuous severe pain'	absent	severe	?	none	4.96	absent	'distended large intestin	60.00	24.77	?	2.95	died	yes
+yes	adult	37.60	68.00	32.00	cool	?	'pale pink'	'<3'	'intermittent severe pain	normal	severe	slight	'>1l'	6.50	normal	'distended large intestin	47.00	7.20	clear	2.95	lived	yes
+yes	adult	38.10	88.00	24.00	cool	reduced	'pale cyanotic'	'<3'	'continuous severe pain'	absent	moderate	slight	none	4.96	decreased	'distended small intestin	41.00	4.60	?	2.95	died	yes
+yes	adult	38.00	108.00	60.00	warm	reduced	'pale cyanotic'	'<3'	'intermittent severe pain	hypomotile	moderate	slight	?	4.96	decreased	'distended small intestin	45.66	24.77	serosanguinous	2.95	lived	yes
+no	adult	38.20	48.00	30.52	warm	?	'normal pink'	'>=3'	'intermittent mild pain'	hypomotile	none	slight	none	4.96	?	other	34.00	6.60	?	2.95	lived	no
+yes	adult	39.30	100.00	51.00	cold	absent	'dark cyanotic'	'<3'	depressed	absent	none	none	'<1l'	2.00	?	'distended small intestin	66.00	13.00	serosanguinous	2.00	euthanized	yes
+no	adult	36.60	42.00	18.00	cool	reduced	'bright pink'	'<3'	'alert no pain'	absent	none	none	none	4.96	?	'distended large intestin	52.00	7.10	?	2.95	died	yes
+yes	young	38.80	124.00	36.00	cool	normal	'bright pink'	'<3'	depressed	hypomotile	severe	none	none	4.96	absent	'distended small intestin	50.00	7.60	serosanguinous	2.95	died	yes
+no	adult	38.13	112.00	24.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	slight	?	?	4.96	absent	?	40.00	5.30	serosanguinous	2.60	lived	no
+yes	adult	38.13	80.00	30.52	cool	reduced	'pale pink'	'<3'	'intermittent severe pain	absent	severe	?	?	4.96	absent	'distended large intestin	43.00	70.00	?	2.95	lived	yes
+yes	young	38.80	184.00	84.00	normal	?	'normal pink'	'<3'	'intermittent severe pain	hypermotile	moderate	?	?	4.96	increased	?	33.00	3.30	?	2.95	died	yes
+yes	adult	37.50	72.00	30.52	warm	normal	'normal pink'	'<3'	depressed	hypermotile	none	none	none	4.96	normal	?	35.00	65.00	cloudy	2.00	euthanized	yes
+yes	adult	38.70	96.00	28.00	cool	reduced	'pale cyanotic'	'<3'	?	absent	?	?	'<1l'	7.50	?	?	64.00	9.00	?	2.95	died	yes
+no	adult	37.50	52.00	12.00	normal	normal	'normal pink'	'<3'	depressed	hypomotile	slight	slight	none	4.96	decreased	'distended large intestin	36.00	61.00	clear	1.00	lived	no
+yes	adult	40.80	72.00	42.00	cool	reduced	'normal pink'	'<3'	depressed	hypomotile	none	slight	none	4.96	?	?	54.00	7.40	serosanguinous	2.95	died	yes
+no	adult	38.00	40.00	25.00	?	normal	'normal pink'	'<3'	'intermittent severe pain	hypomotile	slight	none	none	4.96	absent	?	37.00	69.00	?	2.95	lived	no
+no	adult	38.40	48.00	16.00	warm	normal	'normal pink'	'<3'	'alert no pain'	?	slight	slight	none	4.96	?	other	39.00	6.50	?	2.95	lived	no
+no	young	38.60	88.00	28.00	?	?	?	?	?	?	?	?	?	4.96	?	?	35.00	5.90	?	2.95	lived	no
+yes	adult	37.10	75.00	36.00	?	?	'pale pink'	'>=3'	'intermittent severe pain	absent	slight	slight	'<1l'	5.00	absent	'distended small intestin	48.00	7.40	serosanguinous	3.20	died	yes
+yes	adult	38.30	44.00	21.00	cool	normal	'bright pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	slight	none	4.96	normal	'distended large intestin	44.00	6.50	cloudy	4.40	lived	yes
+no	adult	38.13	56.00	68.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	none	slight	none	4.96	normal	?	40.00	6.00	?	2.95	euthanized	yes
+no	adult	38.60	68.00	20.00	warm	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	none	4.96	normal	'distended large intestin	38.00	6.50	clear	2.95	lived	no
+no	adult	38.30	54.00	18.00	cool	normal	'bright pink'	'<3'	depressed	hypomotile	slight	?	'<1l'	5.40	?	'distended small intestin	44.00	7.20	serosanguinous	2.95	lived	no
+yes	adult	38.20	42.00	20.00	?	?	'normal pink'	'<3'	?	hypomotile	?	?	?	4.96	decreased	?	47.00	60.00	?	2.95	lived	no
+yes	adult	39.30	64.00	90.00	warm	reduced	'normal pink'	'<3'	?	hypomotile	none	none	'>1l'	6.50	normal	'distended large intestin	39.00	6.70	?	2.95	lived	yes
+yes	adult	37.50	60.00	50.00	cool	reduced	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	slight	'>1l'	3.50	decreased	'distended small intestin	35.00	6.50	?	2.95	died	yes
+yes	adult	37.70	80.00	30.52	cool	reduced	'dark cyanotic'	'<3'	'continuous severe pain'	absent	none	slight	'<1l'	4.96	decreased	normal	50.00	55.00	serosanguinous	2.00	lived	yes
+yes	adult	38.13	100.00	30.00	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	significant	'<1l'	4.96	absent	'distended small intestin	52.00	6.60	?	2.95	lived	yes
+yes	adult	37.70	120.00	28.00	cool	reduced	'pale pink'	'<3'	'continuous severe pain'	hypomotile	moderate	none	none	4.96	?	?	65.00	7.00	serosanguinous	2.95	died	yes
+yes	adult	38.13	76.00	30.52	?	reduced	?	?	?	absent	severe	?	?	4.96	?	'distended large intestin	45.66	24.77	?	2.95	euthanized	yes
+yes	young	38.80	150.00	50.00	normal	reduced	'dark cyanotic'	'>=3'	'continuous severe pain'	hypomotile	slight	none	none	4.96	?	?	50.00	6.20	?	2.95	died	yes
+yes	adult	38.00	36.00	16.00	cool	normal	'normal pink'	'<3'	'intermittent severe pain	normal	slight	significant	'<1l'	2.00	decreased	?	37.00	75.00	cloudy	1.00	euthanized	no
+no	adult	36.90	50.00	40.00	warm	reduced	'pale pink'	'<3'	'alert no pain'	hypomotile	slight	significant	none	7.00	?	?	37.50	6.50	?	2.95	lived	no
+no	adult	37.80	40.00	16.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	?	?	4.96	normal	normal	37.00	6.80	?	2.95	lived	no
+no	adult	38.20	56.00	40.00	cold	reduced	'normal pink'	'<3'	depressed	absent	moderate	slight	'>1l'	7.50	?	?	47.00	7.20	clear	2.50	lived	no
+yes	adult	38.60	48.00	12.00	?	?	'normal pink'	?	'alert no pain'	hypermotile	?	?	?	4.96	?	?	36.00	67.00	?	2.95	lived	no
+no	adult	40.00	78.00	30.52	cool	reduced	'bright red'	'<3'	depressed	hypomotile	none	none	none	4.96	absent	normal	66.00	6.50	?	2.95	died	yes
+yes	adult	38.13	70.00	16.00	cool	absent	'bright red'	'>=3'	depressed	hypomotile	slight	slight	none	4.96	absent	'distended large intestin	60.00	7.50	?	2.95	died	yes
+yes	adult	38.20	72.00	18.00	?	?	?	?	?	?	?	?	?	4.96	?	?	35.00	6.40	?	2.95	lived	yes
+no	adult	38.50	54.00	30.52	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypermotile	none	slight	none	4.96	normal	?	40.00	6.80	cloudy	7.00	lived	no
+yes	adult	38.50	66.00	24.00	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	none	slight	none	4.96	absent	'distended large intestin	40.00	6.70	clear	2.95	lived	yes
+no	adult	37.80	82.00	12.00	cool	normal	'normal pink'	'>=3'	'intermittent severe pain	?	moderate	none	'<1l'	4.96	?	?	50.00	7.00	?	2.95	euthanized	yes
+no	young	39.50	84.00	30.00	?	?	?	'<3'	?	?	?	?	?	4.96	?	?	28.00	5.00	?	2.95	lived	no
+yes	adult	38.13	70.76	30.52	?	?	?	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	lived	yes
+yes	adult	38.00	50.00	36.00	?	normal	'normal pink'	'<3'	'intermittent mild pain'	normal	slight	?	?	4.96	decreased	?	39.00	6.60	clear	5.30	lived	yes
+no	adult	38.60	45.00	16.00	warm	normal	'bright pink'	'<3'	'alert no pain'	hypermotile	?	?	?	4.96	normal	normal	43.00	58.00	?	2.95	lived	no
+yes	adult	38.90	80.00	44.00	cool	reduced	'pale pink'	'<3'	depressed	hypomotile	moderate	slight	'>1l'	7.00	decreased	normal	54.00	6.50	serosanguinous	2.95	died	yes
+yes	adult	37.00	66.00	20.00	normal	reduced	'bright pink'	'<3'	'intermittent severe pain	hypomotile	moderate	none	?	4.96	normal	'distended large intestin	35.00	6.90	cloudy	2.95	died	yes
+yes	adult	38.13	78.00	24.00	cool	reduced	'pale pink'	'<3'	?	hypomotile	?	slight	none	4.96	?	'distended small intestin	43.00	62.00	?	2.00	euthanized	no
+no	adult	38.50	40.00	16.00	normal	normal	'normal pink'	'<3'	depressed	hypermotile	none	?	?	4.96	decreased	other	37.00	67.00	?	2.95	lived	no
+yes	adult	38.13	120.00	70.00	cold	?	'pale cyanotic'	'>=3'	depressed	absent	?	?	?	4.96	?	'distended large intestin	55.00	65.00	?	2.95	euthanized	no
+no	adult	37.20	72.00	24.00	cool	increased	'pale cyanotic'	'>=3'	'intermittent severe pain	hypomotile	moderate	significant	none	4.96	absent	'distended small intestin	44.00	24.77	serosanguinous	3.30	euthanized	yes
+yes	adult	37.50	72.00	30.00	cold	reduced	'pale cyanotic'	'<3'	'intermittent severe pain	absent	moderate	slight	none	4.96	decreased	'distended large intestin	60.00	6.80	?	2.95	died	yes
+yes	adult	36.50	100.00	24.00	cool	reduced	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	significant	none	4.96	absent	'distended small intestin	50.00	6.00	serosanguinous	3.40	lived	yes
+yes	adult	37.20	40.00	20.00	?	?	?	?	?	?	?	?	?	4.96	absent	normal	36.00	62.00	clear	1.00	euthanized	no
+no	adult	38.50	54.00	20.00	?	normal	'bright pink'	'>=3'	'intermittent mild pain'	absent	none	slight	'>1l'	5.90	?	other	42.00	6.30	?	2.95	lived	no
+no	adult	37.60	48.00	36.00	?	?	'normal pink'	'<3'	?	hypomotile	?	?	?	4.96	?	?	44.00	6.30	clear	5.00	lived	no
+yes	adult	37.70	44.00	28.00	?	absent	'pale pink'	'>=3'	'continuous severe pain'	absent	severe	none	none	4.96	decreased	'distended large intestin	45.00	70.00	serosanguinous	2.00	lived	yes
+yes	adult	37.00	56.00	24.00	cool	normal	'pale cyanotic'	'>=3'	'intermittent severe pain	absent	moderate	none	none	4.96	?	?	35.00	61.00	serosanguinous	2.00	euthanized	no
+no	adult	38.00	42.00	12.00	cool	?	'pale pink'	'<3'	'alert no pain'	?	none	?	?	4.96	?	other	37.00	5.80	?	2.95	lived	no
+yes	adult	38.13	60.00	40.00	cool	?	'normal pink'	'<3'	?	absent	?	significant	'>1l'	4.96	?	'distended large intestin	42.00	72.00	?	2.95	lived	yes
+no	adult	38.40	80.00	60.00	cool	increased	'bright pink'	'<3'	'intermittent mild pain'	normal	none	slight	'>1l'	4.96	normal	normal	54.00	6.90	?	2.95	lived	no
+no	adult	37.80	48.00	12.00	warm	normal	'bright pink'	'<3'	'intermittent mild pain'	?	none	slight	?	4.96	increased	?	48.00	7.30	clear	2.95	lived	no
+?	adult	38.00	65.00	40.00	?	normal	'pale cyanotic'	'>=3'	depressed	?	?	?	?	4.96	?	'distended large intestin	45.66	24.77	?	2.95	?	yes
+no	adult	37.90	45.00	36.00	cool	reduced	'pale pink'	'>=3'	depressed	hypomotile	none	slight	none	4.96	decreased	?	33.00	5.70	serosanguinous	2.95	lived	yes
+no	adult	39.00	84.00	12.00	cool	normal	'bright red'	'<3'	depressed	absent	slight	none	'>1l'	7.00	?	'distended small intestin	62.00	5.90	cloudy	2.20	died	yes
+no	adult	38.20	60.00	24.00	cool	normal	'pale pink'	'>=3'	'intermittent mild pain'	hypomotile	slight	significant	'<1l'	4.96	absent	'distended small intestin	53.00	7.50	cloudy	1.40	lived	no
+yes	adult	38.13	140.00	30.52	?	?	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	none	none	4.96	?	'distended large intestin	30.00	69.00	?	2.95	died	no
+yes	adult	37.90	120.00	60.00	cool	reduced	'pale pink'	'<3'	'continuous severe pain'	absent	severe	slight	'>1l'	7.50	absent	'distended large intestin	52.00	6.60	serosanguinous	1.80	died	yes
+no	adult	38.00	72.00	36.00	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	?	slight	slight	none	4.96	decreased	'distended large intestin	38.00	6.80	cloudy	2.00	lived	no
+no	young	38.00	92.00	28.00	normal	normal	'bright pink'	'<3'	'alert no pain'	hypomotile	slight	significant	?	7.20	?	?	37.00	6.10	clear	1.10	lived	no
+yes	adult	38.30	66.00	30.00	warm	reduced	'normal pink'	'<3'	depressed	absent	moderate	significant	'>1l'	8.50	absent	'distended large intestin	37.00	6.00	?	2.95	lived	yes
+no	adult	37.50	48.00	24.00	cool	normal	'normal pink'	'<3'	depressed	hypermotile	?	none	none	4.96	decreased	other	43.00	6.00	clear	2.80	lived	no
+yes	adult	37.50	88.00	20.00	warm	reduced	'pale pink'	'<3'	'intermittent severe pain	hypomotile	moderate	?	?	4.96	?	?	35.00	6.40	clear	2.95	died	yes
+no	young	38.13	150.00	60.00	cold	absent	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	severe	?	?	4.96	?	?	45.66	24.77	?	2.95	died	yes
+yes	adult	39.70	100.00	30.00	?	?	'dark cyanotic'	'>=3'	'intermittent severe pain	absent	moderate	none	?	4.96	absent	'distended large intestin	65.00	75.00	?	2.95	euthanized	yes
+yes	adult	38.30	80.00	30.52	cool	reduced	'pale cyanotic'	'>=3'	'continuous severe pain'	absent	moderate	slight	none	4.96	absent	'distended small intestin	45.00	7.50	cloudy	4.60	lived	yes
+no	adult	37.50	40.00	32.00	cool	normal	'pale pink'	'<3'	'intermittent mild pain'	normal	moderate	slight	none	4.96	?	'distended large intestin	32.00	6.40	clear	1.10	lived	yes
+yes	adult	38.40	84.00	30.00	cool	normal	'bright red'	'>=3'	'intermittent severe pain	hypomotile	moderate	slight	'<1l'	6.50	absent	'distended small intestin	47.00	7.50	serosanguinous	2.95	died	yes
+yes	adult	38.10	84.00	44.00	cold	?	'pale cyanotic'	'>=3'	'continuous severe pain'	hypomotile	none	none	'<1l'	5.00	?	'distended small intestin	60.00	6.80	?	5.70	died	yes
+no	adult	38.70	52.00	30.52	normal	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	none	?	?	4.96	normal	'firm feces in large inte	4.00	74.00	?	2.95	lived	no
+no	adult	38.10	44.00	40.00	warm	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	none	?	?	4.96	normal	'firm feces in large inte	35.00	6.80	?	2.95	lived	no
+no	adult	38.40	52.00	20.00	warm	normal	'pale pink'	'<3'	'alert no pain'	hypomotile	slight	slight	none	4.96	decreased	'distended large intestin	41.00	63.00	clear	1.00	lived	no
+yes	adult	38.20	60.00	30.52	normal	?	'pale pink'	'<3'	depressed	hypermotile	none	none	none	4.96	absent	'distended small intestin	43.00	6.20	cloudy	3.90	lived	yes
+no	adult	37.70	40.00	18.00	normal	normal	'normal pink'	?	'intermittent mild pain'	normal	none	none	none	4.96	decreased	'firm feces in large inte	36.00	3.50	?	2.95	lived	no
+yes	adult	39.10	60.00	10.00	?	normal	'normal pink'	?	depressed	hypomotile	?	?	?	4.96	absent	'distended small intestin	45.66	24.77	?	2.95	lived	yes
+no	adult	37.80	48.00	16.00	normal	normal	'normal pink'	'<3'	?	hypermotile	none	slight	none	4.96	absent	'firm feces in large inte	43.00	7.50	?	2.95	lived	no
+yes	adult	39.00	120.00	30.52	cold	reduced	'bright red'	'>=3'	depressed	absent	moderate	slight	'<1l'	8.00	?	?	65.00	8.20	serosanguinous	4.60	lived	no
+yes	adult	38.20	76.00	30.52	warm	reduced	'bright pink'	'<3'	'continuous severe pain'	hypomotile	moderate	none	'>1l'	6.00	normal	'distended large intestin	35.00	6.50	cloudy	0.90	lived	yes
+no	adult	38.30	88.00	30.52	?	?	'dark cyanotic'	?	?	?	?	?	?	4.96	?	?	45.66	24.77	?	2.95	died	no
+yes	adult	38.00	80.00	30.00	cool	reduced	'pale pink'	'<3'	?	?	?	?	?	6.00	?	?	48.00	8.30	?	4.30	lived	yes
+yes	adult	38.13	70.76	30.52	cool	normal	'normal pink'	'<3'	depressed	hypomotile	moderate	none	'<1l'	6.00	absent	'distended small intestin	45.66	24.77	cloudy	2.95	died	yes
+yes	adult	37.60	40.00	30.52	normal	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	none	?	?	4.96	normal	normal	45.66	24.77	cloudy	2.10	lived	yes
+no	adult	37.50	44.00	30.52	normal	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	?	?	4.96	?	?	45.00	5.80	cloudy	1.40	lived	no
+no	adult	38.20	42.00	16.00	normal	normal	'pale pink'	'<3'	'alert no pain'	hypomotile	none	?	?	4.96	normal	?	35.00	60.00	clear	1.00	lived	no
+no	adult	38.00	56.00	44.00	cool	reduced	'pale pink'	?	?	hypermotile	none	slight	none	4.96	absent	?	47.00	70.00	cloudy	1.00	lived	no
+no	adult	38.30	45.00	20.00	cool	reduced	'bright pink'	'>=3'	depressed	absent	none	slight	?	4.96	absent	?	45.66	24.77	?	2.95	lived	no
+yes	adult	38.13	48.00	96.00	normal	normal	'pale pink'	'<3'	?	absent	none	slight	none	4.96	normal	'distended small intestin	42.00	8.00	clear	2.95	lived	yes
+yes	adult	37.70	55.00	28.00	warm	normal	'bright pink'	'<3'	depressed	hypomotile	moderate	?	'<1l'	5.00	absent	'distended large intestin	45.66	24.77	?	2.95	lived	yes
+no	adult	36.00	100.00	20.00	cold	reduced	'dark cyanotic'	'>=3'	depressed	absent	moderate	none	none	4.96	absent	'distended large intestin	74.00	5.70	cloudy	2.50	euthanized	yes
+yes	adult	37.10	60.00	20.00	warm	?	'pale cyanotic'	'<3'	'intermittent mild pain'	?	moderate	?	'>1l'	5.00	decreased	'distended small intestin	64.00	8.50	cloudy	2.95	lived	yes
+no	adult	37.10	114.00	40.00	cool	?	'pale pink'	'>=3'	depressed	normal	none	?	?	4.96	?	'firm feces in large inte	32.00	24.77	serosanguinous	6.50	lived	no
+yes	adult	38.10	72.00	30.00	cool	reduced	'pale pink'	'<3'	'intermittent severe pain	absent	moderate	slight	none	4.96	decreased	'distended large intestin	37.00	56.00	serosanguinous	1.00	lived	yes
+yes	adult	37.00	44.00	12.00	cool	normal	'normal pink'	'>=3'	'alert no pain'	hypermotile	none	?	?	4.96	absent	other	40.00	6.70	serosanguinous	8.00	lived	yes
+yes	adult	38.60	48.00	20.00	cool	normal	'normal pink'	'<3'	'intermittent severe pain	hypomotile	none	?	?	4.96	decreased	?	37.00	75.00	?	2.95	lived	yes
+yes	adult	38.13	82.00	72.00	cool	normal	'pale cyanotic'	'<3'	depressed	hypomotile	moderate	?	'<1l'	4.96	absent	'distended small intestin	53.00	65.00	serosanguinous	2.00	euthanized	yes
+yes	young	38.20	78.00	60.00	cold	absent	'dark cyanotic'	?	'intermittent mild pain'	hypomotile	moderate	?	?	4.96	normal	?	59.00	5.80	serosanguinous	3.10	died	yes
+no	adult	37.80	60.00	16.00	normal	normal	'pale pink'	'<3'	depressed	hypomotile	slight	none	'>1l'	4.96	decreased	?	41.00	73.00	?	2.95	euthanized	no
+yes	adult	38.70	34.00	30.00	warm	?	'pale pink'	'<3'	depressed	hypomotile	?	?	?	4.96	?	?	33.00	69.00	?	2.00	euthanized	yes
+yes	adult	38.13	36.00	12.00	normal	normal	'normal pink'	'<3'	'alert no pain'	normal	none	none	none	4.96	normal	'distended large intestin	44.00	24.77	?	2.95	lived	yes
+no	adult	38.30	44.00	60.00	?	?	'normal pink'	'<3'	?	?	?	?	?	4.96	?	?	6.40	36.00	?	2.95	lived	yes
+no	adult	37.40	54.00	18.00	cool	?	'normal pink'	'<3'	'intermittent mild pain'	absent	moderate	slight	'>1l'	4.96	absent	'distended large intestin	30.00	7.10	cloudy	2.95	lived	yes
+yes	adult	38.13	70.76	30.52	cold	reduced	?	'>=3'	depressed	absent	none	?	?	4.96	?	?	54.00	76.00	serosanguinous	2.00	lived	yes
+yes	adult	36.60	48.00	16.00	cool	normal	'pale pink'	'<3'	'intermittent severe pain	hypermotile	none	none	none	4.96	?	?	27.00	56.00	?	2.95	euthanized	yes
+yes	adult	38.50	90.00	30.52	normal	normal	'pale pink'	'<3'	'intermittent mild pain'	hypomotile	moderate	slight	'<1l'	2.00	absent	'distended large intestin	47.00	79.00	?	2.95	lived	yes
+yes	adult	38.13	75.00	12.00	normal	normal	'pale cyanotic'	'<3'	'continuous severe pain'	hypomotile	moderate	?	'<1l'	5.80	?	?	58.00	8.50	clear	2.95	lived	yes
+no	adult	38.20	42.00	30.52	cool	normal	'normal pink'	'<3'	'alert no pain'	hypermotile	slight	slight	none	4.96	decreased	other	35.00	5.90	cloudy	2.95	lived	no
+yes	young	38.20	78.00	60.00	cold	absent	'dark cyanotic'	?	'intermittent mild pain'	hypomotile	moderate	?	?	4.96	normal	?	59.00	5.80	serosanguinous	3.10	died	yes
+no	adult	38.60	60.00	30.00	normal	normal	'pale pink'	'<3'	'intermittent severe pain	normal	slight	none	none	4.96	?	?	40.00	6.00	clear	2.95	lived	yes
+no	adult	37.80	42.00	40.00	normal	normal	'normal pink'	'<3'	'alert no pain'	hypomotile	none	?	?	4.96	decreased	'firm feces in large inte	36.00	6.20	?	2.95	lived	no
+yes	adult	38.00	60.00	12.00	normal	normal	'bright pink'	'<3'	depressed	hypermotile	none	none	none	4.96	normal	'distended small intestin	44.00	65.00	serosanguinous	2.00	euthanized	yes
+no	adult	38.00	42.00	12.00	cool	?	'pale pink'	'<3'	'alert no pain'	hypermotile	none	?	?	4.96	?	normal	37.00	5.80	?	2.95	lived	no
+no	adult	37.60	88.00	36.00	cool	normal	'normal pink'	'<3'	'intermittent mild pain'	hypomotile	slight	none	'<1l'	1.50	?	?	44.00	6.00	?	2.95	died	yes

@@ -1,0 +1,6 @@
+temperature	cloudiness	weatherreport	result
+90	very	0	TRUE
+90	somewhat	0	FALSE
+85	none	0	FALSE
+85	very	1	TRUE
+70	very	1	TRUE
