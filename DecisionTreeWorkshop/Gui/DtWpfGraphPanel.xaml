@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="DtWorkshop.DtWpfGraphPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:DtWorkshop"
+    Height="300" Width="300">
+    <DockPanel>
+        <Slider Height="128" Name="canvasZoomer" Width="29" Orientation="Vertical" VerticalAlignment="Top" TickPlacement="BottomRight" Margin="10" Minimum="0.1" Maximum="5" Value="1" />
+        <ScrollViewer Name="canvasViewer" Background="White" DockPanel.Dock="Right" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <my:DtTreeCanvas Height="Auto" x:Name="treeCanvas" Width="Auto" Margin="10" />
+        </ScrollViewer>
+    </DockPanel>
+</UserControl>

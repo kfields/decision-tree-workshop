@@ -1,0 +1,1001 @@
+checking_status	duration	credit_history	purpose	credit_amount	savings_status	employment	installment_commitment	personal_status	other_parties	residence_since	property_magnitude	age	other_payment_plans	housing	existing_credits	job	num_dependents	own_telephone	foreign_worker	class
+'<0'	6.00	'critical/other existing 	radio/tv	1169.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'real estate'	67.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	48.00	'existing paid'	radio/tv	5951.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	'real estate'	22.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	education	2096.00	'<100'	'4<=X<7'	2.00	'male single'	none	3.00	'real estate'	49.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'<0'	42.00	'existing paid'	furniture/equipment	7882.00	'<100'	'4<=X<7'	2.00	'male single'	guarantor	4.00	'life insurance'	45.00	none	'for free'	1.00	skilled	2.00	none	yes	good
+'<0'	24.00	'delayed previously'	'new car'	4870.00	'<100'	'1<=X<4'	3.00	'male single'	none	4.00	'no known property'	53.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'no checking'	36.00	'existing paid'	education	9055.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	4.00	'no known property'	35.00	none	'for free'	1.00	'unskilled resident'	2.00	yes	yes	good
+'no checking'	24.00	'existing paid'	furniture/equipment	2835.00	'500<=X<1000'	'>=7'	3.00	'male single'	none	4.00	'life insurance'	53.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	'used car'	6948.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	35.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	3059.00	'>=1000'	'4<=X<7'	2.00	'male div/sep'	none	4.00	'real estate'	61.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	30.00	'critical/other existing 	'new car'	5234.00	'<100'	unemployed	4.00	'male mar/wid'	none	2.00	car	28.00	none	own	2.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'0<=X<200'	12.00	'existing paid'	'new car'	1295.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	1.00	car	25.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	48.00	'existing paid'	business	4308.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'existing paid'	radio/tv	1567.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	car	22.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'critical/other existing 	'new car'	1199.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	60.00	none	own	2.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	15.00	'existing paid'	'new car'	1403.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	28.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	radio/tv	1282.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	32.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	radio/tv	2424.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	53.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	30.00	'no credits/all paid'	business	8072.00	'no known savings'	'<1'	2.00	'male single'	none	3.00	car	25.00	bank	own	3.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	'used car'	12579.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	2.00	'no known property'	44.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	24.00	'existing paid'	radio/tv	3430.00	'500<=X<1000'	'>=7'	3.00	'male single'	none	2.00	car	31.00	none	own	1.00	skilled	2.00	yes	yes	good
+'no checking'	9.00	'critical/other existing 	'new car'	2134.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	car	48.00	none	own	3.00	skilled	1.00	yes	yes	good
+'<0'	6.00	'existing paid'	radio/tv	2647.00	'500<=X<1000'	'1<=X<4'	2.00	'male single'	none	3.00	'real estate'	44.00	none	rent	1.00	skilled	2.00	none	yes	good
+'<0'	10.00	'critical/other existing 	'new car'	2241.00	'<100'	'<1'	1.00	'male single'	none	3.00	'real estate'	48.00	none	rent	2.00	'unskilled resident'	2.00	none	no	good
+'0<=X<200'	12.00	'critical/other existing 	'used car'	1804.00	'100<=X<500'	'<1'	3.00	'male single'	none	4.00	'life insurance'	44.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	10.00	'critical/other existing 	furniture/equipment	2069.00	'no known savings'	'1<=X<4'	2.00	'male mar/wid'	none	1.00	car	26.00	none	own	2.00	skilled	1.00	none	no	good
+'<0'	6.00	'existing paid'	furniture/equipment	1374.00	'<100'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	36.00	bank	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'no checking'	6.00	'no credits/all paid'	radio/tv	426.00	'<100'	'>=7'	4.00	'male mar/wid'	none	4.00	car	39.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'>=200'	12.00	'all paid'	radio/tv	409.00	'>=1000'	'1<=X<4'	3.00	'female div/dep/mar'	none	3.00	'real estate'	42.00	none	rent	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	7.00	'existing paid'	radio/tv	2415.00	'<100'	'1<=X<4'	3.00	'male single'	guarantor	2.00	'real estate'	34.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	60.00	'delayed previously'	business	6836.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	63.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	18.00	'existing paid'	business	1913.00	'>=1000'	'<1'	3.00	'male mar/wid'	none	3.00	'real estate'	36.00	bank	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'existing paid'	furniture/equipment	4020.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	27.00	stores	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	'new car'	5866.00	'100<=X<500'	'1<=X<4'	2.00	'male single'	none	2.00	car	30.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	business	1264.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	57.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'>=200'	12.00	'existing paid'	furniture/equipment	1474.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	33.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	45.00	'critical/other existing 	radio/tv	4746.00	'<100'	'<1'	4.00	'male single'	none	2.00	'life insurance'	25.00	none	own	2.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	48.00	'critical/other existing 	education	6110.00	'<100'	'1<=X<4'	1.00	'male single'	none	3.00	'no known property'	31.00	bank	'for free'	1.00	skilled	1.00	yes	yes	good
+'>=200'	18.00	'existing paid'	radio/tv	2100.00	'<100'	'1<=X<4'	4.00	'male single'	'co applicant'	2.00	'real estate'	37.00	stores	own	1.00	skilled	1.00	none	yes	bad
+'>=200'	10.00	'existing paid'	'domestic appliance'	1225.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	37.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	9.00	'existing paid'	radio/tv	458.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	'real estate'	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	30.00	'existing paid'	radio/tv	2333.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	2.00	car	30.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1158.00	'500<=X<1000'	'1<=X<4'	3.00	'male div/sep'	none	1.00	car	26.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'delayed previously'	repairs	6204.00	'<100'	'1<=X<4'	2.00	'male single'	none	4.00	'real estate'	44.00	none	own	1.00	'unskilled resident'	2.00	yes	yes	good
+'<0'	30.00	'critical/other existing 	'used car'	6187.00	'100<=X<500'	'4<=X<7'	1.00	'male mar/wid'	none	4.00	car	24.00	none	rent	2.00	skilled	1.00	none	yes	good
+'<0'	48.00	'critical/other existing 	'used car'	6143.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'no known property'	58.00	stores	'for free'	2.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	11.00	'critical/other existing 	'new car'	1393.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	car	35.00	none	own	2.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'no checking'	36.00	'existing paid'	radio/tv	2299.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	4.00	car	39.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'existing paid'	'used car'	1352.00	'500<=X<1000'	unemployed	1.00	'female div/dep/mar'	none	2.00	'life insurance'	23.00	none	rent	1.00	'unemp/unskilled non res'	1.00	yes	yes	good
+'no checking'	11.00	'critical/other existing 	'new car'	7228.00	'<100'	'1<=X<4'	1.00	'male single'	none	4.00	'life insurance'	39.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	2073.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	'co applicant'	2.00	'real estate'	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'delayed previously'	furniture/equipment	2333.00	'no known savings'	'<1'	4.00	'male single'	none	2.00	'life insurance'	29.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	27.00	'delayed previously'	'used car'	5965.00	'<100'	'>=7'	1.00	'male single'	none	2.00	car	30.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	1262.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	car	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	'used car'	3378.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	1.00	'life insurance'	31.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	36.00	'delayed previously'	'new car'	2225.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	57.00	bank	'for free'	2.00	skilled	1.00	yes	yes	bad
+'no checking'	6.00	'all paid'	'new car'	783.00	'no known savings'	'1<=X<4'	1.00	'male single'	guarantor	2.00	'real estate'	26.00	stores	own	1.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	6468.00	'no known savings'	unemployed	2.00	'male single'	none	1.00	'no known property'	52.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	36.00	'critical/other existing 	radio/tv	9566.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	car	31.00	stores	own	2.00	skilled	1.00	none	yes	good
+'>=200'	18.00	'existing paid'	'new car'	1961.00	'<100'	'>=7'	3.00	'female div/dep/mar'	none	2.00	car	23.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	36.00	'critical/other existing 	furniture/equipment	6229.00	'<100'	'<1'	4.00	'female div/dep/mar'	'co applicant'	4.00	'no known property'	23.00	none	rent	2.00	'unskilled resident'	1.00	yes	yes	bad
+'0<=X<200'	9.00	'existing paid'	business	1391.00	'<100'	'1<=X<4'	2.00	'male mar/wid'	none	1.00	'real estate'	27.00	bank	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	15.00	'critical/other existing 	radio/tv	1537.00	'no known savings'	'>=7'	4.00	'male single'	guarantor	4.00	'real estate'	50.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	36.00	'no credits/all paid'	business	1953.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	61.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	48.00	'no credits/all paid'	business	14421.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	25.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	24.00	'existing paid'	radio/tv	3181.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	26.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	27.00	'existing paid'	repairs	5190.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	48.00	none	own	4.00	skilled	2.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	2171.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	2.00	car	29.00	bank	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	1007.00	'>=1000'	'1<=X<4'	4.00	'male mar/wid'	none	1.00	'real estate'	22.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'existing paid'	education	1819.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	37.00	stores	'for free'	1.00	skilled	1.00	yes	yes	bad
+'no checking'	36.00	'existing paid'	radio/tv	2394.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'existing paid'	'used car'	8133.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	'life insurance'	30.00	bank	own	1.00	skilled	1.00	none	yes	good
+'no checking'	7.00	'critical/other existing 	radio/tv	730.00	'no known savings'	'>=7'	4.00	'male single'	none	2.00	'life insurance'	46.00	none	rent	2.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	8.00	'critical/other existing 	other	1164.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	51.00	bank	'for free'	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'0<=X<200'	42.00	'critical/other existing 	business	5954.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	none	1.00	'real estate'	41.00	bank	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	36.00	'existing paid'	education	1977.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	40.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	12.00	'critical/other existing 	'used car'	1526.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	66.00	none	'for free'	2.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	42.00	'existing paid'	radio/tv	3965.00	'<100'	'<1'	4.00	'male single'	none	3.00	car	34.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	11.00	'delayed previously'	radio/tv	4771.00	'<100'	'4<=X<7'	2.00	'male single'	none	4.00	'life insurance'	51.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	54.00	'no credits/all paid'	'used car'	9436.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	2.00	'life insurance'	39.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	30.00	'existing paid'	furniture/equipment	3832.00	'<100'	'<1'	2.00	'male mar/wid'	none	1.00	'life insurance'	22.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	5943.00	'no known savings'	'<1'	1.00	'female div/dep/mar'	none	1.00	car	44.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'no checking'	15.00	'existing paid'	radio/tv	1213.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	3.00	'life insurance'	47.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	18.00	'existing paid'	business	1568.00	'100<=X<500'	'1<=X<4'	3.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	24.00	'existing paid'	other	1755.00	'<100'	'>=7'	4.00	'female div/dep/mar'	guarantor	4.00	'real estate'	58.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	10.00	'existing paid'	radio/tv	2315.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'real estate'	52.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	business	1412.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	guarantor	2.00	'real estate'	29.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	furniture/equipment	1295.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	education	12612.00	'100<=X<500'	'1<=X<4'	1.00	'male single'	none	4.00	'no known property'	47.00	none	'for free'	1.00	skilled	2.00	yes	yes	bad
+'<0'	18.00	'existing paid'	'new car'	2249.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	3.00	car	30.00	none	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'<0'	12.00	'no credits/all paid'	repairs	1108.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	'real estate'	28.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	radio/tv	618.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	56.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'critical/other existing 	'used car'	1409.00	'<100'	'>=7'	4.00	'male single'	none	3.00	'real estate'	54.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	797.00	'no known savings'	'>=7'	4.00	'female div/dep/mar'	none	3.00	'life insurance'	33.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'>=200'	24.00	'critical/other existing 	furniture/equipment	3617.00	'no known savings'	'>=7'	4.00	'male single'	'co applicant'	4.00	'no known property'	20.00	none	rent	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	1318.00	'>=1000'	'>=7'	4.00	'male single'	none	4.00	'real estate'	54.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	54.00	'no credits/all paid'	business	15945.00	'<100'	'<1'	3.00	'male single'	none	4.00	'no known property'	58.00	none	rent	1.00	skilled	1.00	yes	yes	bad
+'no checking'	12.00	'critical/other existing 	education	2012.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	2.00	car	61.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	business	2622.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	none	4.00	car	34.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'critical/other existing 	radio/tv	2337.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	36.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	20.00	'delayed previously'	'used car'	7057.00	'no known savings'	'4<=X<7'	3.00	'male single'	none	4.00	'life insurance'	36.00	bank	rent	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	24.00	'existing paid'	'new car'	1469.00	'100<=X<500'	'>=7'	4.00	'male mar/wid'	none	4.00	'real estate'	41.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	radio/tv	2323.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	car	24.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'delayed previously'	radio/tv	932.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'real estate'	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'critical/other existing 	furniture/equipment	1919.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	car	35.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	'used car'	2445.00	'no known savings'	'<1'	2.00	'male mar/wid'	none	4.00	car	26.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	24.00	'critical/other existing 	other	11938.00	'<100'	'1<=X<4'	2.00	'male single'	'co applicant'	3.00	car	39.00	none	own	2.00	'high qualif/self emp/mgm	2.00	yes	yes	bad
+'no checking'	18.00	'all paid'	'new car'	6458.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'no known property'	39.00	bank	own	2.00	'high qualif/self emp/mgm	2.00	yes	yes	bad
+'0<=X<200'	12.00	'existing paid'	'new car'	6078.00	'<100'	'4<=X<7'	2.00	'male single'	none	2.00	car	32.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	furniture/equipment	7721.00	'no known savings'	'<1'	1.00	'female div/dep/mar'	none	2.00	'life insurance'	30.00	none	own	1.00	skilled	1.00	yes	no	good
+'0<=X<200'	14.00	'existing paid'	business	1410.00	'500<=X<1000'	'>=7'	1.00	'male mar/wid'	none	2.00	'real estate'	35.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	6.00	'delayed previously'	business	1449.00	'100<=X<500'	'>=7'	1.00	'male div/sep'	none	2.00	car	31.00	bank	own	2.00	skilled	2.00	none	yes	good
+'>=200'	15.00	'existing paid'	education	392.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	23.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'existing paid'	'new car'	6260.00	'<100'	'4<=X<7'	3.00	'male single'	none	3.00	'real estate'	28.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	36.00	'critical/other existing 	'new car'	7855.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'real estate'	25.00	stores	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	12.00	'existing paid'	radio/tv	1680.00	'500<=X<1000'	'>=7'	3.00	'male mar/wid'	none	1.00	'real estate'	35.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	48.00	'critical/other existing 	radio/tv	3578.00	'no known savings'	'>=7'	4.00	'male single'	none	1.00	'real estate'	47.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	42.00	'existing paid'	radio/tv	7174.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	car	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	10.00	'critical/other existing 	furniture/equipment	2132.00	'no known savings'	'<1'	2.00	'female div/dep/mar'	'co applicant'	3.00	'real estate'	27.00	none	rent	2.00	skilled	1.00	none	no	good
+'<0'	33.00	'critical/other existing 	furniture/equipment	4281.00	'500<=X<1000'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	car	23.00	none	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'critical/other existing 	'new car'	2366.00	'500<=X<1000'	'4<=X<7'	3.00	'male div/sep'	none	3.00	car	36.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	21.00	'existing paid'	radio/tv	1835.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'real estate'	25.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	'used car'	3868.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	2.00	car	41.00	none	rent	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	furniture/equipment	1768.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	24.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'>=200'	10.00	'critical/other existing 	'new car'	781.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	63.00	none	'for free'	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'existing paid'	furniture/equipment	1924.00	'no known savings'	'<1'	4.00	'female div/dep/mar'	none	3.00	'real estate'	27.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	12.00	'critical/other existing 	'new car'	2121.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	radio/tv	701.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	'real estate'	40.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	repairs	639.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	30.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'critical/other existing 	'used car'	1860.00	'<100'	unemployed	4.00	'male single'	none	2.00	car	34.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'critical/other existing 	'new car'	3499.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	'co applicant'	2.00	'real estate'	29.00	none	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	48.00	'existing paid'	'new car'	8487.00	'no known savings'	'4<=X<7'	1.00	'female div/dep/mar'	none	2.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	36.00	'delayed previously'	education	6887.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	'life insurance'	29.00	stores	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	15.00	'existing paid'	furniture/equipment	2708.00	'<100'	'<1'	2.00	'male single'	none	3.00	'life insurance'	27.00	bank	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	furniture/equipment	1984.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	47.00	bank	'for free'	2.00	skilled	1.00	none	yes	good
+'no checking'	60.00	'existing paid'	radio/tv	10144.00	'100<=X<500'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	'real estate'	21.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	1240.00	'no known savings'	'>=7'	4.00	'female div/dep/mar'	none	2.00	'real estate'	38.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	27.00	'delayed previously'	'used car'	8613.00	'>=1000'	'1<=X<4'	2.00	'male single'	none	2.00	car	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	766.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	3.00	'real estate'	66.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	15.00	'critical/other existing 	radio/tv	2728.00	'no known savings'	'4<=X<7'	4.00	'male single'	guarantor	2.00	'real estate'	35.00	bank	own	3.00	skilled	1.00	yes	yes	good
+'>=200'	12.00	'existing paid'	radio/tv	1881.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	car	44.00	none	rent	1.00	'unskilled resident'	1.00	yes	yes	good
+'>=200'	6.00	'existing paid'	'new car'	709.00	'>=1000'	'<1'	2.00	'male mar/wid'	none	2.00	'real estate'	27.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	no	good
+'0<=X<200'	36.00	'existing paid'	radio/tv	4795.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'no known property'	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	27.00	'existing paid'	radio/tv	3416.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	car	27.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	2462.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	22.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	21.00	'critical/other existing 	furniture/equipment	2288.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	23.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	48.00	'all paid'	business	3566.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	2.00	car	30.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'critical/other existing 	'new car'	860.00	'<100'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'no known property'	39.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	'new car'	682.00	'100<=X<500'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	car	51.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	36.00	'critical/other existing 	furniture/equipment	5371.00	'<100'	'1<=X<4'	3.00	'male single'	guarantor	2.00	'life insurance'	28.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	1582.00	'>=1000'	'>=7'	4.00	'male single'	none	4.00	car	46.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'existing paid'	radio/tv	1346.00	'100<=X<500'	'>=7'	2.00	'male single'	none	4.00	'no known property'	42.00	bank	'for free'	1.00	skilled	2.00	yes	yes	good
+'no checking'	10.00	'existing paid'	radio/tv	1924.00	'<100'	'1<=X<4'	1.00	'male single'	none	4.00	'life insurance'	38.00	none	own	1.00	skilled	1.00	yes	no	good
+'>=200'	36.00	'existing paid'	radio/tv	5848.00	'<100'	'1<=X<4'	4.00	'male single'	none	1.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'critical/other existing 	'used car'	7758.00	'>=1000'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'no known property'	29.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'delayed previously'	business	6967.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	4.00	car	36.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	1282.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	20.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	9.00	'critical/other existing 	repairs	1288.00	'100<=X<500'	'>=7'	3.00	'male single'	guarantor	4.00	'real estate'	48.00	none	own	2.00	skilled	2.00	none	no	good
+'<0'	12.00	'all paid'	retraining	339.00	'<100'	'>=7'	4.00	'male mar/wid'	none	1.00	car	45.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	'new car'	3512.00	'100<=X<500'	'4<=X<7'	2.00	'male single'	none	3.00	car	38.00	bank	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	6.00	'critical/other existing 	radio/tv	1898.00	'no known savings'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	34.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	radio/tv	2872.00	'100<=X<500'	'>=7'	3.00	'male single'	none	4.00	'real estate'	36.00	none	own	1.00	skilled	2.00	yes	yes	good
+'no checking'	18.00	'critical/other existing 	'new car'	1055.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	'domestic appliance'	1262.00	'500<=X<1000'	'4<=X<7'	4.00	'male single'	none	3.00	'life insurance'	36.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	10.00	'existing paid'	'new car'	7308.00	'<100'	unemployed	2.00	'male single'	none	4.00	'no known property'	70.00	bank	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	36.00	'existing paid'	'new car'	909.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	36.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'existing paid'	furniture/equipment	2978.00	'500<=X<1000'	'1<=X<4'	1.00	'male single'	none	2.00	car	32.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	1131.00	'<100'	unemployed	4.00	'female div/dep/mar'	none	2.00	car	33.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	11.00	'existing paid'	furniture/equipment	1577.00	'>=1000'	'<1'	4.00	'female div/dep/mar'	none	1.00	'real estate'	20.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	furniture/equipment	3972.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	25.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	24.00	'critical/other existing 	business	1935.00	'<100'	'>=7'	4.00	'male div/sep'	none	4.00	'real estate'	31.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	15.00	'no credits/all paid'	'new car'	950.00	'<100'	'>=7'	4.00	'male single'	none	3.00	car	33.00	none	rent	2.00	skilled	2.00	none	yes	bad
+'no checking'	12.00	'existing paid'	furniture/equipment	763.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	'real estate'	26.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	24.00	'delayed previously'	furniture/equipment	2064.00	'<100'	unemployed	3.00	'female div/dep/mar'	none	2.00	'life insurance'	34.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	8.00	'existing paid'	radio/tv	1414.00	'<100'	'1<=X<4'	4.00	'male single'	guarantor	2.00	'real estate'	33.00	none	own	1.00	skilled	1.00	none	no	good
+'<0'	21.00	'delayed previously'	education	3414.00	'<100'	'<1'	2.00	'male single'	none	1.00	'life insurance'	26.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	30.00	'all paid'	'used car'	7485.00	'no known savings'	unemployed	4.00	'female div/dep/mar'	none	1.00	'real estate'	53.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	12.00	'existing paid'	furniture/equipment	2577.00	'<100'	'1<=X<4'	2.00	'male div/sep'	none	1.00	car	42.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'critical/other existing 	radio/tv	338.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	4.00	car	52.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	1963.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	car	31.00	none	rent	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'<0'	21.00	'critical/other existing 	'new car'	571.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	65.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'delayed previously'	business	9572.00	'<100'	'<1'	1.00	'male div/sep'	none	1.00	car	28.00	none	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	36.00	'delayed previously'	business	4455.00	'<100'	'1<=X<4'	2.00	'male div/sep'	none	2.00	'real estate'	30.00	stores	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	21.00	'all paid'	'new car'	1647.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	40.00	none	own	2.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	furniture/equipment	3777.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	50.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	'new car'	884.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	36.00	bank	own	1.00	skilled	2.00	yes	yes	bad
+'no checking'	15.00	'critical/other existing 	radio/tv	1360.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	31.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'all paid'	'used car'	5129.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'no known property'	74.00	bank	'for free'	1.00	'high qualif/self emp/mgm	2.00	yes	yes	bad
+'0<=X<200'	16.00	'critical/other existing 	'new car'	1175.00	'<100'	unemployed	2.00	'male single'	none	3.00	car	68.00	none	'for free'	3.00	'unemp/unskilled non res'	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	radio/tv	674.00	'100<=X<500'	'4<=X<7'	4.00	'male mar/wid'	none	1.00	'life insurance'	20.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	18.00	'no credits/all paid'	furniture/equipment	3244.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	car	33.00	bank	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	business	4591.00	'>=1000'	'1<=X<4'	2.00	'male single'	none	3.00	'life insurance'	54.00	none	own	3.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	48.00	'no credits/all paid'	business	3844.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	4.00	'no known property'	34.00	none	'for free'	1.00	'unskilled resident'	2.00	none	yes	bad
+'0<=X<200'	27.00	'existing paid'	business	3915.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	36.00	none	own	1.00	skilled	2.00	yes	yes	bad
+'no checking'	6.00	'existing paid'	radio/tv	2108.00	'<100'	'4<=X<7'	2.00	'male mar/wid'	none	2.00	'real estate'	29.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	45.00	'existing paid'	radio/tv	3031.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	guarantor	4.00	'life insurance'	21.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	9.00	'critical/other existing 	education	1501.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	3.00	car	34.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	6.00	'critical/other existing 	radio/tv	1382.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	car	28.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	furniture/equipment	951.00	'100<=X<500'	'<1'	4.00	'female div/dep/mar'	none	4.00	car	27.00	bank	rent	4.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'existing paid'	'used car'	2760.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	36.00	bank	'for free'	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'delayed previously'	furniture/equipment	4297.00	'<100'	'>=7'	4.00	'male div/sep'	none	3.00	'no known property'	40.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	9.00	'critical/other existing 	education	936.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	2.00	car	52.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	'new car'	1168.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	3.00	'real estate'	27.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	27.00	'delayed previously'	business	5117.00	'<100'	'4<=X<7'	3.00	'male single'	none	4.00	car	26.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	retraining	902.00	'<100'	'4<=X<7'	4.00	'male mar/wid'	none	4.00	'life insurance'	21.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	'new car'	1495.00	'<100'	'>=7'	4.00	'male single'	none	1.00	'real estate'	38.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'<0'	30.00	'critical/other existing 	'used car'	10623.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	38.00	none	'for free'	3.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	furniture/equipment	1935.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	43.00	none	own	3.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'critical/other existing 	'domestic appliance'	1424.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	'life insurance'	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	business	6568.00	'<100'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	car	21.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	'used car'	1413.00	'>=1000'	'4<=X<7'	3.00	'male single'	none	2.00	'life insurance'	55.00	none	own	1.00	skilled	1.00	none	no	good
+'no checking'	9.00	'critical/other existing 	radio/tv	3074.00	'no known savings'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	33.00	none	own	2.00	skilled	2.00	none	yes	good
+'no checking'	36.00	'existing paid'	radio/tv	3835.00	'no known savings'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'real estate'	45.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	27.00	'no credits/all paid'	business	5293.00	'<100'	unemployed	2.00	'male single'	none	4.00	'life insurance'	50.00	stores	own	2.00	skilled	1.00	yes	yes	bad
+'>=200'	30.00	'delayed previously'	business	1908.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	66.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	36.00	'critical/other existing 	radio/tv	3342.00	'no known savings'	'>=7'	4.00	'male single'	none	2.00	car	51.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	6.00	'critical/other existing 	retraining	932.00	'no known savings'	'4<=X<7'	1.00	'female div/dep/mar'	none	3.00	'life insurance'	39.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	18.00	'no credits/all paid'	business	3104.00	'<100'	'4<=X<7'	3.00	'male single'	none	1.00	'life insurance'	31.00	bank	own	1.00	skilled	1.00	yes	yes	good
+'>=200'	36.00	'existing paid'	radio/tv	3913.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	23.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'existing paid'	furniture/equipment	3021.00	'<100'	'1<=X<4'	2.00	'male div/sep'	none	2.00	'real estate'	24.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	10.00	'existing paid'	'new car'	1364.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	64.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	625.00	'<100'	'<1'	4.00	'male mar/wid'	guarantor	1.00	'real estate'	26.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	12.00	'existing paid'	education	1200.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	23.00	bank	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	707.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'real estate'	30.00	bank	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'delayed previously'	business	2978.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	32.00	none	own	2.00	skilled	2.00	yes	yes	good
+'no checking'	15.00	'existing paid'	'used car'	4657.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	car	30.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	36.00	'no credits/all paid'	repairs	2613.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	48.00	'existing paid'	radio/tv	10961.00	'>=1000'	'4<=X<7'	1.00	'male single'	'co applicant'	2.00	'no known property'	27.00	bank	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	12.00	'existing paid'	furniture/equipment	7865.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	53.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	9.00	'existing paid'	radio/tv	1478.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	car	22.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	furniture/equipment	3149.00	'<100'	'<1'	4.00	'male single'	none	1.00	'no known property'	22.00	bank	'for free'	1.00	skilled	1.00	none	yes	good
+'>=200'	36.00	'existing paid'	radio/tv	4210.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	26.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	9.00	'existing paid'	'new car'	2507.00	'500<=X<1000'	'>=7'	2.00	'male single'	none	4.00	'no known property'	51.00	none	'for free'	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	2141.00	'100<=X<500'	'4<=X<7'	3.00	'male single'	none	1.00	'no known property'	35.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	radio/tv	866.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	guarantor	2.00	'real estate'	25.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	4.00	'critical/other existing 	radio/tv	1544.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	'real estate'	42.00	none	own	3.00	'unskilled resident'	2.00	none	yes	good
+'<0'	24.00	'existing paid'	radio/tv	1823.00	'<100'	unemployed	4.00	'male single'	none	2.00	car	30.00	stores	own	1.00	'high qualif/self emp/mgm	2.00	none	yes	bad
+'0<=X<200'	6.00	'existing paid'	'new car'	14555.00	'no known savings'	unemployed	1.00	'male single'	none	2.00	'life insurance'	23.00	none	own	1.00	'unemp/unskilled non res'	1.00	yes	yes	bad
+'0<=X<200'	21.00	'existing paid'	business	2767.00	'100<=X<500'	'>=7'	4.00	'male div/sep'	none	2.00	car	61.00	bank	rent	2.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	radio/tv	1291.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	35.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	30.00	'existing paid'	radio/tv	2522.00	'<100'	'>=7'	1.00	'male single'	guarantor	3.00	'life insurance'	39.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	24.00	'existing paid'	'new car'	915.00	'no known savings'	'>=7'	4.00	'female div/dep/mar'	none	2.00	car	29.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	6.00	'existing paid'	radio/tv	1595.00	'<100'	'4<=X<7'	3.00	'male single'	none	2.00	'life insurance'	51.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	48.00	'no credits/all paid'	'used car'	4605.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	24.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	business	1185.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'real estate'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'all paid'	retraining	3447.00	'500<=X<1000'	'1<=X<4'	4.00	'female div/dep/mar'	none	3.00	'real estate'	35.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	24.00	'existing paid'	business	1258.00	'<100'	'4<=X<7'	4.00	'male single'	none	1.00	'real estate'	25.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	717.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	52.00	none	own	3.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'no credits/all paid'	'new car'	1204.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	none	1.00	'no known property'	35.00	bank	rent	1.00	skilled	1.00	none	no	good
+'>=200'	24.00	'existing paid'	furniture/equipment	1925.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	433.00	'<100'	unemployed	3.00	'female div/dep/mar'	'co applicant'	4.00	'real estate'	22.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	6.00	'critical/other existing 	'new car'	666.00	'>=1000'	'4<=X<7'	3.00	'female div/dep/mar'	none	4.00	'real estate'	39.00	none	own	2.00	'unskilled resident'	1.00	yes	yes	good
+'>=200'	12.00	'existing paid'	furniture/equipment	2251.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	car	46.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	30.00	'existing paid'	'new car'	2150.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	guarantor	2.00	'no known property'	24.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'delayed previously'	furniture/equipment	4151.00	'100<=X<500'	'1<=X<4'	2.00	'male single'	none	3.00	'life insurance'	35.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	furniture/equipment	2030.00	'no known savings'	'4<=X<7'	2.00	'male single'	none	1.00	car	24.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	60.00	'delayed previously'	radio/tv	7418.00	'no known savings'	'1<=X<4'	1.00	'male single'	none	1.00	'real estate'	27.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	radio/tv	2684.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'real estate'	35.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	12.00	'all paid'	radio/tv	2149.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	1.00	'no known property'	29.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'no checking'	15.00	'existing paid'	'used car'	3812.00	'100<=X<500'	'<1'	1.00	'female div/dep/mar'	none	4.00	car	23.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	11.00	'critical/other existing 	radio/tv	1154.00	'100<=X<500'	unemployed	4.00	'female div/dep/mar'	none	4.00	'real estate'	57.00	none	own	3.00	'unskilled resident'	1.00	none	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	1657.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	27.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	radio/tv	1603.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	car	55.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'critical/other existing 	'new car'	5302.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'no known property'	36.00	none	'for free'	3.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	education	2748.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'no known property'	57.00	bank	'for free'	3.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	10.00	'critical/other existing 	'new car'	1231.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'real estate'	32.00	none	own	2.00	'unskilled resident'	2.00	none	no	good
+'0<=X<200'	15.00	'existing paid'	radio/tv	802.00	'<100'	'>=7'	4.00	'male single'	none	3.00	car	37.00	none	own	1.00	skilled	2.00	none	yes	bad
+'no checking'	36.00	'critical/other existing 	business	6304.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'real estate'	36.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	1533.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	3.00	car	38.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'<0'	14.00	'existing paid'	'new car'	8978.00	'<100'	'>=7'	1.00	'male div/sep'	none	4.00	'life insurance'	45.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	no	bad
+'no checking'	24.00	'existing paid'	radio/tv	999.00	'no known savings'	'>=7'	4.00	'male single'	none	2.00	car	25.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	'new car'	2662.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	3.00	'life insurance'	32.00	none	own	1.00	skilled	1.00	none	no	good
+'no checking'	12.00	'critical/other existing 	furniture/equipment	1402.00	'500<=X<1000'	'4<=X<7'	3.00	'female div/dep/mar'	none	4.00	car	37.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	48.00	'all paid'	'new car'	12169.00	'no known savings'	unemployed	4.00	'male single'	'co applicant'	4.00	'no known property'	36.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	48.00	'existing paid'	radio/tv	3060.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	'real estate'	28.00	none	own	2.00	skilled	1.00	none	yes	bad
+'<0'	30.00	'existing paid'	repairs	11998.00	'<100'	'<1'	1.00	'male div/sep'	none	1.00	'no known property'	34.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	bad
+'no checking'	9.00	'existing paid'	radio/tv	2697.00	'<100'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	32.00	none	own	1.00	skilled	2.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	2404.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	car	26.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	1262.00	'no known savings'	'>=7'	2.00	'male div/sep'	none	4.00	'life insurance'	49.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'no checking'	6.00	'existing paid'	furniture/equipment	4611.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	32.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'existing paid'	radio/tv	1901.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	none	4.00	car	29.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	15.00	'critical/other existing 	'used car'	3368.00	'>=1000'	'>=7'	3.00	'male single'	none	4.00	'no known property'	23.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	furniture/equipment	1574.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'real estate'	50.00	none	own	1.00	skilled	1.00	none	yes	good
+'>=200'	18.00	'all paid'	radio/tv	1445.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	4.00	car	49.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	15.00	'critical/other existing 	furniture/equipment	1520.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	63.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'critical/other existing 	'new car'	3878.00	'100<=X<500'	'<1'	4.00	'male div/sep'	none	2.00	car	37.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	47.00	'existing paid'	'new car'	10722.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	1.00	'real estate'	35.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	48.00	'existing paid'	'used car'	4788.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	'life insurance'	26.00	none	own	1.00	skilled	2.00	none	yes	good
+'0<=X<200'	48.00	'delayed previously'	other	7582.00	'100<=X<500'	unemployed	2.00	'male single'	none	4.00	'no known property'	31.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1092.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	guarantor	4.00	'real estate'	49.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'delayed previously'	radio/tv	1024.00	'<100'	'<1'	4.00	'male mar/wid'	none	4.00	'real estate'	48.00	stores	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	business	1076.00	'<100'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	'real estate'	26.00	none	own	1.00	skilled	1.00	yes	no	good
+'0<=X<200'	36.00	'existing paid'	'used car'	9398.00	'<100'	'<1'	1.00	'male mar/wid'	none	4.00	car	28.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	24.00	'critical/other existing 	'used car'	6419.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'no known property'	44.00	none	'for free'	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'>=200'	42.00	'critical/other existing 	'used car'	4796.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	56.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'no checking'	48.00	'critical/other existing 	business	7629.00	'no known savings'	'>=7'	4.00	'male div/sep'	none	2.00	car	46.00	bank	own	2.00	'high qualif/self emp/mgm	2.00	none	yes	good
+'0<=X<200'	48.00	'existing paid'	furniture/equipment	9960.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	2.00	car	26.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	12.00	'existing paid'	'used car'	4675.00	'no known savings'	'<1'	1.00	'female div/dep/mar'	none	4.00	car	20.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	10.00	'existing paid'	'new car'	1287.00	'no known savings'	'>=7'	4.00	'male single'	'co applicant'	2.00	'life insurance'	45.00	none	own	1.00	'unskilled resident'	1.00	none	no	good
+'no checking'	18.00	'existing paid'	furniture/equipment	2515.00	'<100'	'1<=X<4'	3.00	'male single'	none	4.00	'real estate'	43.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	21.00	'critical/other existing 	furniture/equipment	2745.00	'>=1000'	'4<=X<7'	3.00	'male single'	none	2.00	car	32.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	6.00	'existing paid'	'new car'	672.00	'<100'	unemployed	1.00	'female div/dep/mar'	none	4.00	'real estate'	54.00	none	own	1.00	'unemp/unskilled non res'	1.00	yes	yes	good
+'0<=X<200'	36.00	'no credits/all paid'	radio/tv	3804.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	car	42.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'>=200'	24.00	'critical/other existing 	'new car'	1344.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	2.00	'real estate'	37.00	bank	own	2.00	'unskilled resident'	2.00	none	yes	bad
+'<0'	10.00	'critical/other existing 	'new car'	1038.00	'<100'	'4<=X<7'	4.00	'male single'	'co applicant'	3.00	'life insurance'	49.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	48.00	'critical/other existing 	'new car'	10127.00	'500<=X<1000'	'1<=X<4'	2.00	'male single'	none	2.00	'no known property'	44.00	bank	'for free'	1.00	skilled	1.00	none	yes	bad
+'no checking'	6.00	'existing paid'	furniture/equipment	1543.00	'>=1000'	'1<=X<4'	4.00	'male div/sep'	none	2.00	'real estate'	33.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	30.00	'existing paid'	'used car'	4811.00	'no known savings'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	stores	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	12.00	'existing paid'	radio/tv	727.00	'100<=X<500'	'<1'	4.00	'male mar/wid'	none	3.00	'no known property'	33.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	bad
+'0<=X<200'	8.00	'existing paid'	furniture/equipment	1237.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	4.00	'real estate'	24.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	9.00	'existing paid'	'new car'	276.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	4.00	'real estate'	22.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	48.00	'existing paid'	other	5381.00	'no known savings'	unemployed	3.00	'male single'	none	4.00	'no known property'	40.00	bank	'for free'	1.00	'unemp/unskilled non res'	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	furniture/equipment	5511.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	none	1.00	car	25.00	stores	own	1.00	skilled	1.00	none	yes	good
+'>=200'	24.00	'existing paid'	furniture/equipment	3749.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	4.00	car	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	685.00	'<100'	'4<=X<7'	2.00	'male mar/wid'	none	3.00	car	25.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'>=200'	4.00	'existing paid'	'new car'	1494.00	'no known savings'	'<1'	1.00	'male single'	none	2.00	'real estate'	29.00	none	own	1.00	'unskilled resident'	2.00	none	no	good
+'<0'	36.00	'all paid'	furniture/equipment	2746.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	31.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'<0'	12.00	'existing paid'	furniture/equipment	708.00	'<100'	'1<=X<4'	2.00	'male single'	guarantor	3.00	'life insurance'	38.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	furniture/equipment	4351.00	'no known savings'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	48.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	education	701.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	32.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	15.00	'delayed previously'	furniture/equipment	3643.00	'<100'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	27.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	30.00	'critical/other existing 	'new car'	4249.00	'<100'	unemployed	4.00	'male mar/wid'	none	2.00	car	28.00	none	own	2.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	radio/tv	1938.00	'<100'	'<1'	4.00	'male div/sep'	none	3.00	'life insurance'	32.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	'used car'	2910.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	'no known property'	34.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	2659.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	2.00	car	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	'new car'	1028.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	3.00	'real estate'	36.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	8.00	'critical/other existing 	'new car'	3398.00	'<100'	'4<=X<7'	1.00	'male single'	none	4.00	'real estate'	39.00	none	own	2.00	'unskilled resident'	1.00	none	no	good
+'no checking'	12.00	'critical/other existing 	furniture/equipment	5801.00	'no known savings'	'>=7'	2.00	'male single'	none	4.00	'life insurance'	49.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	'new car'	1525.00	'>=1000'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	car	34.00	none	own	1.00	skilled	2.00	yes	yes	good
+'>=200'	36.00	'existing paid'	radio/tv	4473.00	'<100'	'>=7'	4.00	'male single'	none	2.00	car	31.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	6.00	'existing paid'	radio/tv	1068.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	28.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	24.00	'critical/other existing 	'used car'	6615.00	'<100'	unemployed	2.00	'male single'	none	4.00	'no known property'	75.00	none	'for free'	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	18.00	'critical/other existing 	education	1864.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'real estate'	30.00	none	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	60.00	'existing paid'	'new car'	7408.00	'100<=X<500'	'<1'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	24.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'no checking'	48.00	'critical/other existing 	'used car'	11590.00	'100<=X<500'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	24.00	bank	rent	2.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	24.00	'no credits/all paid'	furniture/equipment	4110.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	23.00	bank	rent	2.00	skilled	2.00	none	yes	bad
+'<0'	6.00	'critical/other existing 	furniture/equipment	3384.00	'<100'	'1<=X<4'	1.00	'male div/sep'	none	4.00	'real estate'	44.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	13.00	'existing paid'	radio/tv	2101.00	'<100'	'<1'	2.00	'female div/dep/mar'	guarantor	4.00	'life insurance'	23.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	15.00	'existing paid'	'domestic appliance'	1275.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	24.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	furniture/equipment	4169.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'life insurance'	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	10.00	'existing paid'	furniture/equipment	1521.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	2.00	car	31.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'critical/other existing 	education	5743.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	4.00	'no known property'	24.00	none	'for free'	2.00	skilled	1.00	yes	yes	good
+'<0'	21.00	'existing paid'	furniture/equipment	3599.00	'<100'	'4<=X<7'	1.00	'female div/dep/mar'	none	4.00	car	26.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	radio/tv	3213.00	'500<=X<1000'	'<1'	1.00	'male mar/wid'	none	3.00	'real estate'	25.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	business	4439.00	'<100'	'>=7'	1.00	'male single'	'co applicant'	1.00	'real estate'	33.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	10.00	'existing paid'	'new car'	3949.00	'<100'	'<1'	1.00	'male single'	guarantor	1.00	'life insurance'	37.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	15.00	'critical/other existing 	radio/tv	1459.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	43.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	13.00	'critical/other existing 	radio/tv	882.00	'<100'	'<1'	4.00	'male single'	guarantor	4.00	'real estate'	23.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	radio/tv	3758.00	'500<=X<1000'	unemployed	1.00	'female div/dep/mar'	none	4.00	'no known property'	23.00	none	rent	1.00	'unemp/unskilled non res'	1.00	none	yes	good
+'no checking'	6.00	'delayed previously'	business	1743.00	'100<=X<500'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	34.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	9.00	'critical/other existing 	education	1136.00	'>=1000'	'>=7'	4.00	'male single'	none	3.00	'no known property'	32.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'no checking'	9.00	'existing paid'	'domestic appliance'	1236.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	9.00	'existing paid'	furniture/equipment	959.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	car	29.00	none	own	1.00	skilled	1.00	none	no	bad
+'no checking'	18.00	'critical/other existing 	'used car'	3229.00	'no known savings'	unemployed	2.00	'male single'	none	4.00	'no known property'	38.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'no credits/all paid'	radio/tv	6199.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	28.00	none	rent	2.00	skilled	1.00	yes	yes	bad
+'no checking'	10.00	'existing paid'	education	727.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	4.00	'no known property'	46.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	24.00	'existing paid'	'new car'	1246.00	'<100'	'<1'	4.00	'male single'	none	2.00	'real estate'	23.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	radio/tv	2331.00	'no known savings'	'>=7'	1.00	'male single'	'co applicant'	4.00	'real estate'	49.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	36.00	'delayed previously'	radio/tv	4463.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	26.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	12.00	'existing paid'	radio/tv	776.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	'real estate'	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	30.00	'existing paid'	furniture/equipment	2406.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	18.00	'existing paid'	education	1239.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	61.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'>=200'	12.00	'existing paid'	radio/tv	3399.00	'no known savings'	'>=7'	2.00	'male single'	none	3.00	car	37.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'>=200'	12.00	'delayed previously'	'new car'	2247.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	car	36.00	stores	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	6.00	'existing paid'	furniture/equipment	1766.00	'<100'	'1<=X<4'	1.00	'male mar/wid'	none	2.00	'life insurance'	21.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	2473.00	'<100'	unemployed	4.00	'male single'	none	1.00	car	25.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	business	1542.00	'<100'	'4<=X<7'	2.00	'male single'	none	4.00	car	36.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	18.00	'critical/other existing 	'used car'	3850.00	'<100'	'4<=X<7'	3.00	'male single'	none	1.00	car	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	3650.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	4.00	car	22.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	36.00	'existing paid'	furniture/equipment	3446.00	'<100'	'>=7'	4.00	'male single'	none	2.00	car	42.00	none	own	1.00	skilled	2.00	none	yes	bad
+'0<=X<200'	18.00	'existing paid'	furniture/equipment	3001.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	'real estate'	40.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'existing paid'	'new car'	3079.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	36.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	6070.00	'<100'	'>=7'	3.00	'male single'	none	4.00	car	33.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	10.00	'critical/other existing 	furniture/equipment	2146.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	3.00	'real estate'	23.00	none	rent	2.00	skilled	1.00	none	yes	good
+'no checking'	60.00	'critical/other existing 	'new car'	13756.00	'no known savings'	'>=7'	2.00	'male single'	none	4.00	'no known property'	63.00	bank	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	60.00	'all paid'	other	14782.00	'100<=X<500'	'>=7'	3.00	'female div/dep/mar'	none	4.00	'no known property'	60.00	bank	'for free'	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	48.00	'all paid'	business	7685.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	guarantor	4.00	car	37.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	18.00	'delayed previously'	radio/tv	2320.00	'<100'	unemployed	2.00	'male mar/wid'	none	3.00	'real estate'	34.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	7.00	'delayed previously'	radio/tv	846.00	'no known savings'	'>=7'	3.00	'male single'	none	4.00	'no known property'	36.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	'new car'	14318.00	'<100'	'>=7'	4.00	'male single'	none	2.00	'no known property'	57.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	6.00	'critical/other existing 	'new car'	362.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	52.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	20.00	'existing paid'	furniture/equipment	2212.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	4.00	car	39.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'existing paid'	'used car'	12976.00	'<100'	unemployed	3.00	'female div/dep/mar'	none	4.00	'no known property'	38.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	22.00	'existing paid'	'new car'	1283.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	25.00	none	rent	1.00	skilled	1.00	none	yes	good
+'>=200'	12.00	'existing paid'	'new car'	1330.00	'<100'	'<1'	4.00	'male single'	none	1.00	'real estate'	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	30.00	'delayed previously'	business	4272.00	'100<=X<500'	'1<=X<4'	2.00	'male single'	none	2.00	'life insurance'	26.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	2238.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	1.00	car	25.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	1126.00	'no known savings'	'<1'	4.00	'female div/dep/mar'	none	2.00	'real estate'	21.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	furniture/equipment	7374.00	'<100'	unemployed	4.00	'male single'	none	4.00	'life insurance'	40.00	stores	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	15.00	'critical/other existing 	business	2326.00	'500<=X<1000'	'1<=X<4'	2.00	'male single'	none	4.00	car	27.00	bank	own	1.00	skilled	1.00	none	yes	good
+'no checking'	9.00	'existing paid'	business	1449.00	'<100'	'4<=X<7'	3.00	'female div/dep/mar'	none	2.00	car	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	'new car'	1820.00	'<100'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	'life insurance'	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	furniture/equipment	983.00	'>=1000'	'<1'	1.00	'female div/dep/mar'	none	4.00	'real estate'	19.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	36.00	'existing paid'	'new car'	3249.00	'<100'	'4<=X<7'	2.00	'male single'	none	4.00	'no known property'	39.00	bank	'for free'	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'<0'	6.00	'critical/other existing 	radio/tv	1957.00	'<100'	'4<=X<7'	1.00	'female div/dep/mar'	none	4.00	car	31.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	9.00	'critical/other existing 	furniture/equipment	2406.00	'<100'	unemployed	2.00	'male single'	none	3.00	car	31.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'0<=X<200'	39.00	'delayed previously'	education	11760.00	'100<=X<500'	'4<=X<7'	2.00	'male single'	none	3.00	'no known property'	32.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	2578.00	'<100'	unemployed	3.00	'female div/dep/mar'	none	4.00	'no known property'	55.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	36.00	'critical/other existing 	furniture/equipment	2348.00	'<100'	'1<=X<4'	3.00	'male mar/wid'	none	2.00	'life insurance'	46.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	1223.00	'<100'	'>=7'	1.00	'male div/sep'	none	1.00	'real estate'	46.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	radio/tv	1516.00	'>=1000'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	'real estate'	43.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	1473.00	'<100'	'<1'	3.00	'male mar/wid'	none	4.00	'real estate'	39.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	business	1887.00	'no known savings'	'1<=X<4'	4.00	'male mar/wid'	none	4.00	'real estate'	28.00	bank	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'delayed previously'	business	8648.00	'<100'	'<1'	2.00	'male single'	none	2.00	car	27.00	bank	own	2.00	skilled	1.00	yes	yes	bad
+'no checking'	14.00	'delayed previously'	'new car'	802.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	27.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	18.00	'delayed previously'	'new car'	2899.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	car	43.00	none	own	1.00	skilled	2.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	radio/tv	2039.00	'<100'	'<1'	1.00	'male mar/wid'	none	1.00	'life insurance'	22.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	'used car'	2197.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	4.00	car	43.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	15.00	'existing paid'	radio/tv	1053.00	'<100'	'<1'	4.00	'male mar/wid'	none	2.00	'real estate'	27.00	none	own	1.00	skilled	1.00	none	no	good
+'no checking'	24.00	'existing paid'	radio/tv	3235.00	'500<=X<1000'	'>=7'	3.00	'male div/sep'	none	2.00	car	26.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	12.00	'critical/other existing 	'new car'	939.00	'500<=X<1000'	'4<=X<7'	4.00	'male mar/wid'	none	2.00	'real estate'	28.00	none	own	3.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	24.00	'existing paid'	radio/tv	1967.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	car	20.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	33.00	'critical/other existing 	'used car'	7253.00	'<100'	'4<=X<7'	3.00	'male single'	none	2.00	car	35.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	business	2292.00	'<100'	unemployed	4.00	'male single'	none	2.00	car	42.00	stores	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	10.00	'existing paid'	'new car'	1597.00	'500<=X<1000'	'1<=X<4'	3.00	'male single'	none	2.00	'no known property'	40.00	none	rent	1.00	'unskilled resident'	2.00	none	no	good
+'<0'	24.00	'existing paid'	'new car'	1381.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	35.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	36.00	'critical/other existing 	'used car'	5842.00	'<100'	'>=7'	2.00	'male single'	none	2.00	'life insurance'	35.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	12.00	'existing paid'	'new car'	2579.00	'<100'	'<1'	4.00	'male single'	none	1.00	'real estate'	33.00	none	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'<0'	18.00	'delayed previously'	education	8471.00	'no known savings'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	car	23.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'no checking'	21.00	'existing paid'	'new car'	2782.00	'500<=X<1000'	'4<=X<7'	1.00	'female div/dep/mar'	none	2.00	car	31.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	'new car'	1042.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	33.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	15.00	'existing paid'	'new car'	3186.00	'>=1000'	'4<=X<7'	2.00	'female div/dep/mar'	none	3.00	car	20.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'used car'	2028.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	2.00	car	30.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'critical/other existing 	'new car'	958.00	'<100'	'4<=X<7'	2.00	'male single'	none	3.00	'real estate'	47.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	21.00	'delayed previously'	furniture/equipment	1591.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	3.00	'real estate'	34.00	none	own	2.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	furniture/equipment	2762.00	'no known savings'	'>=7'	1.00	'female div/dep/mar'	none	2.00	'life insurance'	25.00	bank	own	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	18.00	'existing paid'	'used car'	2779.00	'<100'	'1<=X<4'	1.00	'male mar/wid'	none	3.00	car	21.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	28.00	'critical/other existing 	radio/tv	2743.00	'<100'	'>=7'	4.00	'male single'	none	2.00	car	29.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	1149.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	3.00	'real estate'	46.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	9.00	'existing paid'	furniture/equipment	1313.00	'<100'	'>=7'	1.00	'male single'	none	4.00	car	20.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'critical/other existing 	repairs	1190.00	'<100'	unemployed	2.00	'female div/dep/mar'	none	4.00	'no known property'	55.00	none	'for free'	3.00	'unemp/unskilled non res'	2.00	none	yes	bad
+'no checking'	5.00	'existing paid'	business	3448.00	'<100'	'4<=X<7'	1.00	'male single'	none	4.00	'real estate'	74.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	other	11328.00	'<100'	'1<=X<4'	2.00	'male single'	'co applicant'	3.00	car	29.00	bank	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	6.00	'critical/other existing 	furniture/equipment	1872.00	'<100'	unemployed	4.00	'male single'	none	4.00	'no known property'	36.00	none	'for free'	3.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	24.00	'critical/other existing 	repairs	2058.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	2.00	'real estate'	33.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	9.00	'existing paid'	furniture/equipment	2136.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1484.00	'no known savings'	'1<=X<4'	2.00	'male mar/wid'	none	1.00	'real estate'	25.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	6.00	'existing paid'	repairs	660.00	'500<=X<1000'	'4<=X<7'	2.00	'male mar/wid'	none	4.00	'real estate'	23.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	'new car'	1287.00	'>=1000'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'real estate'	37.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	42.00	'critical/other existing 	repairs	3394.00	'<100'	unemployed	4.00	'male single'	'co applicant'	4.00	car	65.00	none	own	2.00	'unemp/unskilled non res'	1.00	none	yes	good
+'>=200'	12.00	'all paid'	business	609.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'real estate'	26.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	'new car'	1884.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	39.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	1620.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	'co applicant'	3.00	'life insurance'	30.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	20.00	'delayed previously'	other	2629.00	'<100'	'1<=X<4'	2.00	'male single'	none	3.00	car	29.00	bank	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	education	719.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	41.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'0<=X<200'	48.00	'critical/other existing 	furniture/equipment	5096.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	3.00	car	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	9.00	'critical/other existing 	education	1244.00	'no known savings'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	41.00	none	rent	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	36.00	'existing paid'	'new car'	1842.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	car	34.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	7.00	'existing paid'	radio/tv	2576.00	'<100'	'1<=X<4'	2.00	'male single'	guarantor	2.00	'real estate'	35.00	none	own	1.00	skilled	1.00	none	yes	good
+'>=200'	12.00	'existing paid'	furniture/equipment	1424.00	'no known savings'	'>=7'	3.00	'female div/dep/mar'	none	4.00	'real estate'	55.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	15.00	'delayed previously'	repairs	1512.00	'>=1000'	'1<=X<4'	3.00	'male mar/wid'	none	3.00	'life insurance'	61.00	stores	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	36.00	'critical/other existing 	'used car'	11054.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	2.00	car	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	6.00	'existing paid'	radio/tv	518.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	1.00	'real estate'	29.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'no credits/all paid'	furniture/equipment	2759.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'life insurance'	34.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'used car'	2670.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	35.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	24.00	'existing paid'	'new car'	4817.00	'<100'	'4<=X<7'	2.00	'male single'	'co applicant'	3.00	'life insurance'	31.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	24.00	'existing paid'	'used car'	2679.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'no known property'	29.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	11.00	'critical/other existing 	'new car'	3905.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	36.00	none	rent	2.00	skilled	2.00	none	yes	good
+'<0'	12.00	'existing paid'	'used car'	3386.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	35.00	none	'for free'	1.00	skilled	1.00	yes	yes	bad
+'<0'	6.00	'existing paid'	'domestic appliance'	343.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'real estate'	27.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	4594.00	'<100'	'<1'	3.00	'male single'	none	2.00	car	32.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	36.00	'existing paid'	furniture/equipment	3620.00	'<100'	'1<=X<4'	1.00	'male single'	guarantor	2.00	'life insurance'	37.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	15.00	'existing paid'	'new car'	1721.00	'<100'	'<1'	2.00	'male single'	none	3.00	'real estate'	36.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	furniture/equipment	3017.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	1.00	'real estate'	34.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	retraining	754.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	38.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	business	1950.00	'<100'	'4<=X<7'	4.00	'male single'	none	1.00	car	34.00	stores	own	2.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'existing paid'	'used car'	2924.00	'<100'	'1<=X<4'	3.00	'male single'	guarantor	4.00	'no known property'	63.00	bank	own	1.00	skilled	2.00	yes	yes	good
+'<0'	24.00	'delayed previously'	radio/tv	1659.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	2.00	car	29.00	none	rent	1.00	'unskilled resident'	1.00	yes	yes	bad
+'no checking'	48.00	'delayed previously'	radio/tv	7238.00	'no known savings'	'>=7'	3.00	'male single'	none	3.00	car	32.00	bank	own	2.00	skilled	2.00	none	yes	good
+'no checking'	33.00	'delayed previously'	business	2764.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	car	26.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'delayed previously'	'used car'	4679.00	'<100'	'4<=X<7'	3.00	'male single'	none	3.00	car	35.00	none	own	2.00	'unskilled resident'	1.00	yes	yes	good
+'0<=X<200'	24.00	'existing paid'	radio/tv	3092.00	'100<=X<500'	'<1'	3.00	'male mar/wid'	none	2.00	car	22.00	none	rent	1.00	skilled	1.00	yes	yes	bad
+'<0'	6.00	'existing paid'	education	448.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	23.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	9.00	'existing paid'	'new car'	654.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	car	28.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	6.00	'existing paid'	retraining	1238.00	'no known savings'	unemployed	4.00	'male single'	none	4.00	'life insurance'	36.00	none	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	radio/tv	1245.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	car	33.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	18.00	'no credits/all paid'	furniture/equipment	3114.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	26.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	39.00	'existing paid'	'used car'	2569.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	4.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'>=200'	24.00	'existing paid'	radio/tv	5152.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	car	25.00	bank	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	business	1037.00	'100<=X<500'	'4<=X<7'	3.00	'male single'	none	4.00	'real estate'	39.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	15.00	'critical/other existing 	furniture/equipment	1478.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	44.00	none	own	2.00	skilled	2.00	yes	yes	good
+'0<=X<200'	12.00	'critical/other existing 	radio/tv	3573.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	'real estate'	23.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	'new car'	1201.00	'<100'	'<1'	4.00	'male single'	none	1.00	'life insurance'	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	30.00	'existing paid'	furniture/equipment	3622.00	'>=1000'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	57.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'no checking'	15.00	'delayed previously'	furniture/equipment	960.00	'>=1000'	'4<=X<7'	3.00	'female div/dep/mar'	none	2.00	'life insurance'	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	'new car'	1163.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	44.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	6.00	'delayed previously'	'new car'	1209.00	'<100'	unemployed	4.00	'male single'	none	4.00	'life insurance'	47.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	12.00	'existing paid'	radio/tv	3077.00	'<100'	'1<=X<4'	2.00	'male single'	none	4.00	car	52.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	'new car'	3757.00	'<100'	'>=7'	4.00	'female div/dep/mar'	'co applicant'	4.00	'no known property'	62.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'no checking'	10.00	'existing paid'	'new car'	1418.00	'100<=X<500'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	35.00	none	rent	1.00	'unskilled resident'	1.00	none	no	good
+'no checking'	6.00	'existing paid'	'new car'	3518.00	'<100'	'1<=X<4'	2.00	'male single'	guarantor	3.00	'life insurance'	26.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	1934.00	'<100'	'>=7'	2.00	'male single'	none	2.00	'no known property'	26.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	27.00	'no credits/all paid'	business	8318.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'no known property'	42.00	none	'for free'	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	6.00	'critical/other existing 	radio/tv	1237.00	'100<=X<500'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	6.00	'existing paid'	radio/tv	368.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	38.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'critical/other existing 	'new car'	2122.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	39.00	none	rent	2.00	'unskilled resident'	2.00	none	no	good
+'<0'	24.00	'existing paid'	furniture/equipment	2996.00	'no known savings'	'1<=X<4'	2.00	'male mar/wid'	none	4.00	car	20.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	36.00	'existing paid'	furniture/equipment	9034.00	'100<=X<500'	'<1'	4.00	'male single'	'co applicant'	1.00	'no known property'	29.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	furniture/equipment	1585.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	'life insurance'	40.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	radio/tv	1301.00	'<100'	'>=7'	4.00	'male mar/wid'	guarantor	2.00	'real estate'	32.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'>=200'	6.00	'critical/other existing 	'new car'	1323.00	'100<=X<500'	'>=7'	2.00	'male div/sep'	none	4.00	car	28.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	24.00	'existing paid'	'new car'	3123.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	27.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	36.00	'existing paid'	'used car'	5493.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'no known property'	42.00	none	'for free'	1.00	skilled	2.00	none	yes	good
+'>=200'	9.00	'existing paid'	radio/tv	1126.00	'100<=X<500'	'>=7'	2.00	'male div/sep'	none	4.00	'real estate'	49.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'critical/other existing 	radio/tv	1216.00	'100<=X<500'	'<1'	4.00	'male single'	none	4.00	'no known property'	38.00	bank	own	2.00	skilled	2.00	none	yes	bad
+'<0'	24.00	'existing paid'	'new car'	1207.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	10.00	'existing paid'	'new car'	1309.00	'no known savings'	'1<=X<4'	4.00	'male single'	guarantor	4.00	'life insurance'	27.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'>=200'	15.00	'critical/other existing 	'used car'	2360.00	'500<=X<1000'	'1<=X<4'	2.00	'male single'	none	2.00	car	36.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	15.00	'all paid'	'new car'	6850.00	'100<=X<500'	unemployed	1.00	'male single'	none	2.00	'life insurance'	34.00	none	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	bad
+'no checking'	24.00	'existing paid'	radio/tv	1413.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	'life insurance'	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	39.00	'existing paid'	'used car'	8588.00	'100<=X<500'	'>=7'	4.00	'male single'	none	2.00	car	45.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	'new car'	759.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	'real estate'	26.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	36.00	'existing paid'	'used car'	4686.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'no known property'	32.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	15.00	'existing paid'	business	2687.00	'<100'	'4<=X<7'	2.00	'male single'	none	4.00	'life insurance'	26.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'delayed previously'	radio/tv	585.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	'co applicant'	4.00	'real estate'	20.00	none	rent	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'new car'	2255.00	'no known savings'	'<1'	4.00	'male single'	none	1.00	'life insurance'	54.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'critical/other existing 	'new car'	609.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	'life insurance'	37.00	none	own	2.00	skilled	1.00	none	no	good
+'<0'	6.00	'critical/other existing 	'new car'	1361.00	'<100'	'<1'	2.00	'male single'	none	4.00	'real estate'	40.00	none	own	1.00	'unskilled resident'	2.00	none	no	good
+'no checking'	36.00	'critical/other existing 	furniture/equipment	7127.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	23.00	none	rent	2.00	skilled	1.00	yes	yes	bad
+'<0'	6.00	'existing paid'	'new car'	1203.00	'100<=X<500'	'>=7'	3.00	'male single'	none	2.00	'life insurance'	43.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	6.00	'critical/other existing 	radio/tv	700.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	36.00	none	'for free'	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	repairs	5507.00	'<100'	'>=7'	3.00	'male single'	none	4.00	'no known property'	44.00	none	'for free'	2.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	3190.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	'real estate'	24.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	48.00	'no credits/all paid'	furniture/equipment	7119.00	'<100'	'1<=X<4'	3.00	'male single'	none	4.00	'no known property'	53.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'no checking'	24.00	'existing paid'	'used car'	3488.00	'100<=X<500'	'4<=X<7'	3.00	'female div/dep/mar'	none	4.00	car	23.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'existing paid'	radio/tv	1113.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	guarantor	4.00	'real estate'	26.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	26.00	'existing paid'	'used car'	7966.00	'<100'	'<1'	2.00	'male single'	none	3.00	car	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'critical/other existing 	education	1532.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	none	3.00	car	31.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	4.00	'critical/other existing 	radio/tv	1503.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	'real estate'	42.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'<0'	36.00	'existing paid'	radio/tv	2302.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	4.00	car	31.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	6.00	'existing paid'	'new car'	662.00	'<100'	'<1'	3.00	'male single'	none	4.00	'real estate'	41.00	none	own	1.00	'unskilled resident'	2.00	yes	yes	good
+'0<=X<200'	36.00	'existing paid'	education	2273.00	'<100'	'4<=X<7'	3.00	'male single'	none	1.00	car	32.00	none	own	2.00	skilled	2.00	none	yes	good
+'0<=X<200'	15.00	'existing paid'	'new car'	2631.00	'100<=X<500'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	28.00	none	rent	2.00	skilled	1.00	yes	yes	bad
+'no checking'	12.00	'delayed previously'	'used car'	1503.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	4.00	'real estate'	41.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	1311.00	'100<=X<500'	'4<=X<7'	4.00	'male mar/wid'	none	3.00	'life insurance'	26.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	3105.00	'no known savings'	'<1'	4.00	'male single'	none	2.00	car	25.00	none	own	2.00	skilled	1.00	none	yes	good
+'>=200'	21.00	'critical/other existing 	education	2319.00	'<100'	'<1'	2.00	'male div/sep'	none	1.00	car	33.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	6.00	'existing paid'	'new car'	1374.00	'no known savings'	unemployed	4.00	'female div/dep/mar'	none	3.00	'life insurance'	75.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	18.00	'critical/other existing 	furniture/equipment	3612.00	'<100'	'>=7'	3.00	'female div/dep/mar'	none	4.00	'life insurance'	37.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	48.00	'existing paid'	'new car'	7763.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	42.00	bank	'for free'	1.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'>=200'	18.00	'existing paid'	furniture/equipment	3049.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	1.00	'life insurance'	45.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1534.00	'<100'	'<1'	1.00	'male mar/wid'	none	1.00	'real estate'	23.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'delayed previously'	'new car'	2032.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	60.00	none	'for free'	2.00	skilled	1.00	yes	yes	good
+'<0'	30.00	'existing paid'	furniture/equipment	6350.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	31.00	none	own	1.00	skilled	1.00	none	yes	bad
+'>=200'	18.00	'existing paid'	furniture/equipment	2864.00	'<100'	'1<=X<4'	2.00	'male single'	none	1.00	'real estate'	34.00	none	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	12.00	'critical/other existing 	'new car'	1255.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	61.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	24.00	'delayed previously'	'new car'	1333.00	'<100'	unemployed	4.00	'male single'	none	2.00	'real estate'	43.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	'new car'	2022.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	37.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	1552.00	'<100'	'4<=X<7'	3.00	'male single'	none	1.00	car	32.00	bank	own	1.00	skilled	2.00	none	yes	good
+'<0'	12.00	'all paid'	radio/tv	626.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'real estate'	24.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	48.00	'critical/other existing 	'used car'	8858.00	'no known savings'	'4<=X<7'	2.00	'male single'	none	1.00	'no known property'	35.00	none	'for free'	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	repairs	996.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'all paid'	radio/tv	1750.00	'500<=X<1000'	'>=7'	2.00	'male single'	none	4.00	'life insurance'	45.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	good
+'<0'	48.00	'existing paid'	radio/tv	6999.00	'<100'	'4<=X<7'	1.00	'male mar/wid'	guarantor	1.00	'real estate'	34.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	12.00	'critical/other existing 	'new car'	1995.00	'100<=X<500'	'<1'	4.00	'male single'	none	1.00	car	27.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	education	1199.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	67.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1331.00	'<100'	'<1'	2.00	'male single'	none	1.00	car	22.00	stores	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	18.00	'no credits/all paid'	'new car'	2278.00	'100<=X<500'	'<1'	3.00	'female div/dep/mar'	none	3.00	car	28.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	21.00	'no credits/all paid'	'new car'	5003.00	'no known savings'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	29.00	bank	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	24.00	'all paid'	furniture/equipment	3552.00	'<100'	'4<=X<7'	3.00	'male single'	none	4.00	car	27.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	18.00	'critical/other existing 	furniture/equipment	1928.00	'<100'	'<1'	2.00	'male single'	none	2.00	'real estate'	31.00	none	own	2.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	'used car'	2964.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	49.00	bank	'for free'	1.00	skilled	2.00	yes	yes	good
+'<0'	24.00	'all paid'	radio/tv	1546.00	'<100'	'4<=X<7'	4.00	'male single'	guarantor	4.00	car	24.00	bank	rent	1.00	'unskilled resident'	1.00	none	yes	bad
+'>=200'	6.00	'delayed previously'	radio/tv	683.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	1.00	'life insurance'	29.00	bank	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	'new car'	12389.00	'no known savings'	'1<=X<4'	1.00	'male single'	none	4.00	'no known property'	37.00	none	'for free'	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	24.00	'delayed previously'	business	4712.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	37.00	bank	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	24.00	'delayed previously'	radio/tv	1553.00	'100<=X<500'	'4<=X<7'	3.00	'female div/dep/mar'	none	2.00	'life insurance'	23.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	'new car'	1372.00	'<100'	'4<=X<7'	2.00	'male div/sep'	none	3.00	car	36.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	radio/tv	2578.00	'>=1000'	'>=7'	2.00	'male single'	none	2.00	car	34.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	48.00	'existing paid'	radio/tv	3979.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	1.00	car	41.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	48.00	'existing paid'	radio/tv	6758.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	car	31.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'<0'	24.00	'existing paid'	furniture/equipment	3234.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	rent	1.00	'unskilled resident'	1.00	yes	yes	bad
+'no checking'	30.00	'critical/other existing 	radio/tv	5954.00	'<100'	'4<=X<7'	3.00	'male single'	'co applicant'	2.00	car	38.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'used car'	5433.00	'no known savings'	unemployed	2.00	'female div/dep/mar'	none	4.00	'life insurance'	26.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	15.00	'existing paid'	business	806.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	22.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	radio/tv	1082.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	27.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	15.00	'critical/other existing 	furniture/equipment	2788.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	'co applicant'	3.00	car	24.00	bank	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	2930.00	'<100'	'4<=X<7'	2.00	'female div/dep/mar'	none	1.00	'real estate'	27.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	education	1927.00	'no known savings'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	car	33.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	36.00	'critical/other existing 	'new car'	2820.00	'<100'	'<1'	4.00	'male div/sep'	none	4.00	car	27.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'existing paid'	retraining	937.00	'<100'	'<1'	4.00	'male mar/wid'	none	3.00	car	27.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	18.00	'critical/other existing 	'new car'	1056.00	'<100'	'>=7'	3.00	'male single'	guarantor	3.00	'real estate'	30.00	bank	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'critical/other existing 	'new car'	3124.00	'<100'	'<1'	1.00	'male single'	none	3.00	'real estate'	49.00	bank	own	2.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	9.00	'existing paid'	furniture/equipment	1388.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'real estate'	26.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	36.00	'existing paid'	repairs	2384.00	'<100'	'<1'	4.00	'male single'	none	1.00	'no known property'	33.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	'new car'	2133.00	'no known savings'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'no known property'	52.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	2039.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	'real estate'	20.00	bank	rent	1.00	skilled	1.00	none	yes	bad
+'<0'	9.00	'critical/other existing 	'new car'	2799.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	36.00	none	rent	2.00	skilled	2.00	none	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	1289.00	'<100'	'1<=X<4'	4.00	'male single'	guarantor	1.00	'life insurance'	21.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	18.00	'existing paid'	'domestic appliance'	1217.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	3.00	'real estate'	47.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	bad
+'<0'	12.00	'critical/other existing 	furniture/equipment	2246.00	'<100'	'>=7'	3.00	'male single'	none	3.00	'life insurance'	60.00	none	own	2.00	skilled	1.00	none	yes	bad
+'<0'	12.00	'critical/other existing 	radio/tv	385.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	'real estate'	58.00	none	own	4.00	'unskilled resident'	1.00	yes	yes	good
+'0<=X<200'	24.00	'delayed previously'	'new car'	1965.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	42.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'no checking'	21.00	'existing paid'	business	1572.00	'>=1000'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'real estate'	36.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	'new car'	2718.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	4.00	'life insurance'	20.00	none	rent	1.00	'unskilled resident'	1.00	yes	yes	bad
+'<0'	24.00	'all paid'	other	1358.00	'no known savings'	'>=7'	4.00	'male single'	none	3.00	car	40.00	stores	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	6.00	'all paid'	'new car'	931.00	'100<=X<500'	'<1'	1.00	'female div/dep/mar'	none	1.00	'life insurance'	32.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	'new car'	1442.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	car	23.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'no credits/all paid'	business	4241.00	'<100'	'1<=X<4'	1.00	'male single'	none	4.00	'real estate'	36.00	none	own	3.00	'unskilled resident'	1.00	yes	yes	bad
+'no checking'	18.00	'critical/other existing 	'new car'	2775.00	'<100'	'4<=X<7'	2.00	'male single'	none	2.00	'life insurance'	31.00	bank	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'delayed previously'	business	3863.00	'<100'	'1<=X<4'	1.00	'male single'	none	2.00	'no known property'	32.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	7.00	'existing paid'	radio/tv	2329.00	'<100'	'<1'	1.00	'female div/dep/mar'	guarantor	1.00	'real estate'	45.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	furniture/equipment	918.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	30.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'all paid'	education	1837.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'no known property'	34.00	bank	'for free'	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	36.00	'existing paid'	furniture/equipment	3349.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	28.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'>=200'	10.00	'existing paid'	furniture/equipment	1275.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	23.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'all paid'	furniture/equipment	2828.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	22.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'critical/other existing 	business	4526.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	74.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	36.00	'existing paid'	radio/tv	2671.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	'co applicant'	4.00	'no known property'	50.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'no checking'	18.00	'existing paid'	radio/tv	2051.00	'<100'	'<1'	4.00	'male single'	none	1.00	'real estate'	33.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	'used car'	1300.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	45.00	bank	'for free'	1.00	skilled	2.00	none	yes	good
+'<0'	12.00	'existing paid'	'domestic appliance'	741.00	'100<=X<500'	unemployed	4.00	'female div/dep/mar'	none	3.00	'life insurance'	22.00	none	own	1.00	skilled	1.00	none	yes	bad
+'>=200'	10.00	'existing paid'	'new car'	1240.00	'100<=X<500'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'no known property'	48.00	none	'for free'	1.00	'unskilled resident'	2.00	none	yes	bad
+'<0'	21.00	'existing paid'	radio/tv	3357.00	'>=1000'	'<1'	4.00	'female div/dep/mar'	none	2.00	car	29.00	bank	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'all paid'	'used car'	3632.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	guarantor	4.00	car	22.00	bank	rent	1.00	skilled	1.00	none	no	good
+'no checking'	18.00	'delayed previously'	furniture/equipment	1808.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	1.00	'real estate'	22.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	48.00	'no credits/all paid'	business	12204.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	2.00	car	48.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	60.00	'delayed previously'	radio/tv	9157.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	2.00	'no known property'	27.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	6.00	'critical/other existing 	'new car'	3676.00	'<100'	'1<=X<4'	1.00	'male single'	none	3.00	'real estate'	37.00	none	rent	3.00	skilled	2.00	none	yes	good
+'0<=X<200'	30.00	'existing paid'	furniture/equipment	3441.00	'100<=X<500'	'1<=X<4'	2.00	'female div/dep/mar'	'co applicant'	4.00	car	21.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	'new car'	640.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	2.00	'real estate'	49.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	21.00	'critical/other existing 	business	3652.00	'<100'	'4<=X<7'	2.00	'male single'	none	3.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	'new car'	1530.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'life insurance'	32.00	bank	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	48.00	'existing paid'	business	3914.00	'no known savings'	'1<=X<4'	4.00	'male div/sep'	none	2.00	'real estate'	38.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'<0'	12.00	'existing paid'	furniture/equipment	1858.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	car	22.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	2600.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	65.00	none	'for free'	2.00	skilled	1.00	none	yes	bad
+'no checking'	15.00	'existing paid'	radio/tv	1979.00	'no known savings'	'>=7'	4.00	'male single'	none	2.00	car	35.00	none	own	1.00	skilled	1.00	none	yes	good
+'>=200'	6.00	'existing paid'	furniture/equipment	2116.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	41.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	9.00	'all paid'	'new car'	1437.00	'100<=X<500'	'4<=X<7'	2.00	'male single'	none	3.00	'no known property'	29.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	42.00	'critical/other existing 	furniture/equipment	4042.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	36.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	9.00	'existing paid'	education	3832.00	'no known savings'	'>=7'	1.00	'male single'	none	4.00	'real estate'	64.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	24.00	'existing paid'	radio/tv	3660.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'all paid'	furniture/equipment	1553.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	car	44.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	15.00	'existing paid'	radio/tv	1444.00	'no known savings'	'<1'	4.00	'male single'	none	1.00	'life insurance'	23.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	9.00	'existing paid'	furniture/equipment	1980.00	'<100'	'<1'	2.00	'female div/dep/mar'	'co applicant'	2.00	car	19.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'existing paid'	'new car'	1355.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	4.00	car	25.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	bad
+'no checking'	12.00	'existing paid'	education	1393.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	47.00	bank	own	3.00	skilled	2.00	yes	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	1376.00	'500<=X<1000'	'4<=X<7'	4.00	'female div/dep/mar'	none	1.00	car	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	60.00	'delayed previously'	radio/tv	15653.00	'<100'	'4<=X<7'	2.00	'male single'	none	4.00	car	21.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	1493.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	3.00	car	34.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	42.00	'delayed previously'	radio/tv	4370.00	'<100'	'4<=X<7'	3.00	'male single'	none	2.00	'life insurance'	26.00	bank	own	2.00	skilled	2.00	yes	yes	bad
+'<0'	18.00	'existing paid'	education	750.00	'<100'	unemployed	4.00	'female div/dep/mar'	none	1.00	'real estate'	27.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	yes	bad
+'0<=X<200'	15.00	'existing paid'	repairs	1308.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	38.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	education	4623.00	'100<=X<500'	'1<=X<4'	3.00	'male single'	none	2.00	'life insurance'	40.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	radio/tv	1851.00	'<100'	'4<=X<7'	4.00	'male mar/wid'	guarantor	2.00	car	33.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'critical/other existing 	radio/tv	1880.00	'<100'	'4<=X<7'	4.00	'male mar/wid'	none	1.00	'life insurance'	32.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	36.00	'delayed previously'	business	7980.00	'no known savings'	'<1'	4.00	'male single'	none	4.00	car	27.00	none	rent	2.00	skilled	1.00	yes	yes	bad
+'<0'	30.00	'no credits/all paid'	furniture/equipment	4583.00	'<100'	'1<=X<4'	2.00	'male div/sep'	guarantor	2.00	'real estate'	32.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	'new car'	1386.00	'500<=X<1000'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	'life insurance'	26.00	none	own	1.00	skilled	1.00	none	yes	bad
+'>=200'	24.00	'existing paid'	'new car'	947.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	'no known property'	38.00	bank	'for free'	1.00	skilled	2.00	none	yes	bad
+'<0'	12.00	'existing paid'	education	684.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	car	40.00	none	rent	1.00	'unskilled resident'	2.00	none	yes	bad
+'<0'	48.00	'existing paid'	education	7476.00	'<100'	'4<=X<7'	4.00	'male single'	none	1.00	'no known property'	50.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	furniture/equipment	1922.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	37.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	'new car'	2303.00	'<100'	'>=7'	4.00	'male single'	'co applicant'	1.00	'real estate'	45.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	36.00	'delayed previously'	'new car'	8086.00	'100<=X<500'	'>=7'	2.00	'male single'	none	4.00	car	42.00	none	own	4.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	'used car'	2346.00	'<100'	'4<=X<7'	4.00	'male single'	none	3.00	car	35.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	14.00	'existing paid'	'new car'	3973.00	'<100'	unemployed	1.00	'male single'	none	4.00	'no known property'	22.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	888.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	41.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	48.00	'existing paid'	radio/tv	10222.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	3.00	car	37.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	30.00	'no credits/all paid'	business	4221.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	1.00	car	28.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'critical/other existing 	furniture/equipment	6361.00	'<100'	'>=7'	2.00	'male single'	none	1.00	'no known property'	41.00	none	own	1.00	skilled	1.00	yes	yes	good
+'>=200'	12.00	'existing paid'	radio/tv	1297.00	'<100'	'1<=X<4'	3.00	'male mar/wid'	none	4.00	'real estate'	23.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	'new car'	900.00	'no known savings'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	car	23.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	21.00	'existing paid'	furniture/equipment	2241.00	'<100'	'>=7'	4.00	'male single'	none	2.00	'real estate'	50.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	6.00	'delayed previously'	furniture/equipment	1050.00	'<100'	unemployed	4.00	'male single'	none	1.00	'life insurance'	35.00	stores	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	6.00	'critical/other existing 	education	1047.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	50.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	other	6314.00	'<100'	unemployed	4.00	'male single'	'co applicant'	2.00	'no known property'	27.00	bank	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	30.00	'all paid'	furniture/equipment	3496.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	2.00	car	34.00	stores	own	1.00	skilled	2.00	yes	yes	good
+'no checking'	48.00	'all paid'	business	3609.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	'real estate'	27.00	stores	own	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'critical/other existing 	'new car'	4843.00	'<100'	'>=7'	3.00	'male single'	'co applicant'	4.00	'life insurance'	43.00	none	rent	2.00	skilled	1.00	yes	yes	bad
+'>=200'	30.00	'critical/other existing 	radio/tv	3017.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	47.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	business	4139.00	'100<=X<500'	'1<=X<4'	3.00	'male single'	none	3.00	'life insurance'	27.00	none	own	2.00	'unskilled resident'	1.00	yes	yes	good
+'no checking'	36.00	'existing paid'	business	5742.00	'100<=X<500'	'4<=X<7'	2.00	'male single'	none	2.00	car	31.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	60.00	'existing paid'	'new car'	10366.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'life insurance'	42.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	6.00	'critical/other existing 	'new car'	2080.00	'500<=X<1000'	'1<=X<4'	1.00	'male mar/wid'	none	2.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	21.00	'delayed previously'	business	2580.00	'500<=X<1000'	'<1'	4.00	'male single'	none	2.00	'real estate'	41.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	30.00	'critical/other existing 	radio/tv	4530.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	car	26.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	24.00	'critical/other existing 	furniture/equipment	5150.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	33.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	72.00	'existing paid'	radio/tv	5595.00	'100<=X<500'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	radio/tv	2384.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	64.00	bank	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	1453.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	1.00	'real estate'	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'existing paid'	education	1538.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	2.00	'no known property'	56.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	2279.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	37.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'no checking'	15.00	'delayed previously'	radio/tv	1478.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	3.00	'real estate'	33.00	bank	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	radio/tv	5103.00	'<100'	'<1'	3.00	'male mar/wid'	none	3.00	'no known property'	47.00	none	'for free'	3.00	skilled	1.00	yes	yes	good
+'0<=X<200'	36.00	'delayed previously'	business	9857.00	'100<=X<500'	'4<=X<7'	1.00	'male single'	none	3.00	'life insurance'	31.00	none	own	2.00	'unskilled resident'	2.00	yes	yes	good
+'no checking'	60.00	'existing paid'	'new car'	6527.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	34.00	none	'for free'	1.00	skilled	2.00	yes	yes	good
+'>=200'	10.00	'critical/other existing 	radio/tv	1347.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	2.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	36.00	'delayed previously'	'new car'	2862.00	'100<=X<500'	'>=7'	4.00	'male single'	none	3.00	'no known property'	30.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'no checking'	9.00	'existing paid'	radio/tv	2753.00	'100<=X<500'	'>=7'	3.00	'male single'	'co applicant'	4.00	car	35.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	'new car'	3651.00	'>=1000'	'1<=X<4'	1.00	'male single'	none	3.00	'life insurance'	31.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	15.00	'critical/other existing 	furniture/equipment	975.00	'<100'	'1<=X<4'	2.00	'male div/sep'	none	3.00	'life insurance'	25.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	15.00	'existing paid'	repairs	2631.00	'100<=X<500'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'real estate'	25.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	radio/tv	2896.00	'100<=X<500'	'<1'	2.00	'male single'	none	1.00	car	29.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'critical/other existing 	'new car'	4716.00	'no known savings'	'<1'	1.00	'male single'	none	3.00	'real estate'	44.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	2284.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	car	28.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	6.00	'existing paid'	'used car'	1236.00	'500<=X<1000'	'1<=X<4'	2.00	'male single'	none	4.00	'life insurance'	50.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1103.00	'<100'	'4<=X<7'	4.00	'male single'	guarantor	3.00	'real estate'	29.00	none	own	2.00	skilled	1.00	none	no	good
+'no checking'	12.00	'critical/other existing 	'new car'	926.00	'<100'	unemployed	1.00	'female div/dep/mar'	none	2.00	'life insurance'	38.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	1800.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	car	24.00	none	own	2.00	skilled	1.00	none	yes	good
+'>=200'	15.00	'existing paid'	education	1905.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	40.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	furniture/equipment	1123.00	'500<=X<1000'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	29.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	48.00	'critical/other existing 	'used car'	6331.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	46.00	none	'for free'	2.00	skilled	1.00	yes	yes	bad
+'>=200'	24.00	'existing paid'	radio/tv	1377.00	'100<=X<500'	'>=7'	4.00	'female div/dep/mar'	none	2.00	'no known property'	47.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	30.00	'delayed previously'	business	2503.00	'100<=X<500'	'>=7'	4.00	'male single'	none	2.00	'life insurance'	41.00	stores	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	27.00	'existing paid'	business	2528.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	'life insurance'	32.00	none	own	1.00	skilled	2.00	yes	yes	good
+'no checking'	15.00	'existing paid'	'new car'	5324.00	'500<=X<1000'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'no known property'	35.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	48.00	'existing paid'	'new car'	6560.00	'100<=X<500'	'4<=X<7'	3.00	'male single'	none	2.00	'life insurance'	24.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'no credits/all paid'	furniture/equipment	2969.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	3.00	'life insurance'	25.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	9.00	'existing paid'	radio/tv	1206.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'real estate'	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	radio/tv	2118.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	37.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	629.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	3.00	'life insurance'	32.00	bank	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	6.00	'all paid'	education	1198.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'no known property'	35.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'no checking'	21.00	'existing paid'	'used car'	2476.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'real estate'	46.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	9.00	'critical/other existing 	radio/tv	1138.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	25.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	60.00	'existing paid'	'new car'	14027.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	'no known property'	27.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	30.00	'critical/other existing 	'used car'	7596.00	'no known savings'	'>=7'	1.00	'male single'	none	4.00	car	63.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	30.00	'critical/other existing 	radio/tv	3077.00	'no known savings'	'>=7'	3.00	'male single'	none	2.00	car	40.00	none	own	2.00	skilled	2.00	yes	yes	good
+'no checking'	18.00	'existing paid'	radio/tv	1505.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'no known property'	32.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	24.00	'critical/other existing 	radio/tv	3148.00	'no known savings'	'1<=X<4'	3.00	'male single'	none	2.00	car	31.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	20.00	'no credits/all paid'	'used car'	6148.00	'100<=X<500'	'>=7'	3.00	'male mar/wid'	none	4.00	car	31.00	bank	own	2.00	skilled	1.00	yes	yes	good
+'>=200'	9.00	'no credits/all paid'	radio/tv	1337.00	'<100'	'<1'	4.00	'male single'	none	2.00	car	34.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'0<=X<200'	6.00	'all paid'	education	433.00	'>=1000'	'<1'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	24.00	bank	rent	1.00	skilled	2.00	none	yes	bad
+'<0'	12.00	'existing paid'	'new car'	1228.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'real estate'	24.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	9.00	'existing paid'	radio/tv	790.00	'500<=X<1000'	'1<=X<4'	4.00	'female div/dep/mar'	none	3.00	'real estate'	66.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	27.00	'existing paid'	'new car'	2570.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	3.00	'real estate'	21.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	6.00	'critical/other existing 	'new car'	250.00	'>=1000'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	'real estate'	41.00	bank	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	15.00	'critical/other existing 	radio/tv	1316.00	'500<=X<1000'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	'life insurance'	47.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	1882.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	25.00	bank	rent	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	48.00	'all paid'	business	6416.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	3.00	'no known property'	59.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'>=200'	24.00	'critical/other existing 	business	1275.00	'>=1000'	'1<=X<4'	2.00	'male div/sep'	none	4.00	'real estate'	36.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	24.00	'delayed previously'	radio/tv	6403.00	'<100'	'<1'	1.00	'male single'	none	2.00	car	33.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	radio/tv	1987.00	'<100'	'1<=X<4'	2.00	'male single'	none	4.00	'real estate'	21.00	none	rent	1.00	'unskilled resident'	2.00	none	yes	bad
+'0<=X<200'	8.00	'existing paid'	radio/tv	760.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	guarantor	2.00	'real estate'	44.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'used car'	2603.00	'>=1000'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	28.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	4.00	'critical/other existing 	'new car'	3380.00	'<100'	'4<=X<7'	1.00	'female div/dep/mar'	none	1.00	'real estate'	37.00	none	own	1.00	skilled	2.00	none	yes	good
+'0<=X<200'	36.00	'all paid'	'domestic appliance'	3990.00	'no known savings'	'<1'	3.00	'female div/dep/mar'	none	2.00	'no known property'	29.00	bank	own	1.00	'unemp/unskilled non res'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	'used car'	11560.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	4.00	car	23.00	none	rent	2.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'<0'	18.00	'existing paid'	'new car'	4380.00	'100<=X<500'	'1<=X<4'	3.00	'male single'	none	4.00	car	35.00	none	own	1.00	'unskilled resident'	2.00	yes	yes	good
+'no checking'	6.00	'critical/other existing 	'new car'	6761.00	'<100'	'4<=X<7'	1.00	'male single'	none	3.00	'no known property'	45.00	none	own	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'0<=X<200'	30.00	'no credits/all paid'	business	4280.00	'100<=X<500'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	26.00	none	rent	2.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	24.00	'all paid'	'new car'	2325.00	'100<=X<500'	'4<=X<7'	2.00	'male single'	none	3.00	car	32.00	bank	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	10.00	'all paid'	radio/tv	1048.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	23.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	21.00	'existing paid'	radio/tv	3160.00	'no known savings'	'>=7'	4.00	'male single'	none	3.00	'life insurance'	41.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'all paid'	furniture/equipment	2483.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	4.00	'real estate'	22.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'<0'	39.00	'critical/other existing 	furniture/equipment	14179.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	4.00	'life insurance'	30.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	13.00	'critical/other existing 	business	1797.00	'<100'	'<1'	3.00	'male single'	none	1.00	'life insurance'	28.00	bank	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	15.00	'existing paid'	'new car'	2511.00	'<100'	unemployed	1.00	'female div/dep/mar'	none	4.00	car	23.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	'new car'	1274.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	1.00	'real estate'	37.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	21.00	'existing paid'	'used car'	5248.00	'no known savings'	'1<=X<4'	1.00	'male single'	none	3.00	car	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	'used car'	3029.00	'<100'	'4<=X<7'	2.00	'male single'	none	2.00	car	33.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	6.00	'existing paid'	furniture/equipment	428.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	1.00	'life insurance'	49.00	bank	own	1.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'existing paid'	'new car'	976.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	2.00	car	23.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	12.00	'existing paid'	business	841.00	'100<=X<500'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	30.00	'critical/other existing 	radio/tv	5771.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	none	2.00	car	25.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'delayed previously'	repairs	1555.00	'>=1000'	'>=7'	4.00	'male single'	none	4.00	'no known property'	55.00	none	'for free'	2.00	skilled	2.00	none	yes	bad
+'<0'	24.00	'existing paid'	'new car'	1285.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	4.00	'no known property'	32.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'>=200'	6.00	'critical/other existing 	'new car'	1299.00	'<100'	'1<=X<4'	1.00	'male single'	none	1.00	'real estate'	74.00	none	own	3.00	'unemp/unskilled non res'	2.00	none	no	good
+'>=200'	15.00	'critical/other existing 	radio/tv	1271.00	'no known savings'	'1<=X<4'	3.00	'male single'	none	4.00	'no known property'	39.00	none	'for free'	2.00	skilled	1.00	yes	yes	bad
+'no checking'	24.00	'existing paid'	'new car'	1393.00	'<100'	'1<=X<4'	2.00	'male single'	guarantor	2.00	'real estate'	31.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'critical/other existing 	'new car'	691.00	'<100'	'>=7'	4.00	'male single'	none	3.00	'life insurance'	35.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	15.00	'critical/other existing 	'new car'	5045.00	'no known savings'	'>=7'	1.00	'female div/dep/mar'	none	4.00	car	59.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'critical/other existing 	furniture/equipment	2124.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'real estate'	24.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'<0'	12.00	'existing paid'	radio/tv	2214.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	'life insurance'	24.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	21.00	'critical/other existing 	'new car'	12680.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'no known property'	30.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	24.00	'critical/other existing 	'new car'	2463.00	'100<=X<500'	'4<=X<7'	4.00	'male mar/wid'	none	3.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	radio/tv	1155.00	'<100'	'>=7'	3.00	'male mar/wid'	guarantor	3.00	'real estate'	40.00	bank	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	30.00	'existing paid'	furniture/equipment	3108.00	'<100'	'<1'	2.00	'male div/sep'	none	4.00	'life insurance'	31.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	10.00	'existing paid'	'used car'	2901.00	'no known savings'	'<1'	1.00	'female div/dep/mar'	none	4.00	'real estate'	31.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'critical/other existing 	furniture/equipment	3617.00	'<100'	'>=7'	1.00	'male single'	none	4.00	car	28.00	none	rent	3.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	1655.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'real estate'	63.00	none	own	2.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	24.00	'existing paid'	'used car'	2812.00	'no known savings'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'real estate'	26.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	36.00	'critical/other existing 	education	8065.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'no known property'	25.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	21.00	'critical/other existing 	'used car'	3275.00	'<100'	'>=7'	1.00	'male single'	none	4.00	car	36.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	24.00	'critical/other existing 	radio/tv	2223.00	'100<=X<500'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	52.00	bank	own	2.00	skilled	1.00	none	yes	good
+'>=200'	12.00	'critical/other existing 	'new car'	1480.00	'500<=X<1000'	unemployed	2.00	'male single'	none	4.00	'no known property'	66.00	bank	'for free'	3.00	'unemp/unskilled non res'	1.00	none	yes	good
+'<0'	24.00	'existing paid'	'new car'	1371.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'real estate'	25.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	36.00	'critical/other existing 	'new car'	3535.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	car	37.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'existing paid'	radio/tv	3509.00	'<100'	'4<=X<7'	4.00	'female div/dep/mar'	guarantor	1.00	'real estate'	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'critical/other existing 	'used car'	5711.00	'>=1000'	'>=7'	4.00	'male single'	none	2.00	car	38.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	18.00	'existing paid'	repairs	3872.00	'<100'	unemployed	2.00	'female div/dep/mar'	none	4.00	car	67.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	39.00	'critical/other existing 	radio/tv	4933.00	'<100'	'4<=X<7'	2.00	'male single'	guarantor	2.00	'real estate'	25.00	none	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	'new car'	1940.00	'>=1000'	'>=7'	4.00	'male single'	none	4.00	'real estate'	60.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	12.00	'no credits/all paid'	retraining	1410.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	31.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	836.00	'100<=X<500'	'<1'	4.00	'female div/dep/mar'	none	2.00	'life insurance'	23.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	20.00	'existing paid'	'used car'	6468.00	'no known savings'	unemployed	1.00	'male div/sep'	none	4.00	'real estate'	60.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	18.00	'existing paid'	business	1941.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	35.00	none	own	1.00	'unskilled resident'	1.00	yes	yes	good
+'no checking'	22.00	'existing paid'	radio/tv	2675.00	'500<=X<1000'	'>=7'	3.00	'male single'	none	4.00	car	40.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	48.00	'critical/other existing 	'used car'	2751.00	'no known savings'	'>=7'	4.00	'male single'	none	3.00	car	38.00	none	own	2.00	skilled	2.00	yes	yes	good
+'0<=X<200'	48.00	'delayed previously'	education	6224.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	50.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'<0'	40.00	'critical/other existing 	education	5998.00	'<100'	'1<=X<4'	4.00	'male single'	none	3.00	'no known property'	27.00	bank	own	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	21.00	'existing paid'	business	1188.00	'<100'	'>=7'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	39.00	none	own	1.00	skilled	2.00	none	yes	bad
+'no checking'	24.00	'existing paid'	'used car'	6313.00	'no known savings'	'>=7'	3.00	'male single'	none	4.00	car	41.00	none	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	6.00	'critical/other existing 	furniture/equipment	1221.00	'no known savings'	'1<=X<4'	1.00	'male mar/wid'	none	2.00	'life insurance'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'>=200'	24.00	'existing paid'	furniture/equipment	2892.00	'<100'	'>=7'	3.00	'male div/sep'	none	4.00	'no known property'	51.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	furniture/equipment	3062.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	3.00	'no known property'	32.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	9.00	'existing paid'	furniture/equipment	2301.00	'100<=X<500'	'<1'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	22.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	'used car'	7511.00	'no known savings'	'>=7'	1.00	'male single'	none	4.00	'life insurance'	51.00	none	'for free'	1.00	skilled	2.00	yes	yes	bad
+'no checking'	12.00	'critical/other existing 	furniture/equipment	1258.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	4.00	'life insurance'	22.00	none	rent	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	24.00	'delayed previously'	'new car'	717.00	'no known savings'	'>=7'	4.00	'male mar/wid'	none	4.00	car	54.00	none	own	2.00	skilled	1.00	yes	yes	good
+'0<=X<200'	9.00	'existing paid'	'new car'	1549.00	'no known savings'	'<1'	4.00	'male single'	none	2.00	'real estate'	35.00	none	own	1.00	'unemp/unskilled non res'	1.00	none	yes	good
+'no checking'	24.00	'critical/other existing 	education	1597.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'no known property'	54.00	none	'for free'	2.00	skilled	2.00	none	yes	good
+'0<=X<200'	18.00	'critical/other existing 	radio/tv	1795.00	'<100'	'>=7'	3.00	'female div/dep/mar'	guarantor	4.00	'real estate'	48.00	bank	rent	2.00	'unskilled resident'	1.00	yes	yes	good
+'<0'	20.00	'critical/other existing 	furniture/equipment	4272.00	'<100'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	976.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	car	35.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	12.00	'existing paid'	'new car'	7472.00	'no known savings'	unemployed	1.00	'female div/dep/mar'	none	2.00	'real estate'	24.00	none	rent	1.00	'unemp/unskilled non res'	1.00	none	yes	good
+'<0'	36.00	'existing paid'	'new car'	9271.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	car	24.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	6.00	'existing paid'	radio/tv	590.00	'<100'	'<1'	3.00	'male mar/wid'	none	3.00	'real estate'	26.00	none	own	1.00	'unskilled resident'	1.00	none	no	good
+'no checking'	12.00	'critical/other existing 	radio/tv	930.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'real estate'	65.00	none	own	4.00	skilled	1.00	none	yes	good
+'0<=X<200'	42.00	'all paid'	'used car'	9283.00	'<100'	unemployed	1.00	'male single'	none	2.00	'no known property'	55.00	bank	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	15.00	'no credits/all paid'	'new car'	1778.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	1.00	'real estate'	26.00	none	rent	2.00	'unemp/unskilled non res'	1.00	none	yes	bad
+'0<=X<200'	8.00	'existing paid'	business	907.00	'<100'	'<1'	3.00	'male mar/wid'	none	2.00	'real estate'	26.00	none	own	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	6.00	'existing paid'	radio/tv	484.00	'<100'	'4<=X<7'	3.00	'male mar/wid'	guarantor	3.00	'real estate'	28.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	36.00	'critical/other existing 	'used car'	9629.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	car	24.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	48.00	'existing paid'	'domestic appliance'	3051.00	'<100'	'1<=X<4'	3.00	'male single'	none	4.00	car	54.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	48.00	'existing paid'	'new car'	3931.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	'no known property'	46.00	none	'for free'	1.00	skilled	2.00	none	yes	bad
+'0<=X<200'	36.00	'delayed previously'	'new car'	7432.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	none	2.00	'life insurance'	54.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'existing paid'	'domestic appliance'	1338.00	'500<=X<1000'	'1<=X<4'	1.00	'male div/sep'	none	4.00	'real estate'	62.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'critical/other existing 	radio/tv	1554.00	'<100'	'4<=X<7'	1.00	'female div/dep/mar'	none	2.00	car	24.00	none	rent	2.00	skilled	1.00	yes	yes	good
+'<0'	36.00	'existing paid'	other	15857.00	'<100'	unemployed	2.00	'male div/sep'	'co applicant'	3.00	car	43.00	none	own	1.00	'high qualif/self emp/mgm	1.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	1345.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	3.00	'real estate'	26.00	bank	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	'new car'	1101.00	'<100'	'1<=X<4'	3.00	'male mar/wid'	none	2.00	'real estate'	27.00	none	own	2.00	skilled	1.00	yes	yes	good
+'>=200'	12.00	'existing paid'	radio/tv	3016.00	'<100'	'1<=X<4'	3.00	'male mar/wid'	none	1.00	car	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	36.00	'existing paid'	furniture/equipment	2712.00	'<100'	'>=7'	2.00	'male single'	none	2.00	'life insurance'	41.00	bank	own	1.00	skilled	2.00	none	yes	bad
+'<0'	8.00	'critical/other existing 	'new car'	731.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	47.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	furniture/equipment	3780.00	'<100'	'<1'	3.00	'male div/sep'	none	2.00	car	35.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	21.00	'critical/other existing 	'new car'	1602.00	'<100'	'>=7'	4.00	'male mar/wid'	none	3.00	car	30.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'critical/other existing 	'new car'	3966.00	'<100'	'>=7'	1.00	'female div/dep/mar'	none	4.00	'real estate'	33.00	bank	rent	3.00	skilled	1.00	yes	yes	bad
+'no checking'	18.00	'no credits/all paid'	business	4165.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	36.00	stores	own	2.00	skilled	2.00	none	yes	bad
+'<0'	36.00	'existing paid'	'used car'	8335.00	'no known savings'	'>=7'	3.00	'male single'	none	4.00	'no known property'	47.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	48.00	'delayed previously'	business	6681.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	38.00	none	'for free'	1.00	skilled	2.00	yes	yes	good
+'no checking'	24.00	'delayed previously'	business	2375.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	2.00	car	44.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	18.00	'existing paid'	'new car'	1216.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	3.00	car	23.00	none	rent	1.00	skilled	1.00	yes	yes	bad
+'<0'	45.00	'no credits/all paid'	business	11816.00	'<100'	'>=7'	2.00	'male single'	none	4.00	car	29.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'existing paid'	radio/tv	5084.00	'no known savings'	'>=7'	2.00	'female div/dep/mar'	none	4.00	car	42.00	none	own	1.00	skilled	1.00	yes	yes	good
+'>=200'	15.00	'existing paid'	radio/tv	2327.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	3.00	'real estate'	25.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	12.00	'no credits/all paid'	'new car'	1082.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	car	48.00	bank	own	2.00	skilled	1.00	none	yes	bad
+'no checking'	12.00	'existing paid'	radio/tv	886.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	21.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	4.00	'existing paid'	furniture/equipment	601.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	3.00	'real estate'	23.00	none	rent	1.00	'unskilled resident'	2.00	none	yes	good
+'<0'	24.00	'critical/other existing 	'used car'	2957.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	63.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'critical/other existing 	radio/tv	2611.00	'<100'	'>=7'	4.00	'male mar/wid'	'co applicant'	3.00	'real estate'	46.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	36.00	'existing paid'	furniture/equipment	5179.00	'<100'	'4<=X<7'	4.00	'male single'	none	2.00	'life insurance'	29.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	21.00	'delayed previously'	'used car'	2993.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	28.00	stores	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	18.00	'existing paid'	repairs	1943.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'real estate'	23.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'all paid'	business	1559.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	car	50.00	bank	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	18.00	'existing paid'	furniture/equipment	3422.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	47.00	bank	own	3.00	skilled	2.00	yes	yes	good
+'0<=X<200'	21.00	'existing paid'	furniture/equipment	3976.00	'no known savings'	'4<=X<7'	2.00	'male single'	none	3.00	car	35.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	18.00	'existing paid'	'new car'	6761.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	4.00	car	68.00	none	rent	2.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'existing paid'	'new car'	1249.00	'<100'	'<1'	4.00	'male mar/wid'	none	2.00	'real estate'	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	9.00	'existing paid'	radio/tv	1364.00	'<100'	'4<=X<7'	3.00	'male single'	none	4.00	'real estate'	59.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	radio/tv	709.00	'<100'	'>=7'	4.00	'male single'	none	4.00	'real estate'	57.00	stores	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'<0'	20.00	'critical/other existing 	'new car'	2235.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	guarantor	2.00	'life insurance'	33.00	bank	rent	2.00	skilled	1.00	none	no	bad
+'no checking'	24.00	'critical/other existing 	'used car'	4042.00	'no known savings'	'4<=X<7'	3.00	'male single'	none	4.00	'life insurance'	43.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	15.00	'critical/other existing 	radio/tv	1471.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	35.00	none	'for free'	2.00	skilled	1.00	yes	yes	good
+'<0'	18.00	'all paid'	'new car'	1442.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	'no known property'	32.00	none	'for free'	2.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	36.00	'delayed previously'	'new car'	10875.00	'<100'	'>=7'	2.00	'male single'	none	2.00	car	45.00	none	own	2.00	skilled	2.00	yes	yes	good
+'no checking'	24.00	'existing paid'	'new car'	1474.00	'100<=X<500'	'<1'	4.00	'male mar/wid'	none	3.00	'real estate'	33.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	10.00	'existing paid'	retraining	894.00	'no known savings'	'4<=X<7'	4.00	'female div/dep/mar'	none	3.00	'life insurance'	40.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	15.00	'critical/other existing 	furniture/equipment	3343.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'no known property'	28.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'<0'	15.00	'existing paid'	'new car'	3959.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'life insurance'	29.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	9.00	'existing paid'	'new car'	3577.00	'100<=X<500'	'1<=X<4'	1.00	'male single'	guarantor	2.00	'real estate'	26.00	none	rent	1.00	skilled	2.00	none	no	good
+'no checking'	24.00	'critical/other existing 	'used car'	5804.00	'>=1000'	'1<=X<4'	4.00	'male single'	none	2.00	'real estate'	27.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'delayed previously'	business	2169.00	'<100'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	car	28.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'<0'	24.00	'existing paid'	radio/tv	2439.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'real estate'	35.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	27.00	'critical/other existing 	furniture/equipment	4526.00	'>=1000'	'<1'	4.00	'male single'	none	2.00	'real estate'	32.00	stores	own	2.00	'unskilled resident'	2.00	yes	yes	good
+'no checking'	10.00	'existing paid'	furniture/equipment	2210.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	25.00	bank	rent	1.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	15.00	'existing paid'	furniture/equipment	2221.00	'500<=X<1000'	'1<=X<4'	2.00	'female div/dep/mar'	none	4.00	car	20.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	2389.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	1.00	car	27.00	stores	own	1.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	furniture/equipment	3331.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'life insurance'	42.00	stores	own	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'existing paid'	business	7409.00	'no known savings'	'>=7'	3.00	'male single'	none	2.00	'life insurance'	37.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	652.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	24.00	none	rent	1.00	skilled	1.00	none	yes	good
+'no checking'	36.00	'delayed previously'	furniture/equipment	7678.00	'500<=X<1000'	'4<=X<7'	2.00	'female div/dep/mar'	none	4.00	car	40.00	none	own	2.00	skilled	1.00	yes	yes	good
+'>=200'	6.00	'critical/other existing 	'new car'	1343.00	'<100'	'>=7'	1.00	'male single'	none	4.00	'real estate'	46.00	none	own	2.00	skilled	2.00	none	no	good
+'<0'	24.00	'critical/other existing 	business	1382.00	'100<=X<500'	'4<=X<7'	4.00	'male single'	none	1.00	'real estate'	26.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	15.00	'existing paid'	'domestic appliance'	874.00	'no known savings'	'<1'	4.00	'female div/dep/mar'	none	1.00	'real estate'	24.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	12.00	'existing paid'	furniture/equipment	3590.00	'<100'	'1<=X<4'	2.00	'male single'	'co applicant'	2.00	'life insurance'	29.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	11.00	'critical/other existing 	'new car'	1322.00	'>=1000'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	car	40.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	18.00	'all paid'	radio/tv	1940.00	'<100'	'<1'	3.00	'male single'	'co applicant'	4.00	'no known property'	36.00	bank	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	36.00	'existing paid'	radio/tv	3595.00	'<100'	'>=7'	4.00	'male single'	none	2.00	car	28.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	9.00	'existing paid'	'new car'	1422.00	'<100'	'<1'	3.00	'male single'	none	2.00	'no known property'	27.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	30.00	'critical/other existing 	radio/tv	6742.00	'no known savings'	'4<=X<7'	2.00	'male single'	none	3.00	'life insurance'	36.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'used car'	7814.00	'<100'	'4<=X<7'	3.00	'male single'	none	3.00	car	38.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	'used car'	9277.00	'no known savings'	'1<=X<4'	2.00	'male div/sep'	none	4.00	'no known property'	48.00	none	'for free'	1.00	skilled	1.00	yes	yes	good
+'0<=X<200'	30.00	'critical/other existing 	'new car'	2181.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'real estate'	36.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	1098.00	'<100'	unemployed	4.00	'female div/dep/mar'	none	4.00	car	65.00	none	own	2.00	'unemp/unskilled non res'	1.00	none	yes	good
+'0<=X<200'	24.00	'existing paid'	furniture/equipment	4057.00	'<100'	'4<=X<7'	3.00	'male div/sep'	none	3.00	car	43.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'<0'	12.00	'existing paid'	education	795.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	53.00	none	own	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	24.00	'critical/other existing 	business	2825.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	3.00	'no known property'	34.00	none	own	2.00	skilled	2.00	yes	yes	good
+'0<=X<200'	48.00	'existing paid'	business	15672.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	car	23.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	36.00	'critical/other existing 	'new car'	6614.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	34.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	28.00	'all paid'	'used car'	7824.00	'no known savings'	'<1'	3.00	'male single'	guarantor	4.00	'real estate'	40.00	bank	rent	2.00	skilled	2.00	yes	yes	good
+'<0'	27.00	'critical/other existing 	business	2442.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	43.00	stores	own	4.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	15.00	'critical/other existing 	radio/tv	1829.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	46.00	none	own	2.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'critical/other existing 	'new car'	2171.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'life insurance'	38.00	bank	own	2.00	'unskilled resident'	1.00	none	no	good
+'0<=X<200'	36.00	'critical/other existing 	'used car'	5800.00	'<100'	'1<=X<4'	3.00	'male single'	none	4.00	car	34.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	18.00	'critical/other existing 	radio/tv	1169.00	'no known savings'	'1<=X<4'	4.00	'male single'	none	3.00	'life insurance'	29.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	36.00	'delayed previously'	'used car'	8947.00	'no known savings'	'4<=X<7'	3.00	'male single'	none	2.00	car	31.00	stores	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'<0'	21.00	'existing paid'	radio/tv	2606.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	28.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'critical/other existing 	furniture/equipment	1592.00	'>=1000'	'4<=X<7'	3.00	'female div/dep/mar'	none	2.00	'life insurance'	35.00	none	own	1.00	skilled	1.00	none	no	good
+'no checking'	15.00	'existing paid'	furniture/equipment	2186.00	'no known savings'	'4<=X<7'	1.00	'female div/dep/mar'	none	4.00	'real estate'	33.00	bank	rent	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	18.00	'existing paid'	furniture/equipment	4153.00	'<100'	'1<=X<4'	2.00	'male single'	'co applicant'	3.00	car	42.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	16.00	'critical/other existing 	'new car'	2625.00	'<100'	'>=7'	2.00	'male single'	guarantor	4.00	'life insurance'	43.00	bank	rent	1.00	skilled	1.00	yes	yes	bad
+'no checking'	20.00	'critical/other existing 	'new car'	3485.00	'no known savings'	'<1'	2.00	'male div/sep'	none	4.00	'real estate'	44.00	none	own	2.00	skilled	1.00	yes	yes	good
+'no checking'	36.00	'critical/other existing 	'used car'	10477.00	'no known savings'	'>=7'	2.00	'male single'	none	4.00	'no known property'	42.00	none	'for free'	2.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	radio/tv	1386.00	'no known savings'	'1<=X<4'	4.00	'male mar/wid'	none	2.00	'real estate'	40.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	1278.00	'<100'	'>=7'	4.00	'male single'	none	1.00	'real estate'	36.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	12.00	'existing paid'	radio/tv	1107.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'real estate'	20.00	none	rent	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'<0'	21.00	'existing paid'	'new car'	3763.00	'no known savings'	'4<=X<7'	2.00	'male single'	'co applicant'	2.00	'real estate'	24.00	none	own	1.00	'unskilled resident'	1.00	none	no	good
+'0<=X<200'	36.00	'existing paid'	education	3711.00	'no known savings'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	car	27.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'delayed previously'	'used car'	3594.00	'<100'	'<1'	1.00	'female div/dep/mar'	none	2.00	'life insurance'	46.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	9.00	'existing paid'	'new car'	3195.00	'no known savings'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	'real estate'	33.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	36.00	'delayed previously'	radio/tv	4454.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	4.00	'real estate'	34.00	none	own	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	24.00	'critical/other existing 	furniture/equipment	4736.00	'<100'	'<1'	2.00	'female div/dep/mar'	none	4.00	car	25.00	bank	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	30.00	'existing paid'	radio/tv	2991.00	'no known savings'	'>=7'	2.00	'female div/dep/mar'	none	4.00	car	25.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	11.00	'existing paid'	business	2142.00	'>=1000'	'>=7'	1.00	'male div/sep'	none	2.00	'real estate'	28.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'all paid'	business	3161.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	31.00	none	rent	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	48.00	'no credits/all paid'	other	18424.00	'<100'	'1<=X<4'	1.00	'female div/dep/mar'	none	2.00	'life insurance'	32.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	no	bad
+'no checking'	10.00	'existing paid'	'used car'	2848.00	'100<=X<500'	'1<=X<4'	1.00	'male single'	'co applicant'	2.00	'real estate'	32.00	none	own	1.00	skilled	2.00	none	yes	good
+'<0'	6.00	'existing paid'	'new car'	14896.00	'<100'	'>=7'	1.00	'male single'	none	4.00	'no known property'	68.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	24.00	'existing paid'	furniture/equipment	2359.00	'100<=X<500'	unemployed	1.00	'male div/sep'	none	1.00	'life insurance'	33.00	none	own	1.00	skilled	1.00	none	yes	bad
+'<0'	24.00	'existing paid'	furniture/equipment	3345.00	'<100'	'>=7'	4.00	'male single'	none	2.00	'life insurance'	39.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'no checking'	18.00	'critical/other existing 	furniture/equipment	1817.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	'no known property'	28.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	48.00	'delayed previously'	radio/tv	12749.00	'500<=X<1000'	'4<=X<7'	4.00	'male single'	none	1.00	car	37.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	9.00	'existing paid'	radio/tv	1366.00	'<100'	'<1'	3.00	'female div/dep/mar'	none	4.00	'life insurance'	22.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	12.00	'existing paid'	'new car'	2002.00	'<100'	'4<=X<7'	3.00	'male single'	none	4.00	'life insurance'	30.00	none	rent	1.00	skilled	2.00	yes	yes	good
+'<0'	24.00	'all paid'	furniture/equipment	6872.00	'<100'	'<1'	2.00	'male div/sep'	none	1.00	'life insurance'	55.00	bank	own	1.00	skilled	1.00	yes	yes	bad
+'<0'	12.00	'all paid'	'new car'	697.00	'<100'	'<1'	4.00	'male single'	none	2.00	car	46.00	bank	own	2.00	skilled	1.00	yes	yes	bad
+'<0'	18.00	'critical/other existing 	furniture/equipment	1049.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	21.00	none	rent	1.00	skilled	1.00	none	yes	good
+'<0'	48.00	'existing paid'	'used car'	10297.00	'<100'	'4<=X<7'	4.00	'male single'	none	4.00	'no known property'	39.00	stores	'for free'	3.00	skilled	2.00	yes	yes	bad
+'no checking'	30.00	'existing paid'	radio/tv	1867.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	car	58.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	12.00	'delayed previously'	'new car'	1344.00	'<100'	'1<=X<4'	4.00	'male single'	none	2.00	'real estate'	43.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'<0'	24.00	'existing paid'	furniture/equipment	1747.00	'<100'	'<1'	4.00	'male single'	'co applicant'	1.00	'life insurance'	24.00	none	own	1.00	'unskilled resident'	1.00	none	no	good
+'0<=X<200'	9.00	'existing paid'	radio/tv	1670.00	'<100'	'<1'	4.00	'female div/dep/mar'	none	2.00	car	22.00	none	own	1.00	skilled	1.00	yes	yes	bad
+'no checking'	9.00	'critical/other existing 	'new car'	1224.00	'<100'	'1<=X<4'	3.00	'male single'	none	1.00	'real estate'	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	radio/tv	522.00	'500<=X<1000'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	42.00	none	own	2.00	skilled	2.00	yes	yes	good
+'<0'	12.00	'existing paid'	radio/tv	1498.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	car	23.00	bank	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	30.00	'delayed previously'	radio/tv	1919.00	'100<=X<500'	'<1'	4.00	'male single'	none	3.00	'no known property'	30.00	stores	own	2.00	'high qualif/self emp/mgm	1.00	none	yes	bad
+'>=200'	9.00	'existing paid'	radio/tv	745.00	'<100'	'1<=X<4'	3.00	'female div/dep/mar'	none	2.00	'real estate'	28.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	6.00	'existing paid'	radio/tv	2063.00	'<100'	'<1'	4.00	'male mar/wid'	none	3.00	car	30.00	none	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	60.00	'existing paid'	education	6288.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	42.00	none	'for free'	1.00	skilled	1.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	'used car'	6842.00	'no known savings'	'1<=X<4'	2.00	'male single'	none	4.00	'life insurance'	46.00	none	own	2.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	12.00	'existing paid'	'new car'	3527.00	'no known savings'	'<1'	2.00	'male single'	none	3.00	'life insurance'	45.00	none	own	1.00	'high qualif/self emp/mgm	2.00	yes	yes	good
+'no checking'	10.00	'existing paid'	'new car'	1546.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	'real estate'	31.00	none	own	1.00	'unskilled resident'	2.00	none	no	good
+'no checking'	24.00	'existing paid'	furniture/equipment	929.00	'no known savings'	'4<=X<7'	4.00	'male single'	none	2.00	car	31.00	stores	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	4.00	'critical/other existing 	'new car'	1455.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	'real estate'	42.00	none	own	3.00	'unskilled resident'	2.00	none	yes	good
+'<0'	15.00	'existing paid'	furniture/equipment	1845.00	'<100'	'<1'	4.00	'female div/dep/mar'	guarantor	1.00	'life insurance'	46.00	none	rent	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	48.00	'no credits/all paid'	'new car'	8358.00	'500<=X<1000'	'<1'	1.00	'female div/dep/mar'	none	1.00	car	30.00	none	own	2.00	skilled	1.00	none	yes	good
+'<0'	24.00	'all paid'	furniture/equipment	3349.00	'500<=X<1000'	'<1'	4.00	'male single'	none	4.00	'no known property'	30.00	none	'for free'	1.00	skilled	2.00	yes	yes	bad
+'no checking'	12.00	'existing paid'	'new car'	2859.00	'no known savings'	unemployed	4.00	'male single'	none	4.00	'no known property'	38.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	18.00	'existing paid'	furniture/equipment	1533.00	'<100'	'<1'	4.00	'male mar/wid'	'co applicant'	1.00	'life insurance'	43.00	none	own	1.00	'unskilled resident'	2.00	none	yes	bad
+'no checking'	24.00	'existing paid'	radio/tv	3621.00	'100<=X<500'	'>=7'	2.00	'male single'	none	4.00	car	31.00	none	own	2.00	skilled	1.00	none	yes	bad
+'0<=X<200'	18.00	'critical/other existing 	business	3590.00	'<100'	unemployed	3.00	'male mar/wid'	none	3.00	car	40.00	none	own	3.00	'unemp/unskilled non res'	2.00	yes	yes	good
+'<0'	36.00	'delayed previously'	business	2145.00	'<100'	'4<=X<7'	2.00	'male single'	none	1.00	car	24.00	none	own	2.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	24.00	'existing paid'	'used car'	4113.00	'500<=X<1000'	'<1'	3.00	'female div/dep/mar'	none	4.00	car	28.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	36.00	'existing paid'	furniture/equipment	10974.00	'<100'	unemployed	4.00	'female div/dep/mar'	none	2.00	car	26.00	none	own	2.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'<0'	12.00	'existing paid'	'new car'	1893.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	guarantor	4.00	'life insurance'	29.00	none	own	1.00	skilled	1.00	yes	yes	good
+'<0'	24.00	'critical/other existing 	radio/tv	1231.00	'>=1000'	'>=7'	4.00	'female div/dep/mar'	none	4.00	'life insurance'	57.00	none	rent	2.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'>=200'	30.00	'critical/other existing 	radio/tv	3656.00	'no known savings'	'>=7'	4.00	'male single'	none	4.00	'life insurance'	49.00	stores	own	2.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	9.00	'critical/other existing 	radio/tv	1154.00	'<100'	'>=7'	2.00	'male single'	none	4.00	'real estate'	37.00	none	own	3.00	'unskilled resident'	1.00	none	yes	good
+'<0'	28.00	'existing paid'	'new car'	4006.00	'<100'	'1<=X<4'	3.00	'male single'	none	2.00	car	45.00	none	own	1.00	'unskilled resident'	1.00	none	yes	bad
+'0<=X<200'	24.00	'existing paid'	furniture/equipment	3069.00	'100<=X<500'	'>=7'	4.00	'male single'	none	4.00	'no known property'	30.00	none	'for free'	1.00	skilled	1.00	none	yes	good
+'no checking'	6.00	'critical/other existing 	radio/tv	1740.00	'<100'	'>=7'	2.00	'male mar/wid'	none	2.00	'real estate'	30.00	none	rent	2.00	skilled	1.00	none	yes	good
+'0<=X<200'	21.00	'delayed previously'	'new car'	2353.00	'<100'	'1<=X<4'	1.00	'male div/sep'	none	4.00	'life insurance'	47.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	15.00	'existing paid'	'new car'	3556.00	'no known savings'	'1<=X<4'	3.00	'male single'	none	2.00	'no known property'	29.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	radio/tv	2397.00	'500<=X<1000'	'>=7'	3.00	'male single'	none	2.00	car	35.00	bank	own	2.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	6.00	'existing paid'	repairs	454.00	'<100'	'<1'	3.00	'male mar/wid'	none	1.00	'life insurance'	22.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	30.00	'existing paid'	radio/tv	1715.00	'no known savings'	'1<=X<4'	4.00	'female div/dep/mar'	none	1.00	car	26.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	27.00	'critical/other existing 	radio/tv	2520.00	'500<=X<1000'	'1<=X<4'	4.00	'male single'	none	2.00	'life insurance'	23.00	none	own	2.00	'unskilled resident'	1.00	none	yes	bad
+'no checking'	15.00	'existing paid'	radio/tv	3568.00	'<100'	'>=7'	4.00	'female div/dep/mar'	none	2.00	car	54.00	bank	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	42.00	'existing paid'	radio/tv	7166.00	'no known savings'	'4<=X<7'	2.00	'male mar/wid'	none	4.00	'life insurance'	29.00	none	rent	1.00	skilled	1.00	yes	yes	good
+'<0'	11.00	'critical/other existing 	'new car'	3939.00	'<100'	'1<=X<4'	1.00	'male single'	none	2.00	'real estate'	40.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'0<=X<200'	15.00	'existing paid'	repairs	1514.00	'100<=X<500'	'1<=X<4'	4.00	'male single'	guarantor	2.00	'real estate'	22.00	none	own	1.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'existing paid'	'new car'	7393.00	'<100'	'1<=X<4'	1.00	'male single'	none	4.00	'life insurance'	43.00	none	own	1.00	'unskilled resident'	2.00	none	yes	good
+'<0'	24.00	'all paid'	'new car'	1193.00	'<100'	unemployed	1.00	'female div/dep/mar'	'co applicant'	4.00	'no known property'	29.00	none	rent	2.00	'unemp/unskilled non res'	1.00	none	yes	bad
+'<0'	60.00	'existing paid'	business	7297.00	'<100'	'>=7'	4.00	'male single'	'co applicant'	4.00	'no known property'	36.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'no checking'	30.00	'critical/other existing 	radio/tv	2831.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	2.00	car	33.00	none	own	1.00	skilled	1.00	yes	yes	good
+'>=200'	24.00	'existing paid'	radio/tv	1258.00	'500<=X<1000'	'1<=X<4'	3.00	'female div/dep/mar'	none	3.00	car	57.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'0<=X<200'	6.00	'existing paid'	radio/tv	753.00	'<100'	'1<=X<4'	2.00	'female div/dep/mar'	guarantor	3.00	'real estate'	64.00	none	own	1.00	skilled	1.00	none	yes	good
+'0<=X<200'	18.00	'delayed previously'	business	2427.00	'no known savings'	'>=7'	4.00	'male single'	none	2.00	'life insurance'	42.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	24.00	'delayed previously'	'new car'	2538.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	47.00	none	own	2.00	'unskilled resident'	2.00	none	yes	bad
+'0<=X<200'	15.00	'all paid'	'new car'	1264.00	'100<=X<500'	'1<=X<4'	2.00	'male mar/wid'	none	2.00	'life insurance'	25.00	none	rent	1.00	skilled	1.00	none	yes	bad
+'0<=X<200'	30.00	'critical/other existing 	furniture/equipment	8386.00	'<100'	'4<=X<7'	2.00	'male single'	none	2.00	'life insurance'	49.00	none	own	1.00	skilled	1.00	none	yes	bad
+'no checking'	48.00	'existing paid'	business	4844.00	'<100'	unemployed	3.00	'male single'	none	2.00	car	33.00	bank	rent	1.00	'high qualif/self emp/mgm	1.00	yes	yes	bad
+'>=200'	21.00	'existing paid'	'new car'	2923.00	'100<=X<500'	'1<=X<4'	1.00	'female div/dep/mar'	none	1.00	car	28.00	bank	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'<0'	36.00	'existing paid'	'used car'	8229.00	'<100'	'1<=X<4'	2.00	'male single'	none	2.00	'life insurance'	26.00	none	own	1.00	skilled	2.00	none	yes	bad
+'no checking'	24.00	'critical/other existing 	furniture/equipment	2028.00	'<100'	'4<=X<7'	2.00	'male single'	none	2.00	'life insurance'	30.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	15.00	'critical/other existing 	furniture/equipment	1433.00	'<100'	'1<=X<4'	4.00	'female div/dep/mar'	none	3.00	'life insurance'	25.00	none	rent	2.00	skilled	1.00	none	yes	good
+'>=200'	42.00	'no credits/all paid'	business	6289.00	'<100'	'<1'	2.00	'male div/sep'	none	1.00	'life insurance'	33.00	none	own	2.00	skilled	1.00	none	yes	good
+'no checking'	13.00	'existing paid'	radio/tv	1409.00	'100<=X<500'	unemployed	2.00	'female div/dep/mar'	none	4.00	'real estate'	64.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	24.00	'existing paid'	'used car'	6579.00	'<100'	unemployed	4.00	'male single'	none	2.00	'no known property'	29.00	none	'for free'	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'0<=X<200'	24.00	'critical/other existing 	radio/tv	1743.00	'<100'	'>=7'	4.00	'male single'	none	2.00	'life insurance'	48.00	none	own	2.00	'unskilled resident'	1.00	none	yes	good
+'no checking'	12.00	'critical/other existing 	education	3565.00	'no known savings'	'<1'	2.00	'male single'	none	1.00	'life insurance'	37.00	none	own	2.00	'unskilled resident'	2.00	none	yes	good
+'no checking'	15.00	'all paid'	radio/tv	1569.00	'100<=X<500'	'>=7'	4.00	'male single'	none	4.00	car	34.00	bank	own	1.00	'unskilled resident'	2.00	none	yes	good
+'<0'	18.00	'existing paid'	radio/tv	1936.00	'no known savings'	'4<=X<7'	2.00	'male mar/wid'	none	4.00	car	23.00	none	rent	2.00	'unskilled resident'	1.00	none	yes	good
+'<0'	36.00	'existing paid'	furniture/equipment	3959.00	'<100'	unemployed	4.00	'male single'	none	3.00	'life insurance'	30.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	'new car'	2390.00	'no known savings'	'>=7'	4.00	'male single'	none	3.00	car	50.00	none	own	1.00	skilled	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	furniture/equipment	1736.00	'<100'	'4<=X<7'	3.00	'female div/dep/mar'	none	4.00	'real estate'	31.00	none	own	1.00	'unskilled resident'	1.00	none	yes	good
+'<0'	30.00	'existing paid'	'used car'	3857.00	'<100'	'1<=X<4'	4.00	'male div/sep'	none	4.00	'life insurance'	40.00	none	own	1.00	'high qualif/self emp/mgm	1.00	yes	yes	good
+'no checking'	12.00	'existing paid'	radio/tv	804.00	'<100'	'>=7'	4.00	'male single'	none	4.00	car	38.00	none	own	1.00	skilled	1.00	none	yes	good
+'<0'	45.00	'existing paid'	radio/tv	1845.00	'<100'	'1<=X<4'	4.00	'male single'	none	4.00	'no known property'	23.00	none	'for free'	1.00	skilled	1.00	yes	yes	bad
+'0<=X<200'	45.00	'critical/other existing 	'used car'	4576.00	'100<=X<500'	unemployed	3.00	'male single'	none	4.00	car	27.00	none	own	1.00	skilled	1.00	none	yes	good
