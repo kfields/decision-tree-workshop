@@ -39,5 +39,10 @@ namespace DtWorkshop.GUI
         {
             Document = new DtDocument();
         }
+
+        private void DtDocForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Document.Close();
+        }
     }
 }

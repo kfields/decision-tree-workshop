@@ -38,7 +38,7 @@ namespace DtWorkshop.GUI
         {
             RefreshPages(RefreshKind.Final);
             //TODO:  Fix and call to TerminateThreads?
-            //CancelBuild();
+            CancelBuild();
         }
         public void CancelBuild()
         {

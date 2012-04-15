@@ -19,7 +19,7 @@
             }
             if (disposing)
             {
-                Document.Close();
+                //Document.Close();
             }
             base.Dispose(disposing);
         }
@@ -82,7 +82,7 @@
             this.buildPage.Location = new System.Drawing.Point(4, 22);
             this.buildPage.Name = "buildPage";
             this.buildPage.Padding = new System.Windows.Forms.Padding(3);
-            this.buildPage.Size = new System.Drawing.Size(603, 421);
+            this.buildPage.Size = new System.Drawing.Size(693, 497);
             this.buildPage.TabIndex = 2;
             this.buildPage.Text = "Build";
             this.buildPage.UseVisualStyleBackColor = true;
@@ -92,7 +92,7 @@
             this.reportControl.Dock = System.Windows.Forms.DockStyle.Fill;
             this.reportControl.Location = new System.Drawing.Point(3, 3);
             this.reportControl.Name = "reportControl";
-            this.reportControl.Size = new System.Drawing.Size(597, 415);
+            this.reportControl.Size = new System.Drawing.Size(687, 491);
             this.reportControl.TabIndex = 0;
             // 
             // graphPage
@@ -101,7 +101,7 @@
             this.graphPage.Location = new System.Drawing.Point(4, 22);
             this.graphPage.Name = "graphPage";
             this.graphPage.Padding = new System.Windows.Forms.Padding(3);
-            this.graphPage.Size = new System.Drawing.Size(603, 421);
+            this.graphPage.Size = new System.Drawing.Size(693, 497);
             this.graphPage.TabIndex = 1;
             this.graphPage.Text = "Graph";
             this.graphPage.UseVisualStyleBackColor = true;
@@ -111,7 +111,7 @@
             this.graphControl.Dock = System.Windows.Forms.DockStyle.Fill;
             this.graphControl.Location = new System.Drawing.Point(3, 3);
             this.graphControl.Name = "graphControl";
-            this.graphControl.Size = new System.Drawing.Size(597, 415);
+            this.graphControl.Size = new System.Drawing.Size(687, 491);
             this.graphControl.TabIndex = 0;
             // 
             // DtDocForm
@@ -122,6 +122,7 @@
             this.Controls.Add(this.tabControl);
             this.Name = "DtDocForm";
             this.Text = "DtDocForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.DtDocForm_FormClosing);
             this.tabControl.ResumeLayout(false);
             this.dataPage.ResumeLayout(false);
             this.buildPage.ResumeLayout(false);
