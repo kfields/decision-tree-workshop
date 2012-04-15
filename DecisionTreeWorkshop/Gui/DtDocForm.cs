@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
     public partial class DtDocForm : Form
     {

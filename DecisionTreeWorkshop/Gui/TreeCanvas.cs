@@ -6,7 +6,7 @@ using System.Windows.Documents;
 using GraphLayout;
 using System.Windows.Media;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
 	public class TreeCanvas : Canvas
 	{

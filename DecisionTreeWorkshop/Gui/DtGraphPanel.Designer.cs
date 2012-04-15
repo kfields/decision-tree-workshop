@@ -1,4 +1,4 @@
-﻿namespace DtWorkshop
+﻿namespace DtWorkshop.GUI
 {
     partial class DtGraphPanel
     {

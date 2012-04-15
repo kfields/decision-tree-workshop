@@ -1,4 +1,4 @@
-﻿namespace DtWorkshop
+﻿namespace DtWorkshop.GUI
 {
     partial class DtBuildPanel
     {
@@ -36,8 +36,10 @@
             this.HeuristicCombo = new System.Windows.Forms.ToolStripComboBox();
             this.targetAttributeLabel = new System.Windows.Forms.ToolStripLabel();
             this.TargetAttributeCombo = new System.Windows.Forms.ToolStripComboBox();
+            this.OptionsSeparator = new System.Windows.Forms.ToolStripSeparator();
             this.BuildButton = new System.Windows.Forms.ToolStripButton();
             this.CancelButton = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.TopToolStripPanel.SuspendLayout();
             this.toolStripContainer1.SuspendLayout();
@@ -79,11 +81,13 @@
             this.HeuristicCombo,
             this.targetAttributeLabel,
             this.TargetAttributeCombo,
+            this.OptionsSeparator,
             this.BuildButton,
-            this.CancelButton});
+            this.CancelButton,
+            this.toolStripSeparator1});
             this.BuildStrip.Location = new System.Drawing.Point(3, 0);
             this.BuildStrip.Name = "BuildStrip";
-            this.BuildStrip.Size = new System.Drawing.Size(468, 25);
+            this.BuildStrip.Size = new System.Drawing.Size(480, 25);
             this.BuildStrip.TabIndex = 0;
             // 
             // heuristicLabel
@@ -108,6 +112,11 @@
             this.TargetAttributeCombo.Name = "TargetAttributeCombo";
             this.TargetAttributeCombo.Size = new System.Drawing.Size(121, 25);
             // 
+            // OptionsSeparator
+            // 
+            this.OptionsSeparator.Name = "OptionsSeparator";
+            this.OptionsSeparator.Size = new System.Drawing.Size(6, 25);
+            // 
             // BuildButton
             // 
             this.BuildButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
@@ -126,6 +135,11 @@
             this.CancelButton.Size = new System.Drawing.Size(23, 22);
             this.CancelButton.Text = "toolStripButton1";
             // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
+            // 
             // DtBuildPanel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -133,6 +147,7 @@
             this.Controls.Add(this.toolStripContainer1);
             this.Name = "DtBuildPanel";
             this.Size = new System.Drawing.Size(737, 160);
+            this.Load += new System.EventHandler(this.OnLoad);
             this.toolStripContainer1.ContentPanel.ResumeLayout(false);
             this.toolStripContainer1.TopToolStripPanel.ResumeLayout(false);
             this.toolStripContainer1.TopToolStripPanel.PerformLayout();
@@ -148,13 +163,15 @@
 
         private System.Windows.Forms.ToolStripContainer toolStripContainer1;
         public System.Windows.Forms.RichTextBox RichText;
-        private System.Windows.Forms.ToolStrip BuildStrip;
         private System.Windows.Forms.ToolStripLabel targetAttributeLabel;
         public System.Windows.Forms.ToolStripComboBox TargetAttributeCombo;
         public System.Windows.Forms.ToolStripButton BuildButton;
         private System.Windows.Forms.ToolStripLabel heuristicLabel;
         public System.Windows.Forms.ToolStripComboBox HeuristicCombo;
         public System.Windows.Forms.ToolStripButton CancelButton;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        public System.Windows.Forms.ToolStrip BuildStrip;
+        public System.Windows.Forms.ToolStripSeparator OptionsSeparator;
 
 
     }

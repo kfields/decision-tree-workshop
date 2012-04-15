@@ -4,7 +4,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using GraphLayout;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
 	public class TreeCanvasNode : ContentControl, ITreeNode
 	{

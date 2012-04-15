@@ -1,14 +1,9 @@
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\bin\Release\DtWorkshop.exe
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\bin\Release\DtWorkshop.pdb
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\ResolveAssemblyReference.cache
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.DtDocForm.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.AppForm.resources
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.Properties.Resources.resources
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.exe
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.pdb
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.DtDataPanel.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.DtGraphPanel.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.DtBuildPanel.resources
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\Gui\DtWpfGraphPanel.g.cs
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\GeneratedInternalTypeHelper.g.cs
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop_MarkupCompile.cache
@@ -16,3 +11,8 @@ C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorksh
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\Gui\DtWpfGraphPanel.baml
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.g.resources
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DecisionTreeWorkshop.csproj.GenerateResource.Cache
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.GUI.DtDataPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.GUI.DtDocForm.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.GUI.DtGraphPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.GUI.DtBuildPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Release\DtWorkshop.GUI.AppForm.resources

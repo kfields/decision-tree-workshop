@@ -9,7 +9,7 @@ namespace DtWorkshop.ID3
 
     public class DtTree
     {
-        public event OnRootChanged RootChanged;
+        public event OnRootChanged RootChanged = delegate { };
         private DtNode root;
         public DtNode Root { 
             get { return root; } 

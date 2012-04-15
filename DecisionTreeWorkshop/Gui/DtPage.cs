@@ -8,10 +8,10 @@ using System.Windows.Controls;
 using System.Windows.Shapes;
 using System.Windows.Media;
 
-using DtWorkshop.ID3;
-
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
+    delegate void InvokeDelegate();
+
     public enum RefreshKind
     {
         Initial,
@@ -45,56 +45,6 @@ namespace DtWorkshop
         {
         }
     }
-    public class DtBuildPage : DtPage
-    {
-        DtBuildPanel Control;
-        TraceListener TraceListener;
-        //
-        public DtBuildPage(DtDocument document, DtBuildPanel control)
-            : base(document, "Report")
-        {
-            Control = control;
-            Control.BuildButton.Click += OnBuildButtonClicked;
-            Control.CancelButton.Click += OnCancelButtonClicked;
-            //
-            TraceListener = new DtTraceListener(Control.RichText);
-            //Debug.Listeners.Add(TraceListener);
-            Trace.Listeners.Add(TraceListener);
-        }
-        ~DtBuildPage()
-        {
-        }
-        public override void Refresh(RefreshKind kind)
-        {
-            switch(kind){
-                case RefreshKind.Initial:
-                    break;
-                case RefreshKind.Load:
-                    string[] heuristics = Enum.GetNames(typeof(DtHeuristicKind));
-                    Control.HeuristicCombo.Items.AddRange(heuristics);
-                    Control.HeuristicCombo.SelectedItem = heuristics[0];
-                    //
-                    string[] attributes = Document.DataTable.GetAttributeNames();
-                    Control.TargetAttributeCombo.Items.AddRange(attributes);
-                    Control.TargetAttributeCombo.SelectedItem = attributes[attributes.Length - 1];
-                    break;
-                case RefreshKind.Final:
-                    Trace.Listeners.Remove(TraceListener);
-                    break;
-            }
-        }
-        private void OnBuildButtonClicked(object sender, EventArgs e)
-        {
-            Document.Build(
-                (DtHeuristicKind)Enum.Parse(typeof(DtHeuristicKind), (string)Control.HeuristicCombo.SelectedItem),
-                (string)Control.TargetAttributeCombo.SelectedItem
-                );
-        }
-        private void OnCancelButtonClicked(object sender, EventArgs e)
-        {
-            Document.CancelBuild();
-        }
-    }
     public class DtGraphPage : DtPage
     {
         DtGraphPanel Control;
@@ -105,7 +55,8 @@ namespace DtWorkshop
         public DtGraphPage(DtDocument document, DtGraphPanel control)
             : base(document, "Graph")
         {
-            Document.Tree.RootChanged += OnRootChanged;
+            //Document.Tree.RootChanged += OnRootChanged;
+            Document.TreeBuilder.BuildFinished += OnBuildFinished;
             Control = control;
             DtWpfGraphPanel panel = new DtWpfGraphPanel();
             Canvas = (DtTreeCanvas)panel.FindName("treeCanvas");
@@ -126,10 +77,13 @@ namespace DtWorkshop
                     break;
             }
         }
-        private delegate void InvokeDelegate();
-        private void OnRootChanged()
+        private void OnBuildFinished()
         {
             Control.BeginInvoke(new InvokeDelegate(() => { Refresh(RefreshKind.Total); }));
+        }
+        private void OnRootChanged()
+        {
+            //Control.BeginInvoke(new InvokeDelegate(() => { Refresh(RefreshKind.Total); }));
         }
         private void OnCanvasZoomerValue(object sender, EventArgs e)
         {

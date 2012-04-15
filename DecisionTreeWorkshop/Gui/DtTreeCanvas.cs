@@ -20,7 +20,7 @@ using GraphLayout;
 
 using DtWorkshop.ID3;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
     public class DtTreeCanvas : TreeCanvas, INameScope
     {

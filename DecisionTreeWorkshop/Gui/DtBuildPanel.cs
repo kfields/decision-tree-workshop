@@ -7,13 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
     public partial class DtBuildPanel : UserControl
     {
+        public CheckBox PrepruneCheckBox;
+
         public DtBuildPanel()
         {
             InitializeComponent();
+        }
+
+        private void OnLoad(object sender, EventArgs e)
+        {
         }
     }
 }

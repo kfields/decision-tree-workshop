@@ -4,11 +4,6 @@ C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\bin\Debug\DtWorkshop
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\bin\Debug\DtWorkshop.pdb
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.exe
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.pdb
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.AppForm.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.DtDocForm.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.DtDataPanel.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.DtGraphPanel.resources
-C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.DtBuildPanel.resources
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DecisionTreeWorkshop.csproj.GenerateResource.Cache
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\Gui\DtWpfGraphPanel.g.cs
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\GeneratedInternalTypeHelper.g.cs
@@ -16,3 +11,8 @@ C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop_MarkupCompile.lref
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\Gui\DtWpfGraphPanel.baml
 C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.g.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.GUI.DtDataPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.GUI.DtDocForm.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.GUI.DtGraphPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.GUI.DtBuildPanel.resources
+C:\AAA\Dev\csharp\DecisionTreeWorkshop\DecisionTreeWorkshop\obj\Debug\DtWorkshop.GUI.AppForm.resources

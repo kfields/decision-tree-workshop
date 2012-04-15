@@ -10,7 +10,8 @@ namespace DtWorkshop.ID3
     public class DtDataTable : DataTable
     {
         public object[][] Examples;
-        Dictionary<object, object>[] HashSets;
+        //Dictionary<object, object>[] HashSets;
+        Dictionary<object, object>[] ValueDictionaries;
         //
         public void ReadCsv(string filePath)
         {
@@ -29,10 +30,10 @@ namespace DtWorkshop.ID3
             DtDelimitedImporter importer = new DtDelimitedImporter(this, filePath, delimiter);
             importer.Read();
             //
-            HashSets = new Dictionary<object, object>[Columns.Count];
+            ValueDictionaries = new Dictionary<object, object>[Columns.Count];
             for (int i = 0; i < Columns.Count; ++i )
             {
-                HashSets[i] = new Dictionary<object, object>();
+                ValueDictionaries[i] = new Dictionary<object, object>();
             }
             //
             Update();
@@ -48,9 +49,9 @@ namespace DtWorkshop.ID3
                 foreach (object item in row.ItemArray)
                 {
                     object condition;
-                    if(!HashSets[index].TryGetValue(item, out condition)){
+                    if(!ValueDictionaries[index].TryGetValue(item, out condition)){
                         condition = item;
-                        HashSets[index][item] = condition;
+                        ValueDictionaries[index][item] = condition;
                     }
                     example[index] = condition;
                     ++index;

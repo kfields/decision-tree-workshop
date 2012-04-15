@@ -1,4 +1,4 @@
-﻿namespace DtWorkshop
+﻿namespace DtWorkshop.GUI
 {
     partial class DtDocForm
     {
@@ -34,11 +34,11 @@
         {
             this.tabControl = new System.Windows.Forms.TabControl();
             this.dataPage = new System.Windows.Forms.TabPage();
-            this.dataControl = new DtWorkshop.DtDataPanel();
+            this.dataControl = new DtWorkshop.GUI.DtDataPanel();
             this.buildPage = new System.Windows.Forms.TabPage();
-            this.reportControl = new DtWorkshop.DtBuildPanel();
+            this.reportControl = new DtWorkshop.GUI.DtBuildPanel();
             this.graphPage = new System.Windows.Forms.TabPage();
-            this.graphControl = new DtWorkshop.DtGraphPanel();
+            this.graphControl = new DtWorkshop.GUI.DtGraphPanel();
             this.tabControl.SuspendLayout();
             this.dataPage.SuspendLayout();
             this.buildPage.SuspendLayout();

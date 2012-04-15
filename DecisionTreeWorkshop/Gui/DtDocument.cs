@@ -6,17 +6,16 @@ using System.IO;
 
 using DtWorkshop.ID3;
 
-namespace DtWorkshop
+namespace DtWorkshop.GUI
 {
-    public delegate void DtBuildEvent(string message);
-
     public class DtDocument
     {
+        //
         public string FilePath;
         public string FileName;
         public DtDataTable DataTable = new DtDataTable();
         public DtTree Tree = new DtTree();
-        public DtTreeBuilder TreeBuilder;
+        public DtTreeBuilder TreeBuilder = new DtTreeBuilder();
         //
         List<DtPage> Pages = new List<DtPage>();
         //
@@ -32,19 +31,21 @@ namespace DtWorkshop
         {
             DtAttribute targetAttr = DataTable.GetAttribute(_targetAttr);
             DtAttribute[] attributes = DataTable.GetAttributes();
-            TreeBuilder = new DtTreeBuilder(Tree, DataTable.Examples.AsQueryable(), targetAttr, attributes, heuristicKind);
-            TreeBuilder.Build();
+            TreeBuilder.Build(Tree, DataTable.Examples.AsQueryable(), targetAttr, attributes, heuristicKind);
             RefreshPages(RefreshKind.Total);
         }
         public void Close()
         {
             RefreshPages(RefreshKind.Final);
-            CancelBuild();
+            //TODO:  Fix and call to TerminateThreads?
+            //CancelBuild();
         }
         public void CancelBuild()
         {
-            if(TreeBuilder != null)
+            if (TreeBuilder != null)
+            {
                 TreeBuilder.Cancel();
+            }
         }
         public void AddPage(DtPage page)
         {

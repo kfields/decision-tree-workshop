@@ -58,6 +58,9 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
     <Reference Include="System.Xml.Linq">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
@@ -80,67 +83,69 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GUI\DtBuildPage.cs" />
     <Compile Include="DtTraceListener.cs" />
-    <Compile Include="Gui\DtWpfGraphPanel.xaml.cs">
+    <Compile Include="GUI\DtWpfGraphPanel.xaml.cs">
       <DependentUpon>DtWpfGraphPanel.xaml</DependentUpon>
     </Compile>
     <Compile Include="DtImporter.cs" />
     <Compile Include="ID3\DtHeuristics.cs" />
-    <Compile Include="Gui\DtDataPanel.cs">
+    <Compile Include="GUI\DtDataPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Gui\DtDataPanel.Designer.cs">
+    <Compile Include="GUI\DtDataPanel.Designer.cs">
       <DependentUpon>DtDataPanel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\DtDocForm.cs">
+    <Compile Include="GUI\DtDocForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gui\DtDocForm.Designer.cs">
+    <Compile Include="GUI\DtDocForm.Designer.cs">
       <DependentUpon>DtDocForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\DtGraphPanel.cs">
+    <Compile Include="GUI\DtGraphPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Gui\DtGraphPanel.Designer.cs">
+    <Compile Include="GUI\DtGraphPanel.Designer.cs">
       <DependentUpon>DtGraphPanel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\DtPage.cs" />
-    <Compile Include="Gui\DtBuildPanel.cs">
+    <Compile Include="GUI\DtPage.cs" />
+    <Compile Include="GUI\DtBuildPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Gui\DtBuildPanel.Designer.cs">
+    <Compile Include="GUI\DtBuildPanel.Designer.cs">
       <DependentUpon>DtBuildPanel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\DtDocument.cs" />
+    <Compile Include="GUI\DtDocument.cs" />
     <Compile Include="GraphLayout\DPoint.cs" />
     <Compile Include="GraphLayout\ITreeNode.cs" />
     <Compile Include="GraphLayout\LayeredTreeDraw.cs" />
     <Compile Include="GraphLayout\TreeConnection.cs" />
     <Compile Include="GraphLayout\TreeNodeGroup.cs" />
+    <Compile Include="ID3\DtNodeBuilder.cs" />
     <Compile Include="ID3\DtTreeBuilder.cs" />
     <Compile Include="ID3\DtTree.cs" />
-    <Compile Include="Gui\AppForm.cs">
+    <Compile Include="GUI\AppForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gui\AppForm.Designer.cs">
+    <Compile Include="GUI\AppForm.Designer.cs">
       <DependentUpon>AppForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\DtTreeCanvas.cs" />
+    <Compile Include="GUI\DtTreeCanvas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Gui\DtDataPanel.resx">
+    <EmbeddedResource Include="GUI\DtDataPanel.resx">
       <DependentUpon>DtDataPanel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gui\DtDocForm.resx">
+    <EmbeddedResource Include="GUI\DtDocForm.resx">
       <DependentUpon>DtDocForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gui\DtGraphPanel.resx">
+    <EmbeddedResource Include="GUI\DtGraphPanel.resx">
       <DependentUpon>DtGraphPanel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gui\DtBuildPanel.resx">
+    <EmbeddedResource Include="GUI\DtBuildPanel.resx">
       <DependentUpon>DtBuildPanel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gui\AppForm.resx">
+    <EmbeddedResource Include="GUI\AppForm.resx">
       <DependentUpon>AppForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -165,8 +170,8 @@
     <Compile Include="DtDataTable.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Gui\TreeCanvas.cs" />
-    <Compile Include="Gui\TreeCanvasNode.cs" />
+    <Compile Include="GUI\TreeCanvas.cs" />
+    <Compile Include="GUI\TreeCanvasNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">
@@ -207,7 +212,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Page Include="Gui\DtWpfGraphPanel.xaml">
+    <Page Include="GUI\DtWpfGraphPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

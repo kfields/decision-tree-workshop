@@ -1,0 +1,7 @@
+animal	hair	feathers	eggs	milk	airborne	aquatic	predator	toothed	backbone	breathes	venomous	fins	legs	tail	domestic	catsize	type
+aardvark	true	false	false	true	false	false	true	true	true	true	false	false	4.00	false	false	true	mammal
+antelope	true	false	false	true	false	false	false	true	true	true	false	false	4.00	true	false	true	mammal
+bass	false	false	true	false	false	true	true	true	true	false	false	true	0.00	true	false	false	fish
+bear	true	false	false	true	false	false	true	true	true	true	false	false	4.00	false	false	true	mammal
+boar	true	false	false	true	false	false	true	true	true	true	false	false	4.00	true	false	true	mammal
+buffalo	true	false	false	true	false	false	false	true	true	true	false	false	4.00	true	false	true	mammal
