@@ -89,7 +89,6 @@
       <DependentUpon>DtWpfGraphPanel.xaml</DependentUpon>
     </Compile>
     <Compile Include="DtImporter.cs" />
-    <Compile Include="ID3\DtHeuristics.cs" />
     <Compile Include="GUI\DtDataPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -121,9 +120,6 @@
     <Compile Include="GraphLayout\LayeredTreeDraw.cs" />
     <Compile Include="GraphLayout\TreeConnection.cs" />
     <Compile Include="GraphLayout\TreeNodeGroup.cs" />
-    <Compile Include="ID3\DtNodeBuilder.cs" />
-    <Compile Include="ID3\DtTreeBuilder.cs" />
-    <Compile Include="ID3\DtTree.cs" />
     <Compile Include="GUI\AppForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,6 +127,10 @@
       <DependentUpon>AppForm.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\DtTreeCanvas.cs" />
+    <Compile Include="Plugin\ID3\DtHeuristics.cs" />
+    <Compile Include="Plugin\ID3\DtNodeBuilder.cs" />
+    <Compile Include="Plugin\ID3\DtTree.cs" />
+    <Compile Include="Plugin\ID3\DtTreeBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\DtDataPanel.resx">

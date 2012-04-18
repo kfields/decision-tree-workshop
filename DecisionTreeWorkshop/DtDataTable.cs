@@ -5,7 +5,7 @@ using System.Text;
 using System.Data;
 using System.IO;
 
-namespace DtWorkshop.ID3
+namespace DtWorkshop.Plugin.ID3
 {
     public class DtDataTable : DataTable
     {

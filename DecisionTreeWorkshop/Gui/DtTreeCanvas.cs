@@ -18,7 +18,7 @@ using System.Windows.Markup;
 
 using GraphLayout;
 
-using DtWorkshop.ID3;
+using DtWorkshop.Plugin.ID3;
 
 namespace DtWorkshop.GUI
 {

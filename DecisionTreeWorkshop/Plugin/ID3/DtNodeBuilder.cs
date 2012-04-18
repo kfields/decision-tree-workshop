@@ -7,7 +7,7 @@ using System.Data;
 using System.Threading;
 using System.Diagnostics;
 
-namespace DtWorkshop.ID3
+namespace DtWorkshop.Plugin.ID3
 {
     public class DtNodeBuilder
     {
@@ -70,7 +70,7 @@ namespace DtWorkshop.ID3
                 object result = Query.First()[TreeBuilder.TargetAttr.Index];
                 //object result = Query.Single()[TreeBuilder.TargetAttr.Index];
                 if (ParentNode != null)
-                    ParentNode.AddNode(Value, new DtLeaf(result));
+                    ParentNode.AddChild(Value, new DtLeaf(result));
                 return;
             }
             // Else
@@ -80,7 +80,7 @@ namespace DtWorkshop.ID3
             DtBranch tree = new DtBranch(Attribute);
 
             if (ParentNode != null)
-                ParentNode.AddNode(Value, tree);
+                ParentNode.AddChild(Value, tree);
             else
                 TreeBuilder.Tree.Root = tree;
             //

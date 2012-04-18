@@ -5,7 +5,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-using DtWorkshop.ID3;
+using DtWorkshop.Plugin.ID3;
 
 namespace DtWorkshop.GUI
 {
@@ -13,6 +13,7 @@ namespace DtWorkshop.GUI
     {
         DtBuildPanel Control;
         CheckBox PrepruneCheckBox;
+        CheckBox PostpruneCheckBox;
         TraceListener TraceListener;
         //
         public DtBuildPage(DtDocument document, DtBuildPanel control)
@@ -48,21 +49,36 @@ namespace DtWorkshop.GUI
                     Control.TargetAttributeCombo.Items.AddRange(attributes);
                     Control.TargetAttributeCombo.SelectedItem = attributes[attributes.Length - 1];
                     //
+                    //PrepruneCheckBox
+                    //
                     CheckBox cb = PrepruneCheckBox = new CheckBox();
                     cb.Text = "Preprune";
                     cb.CheckState = CheckState.Checked;
                     ToolStripControlHost host = new ToolStripControlHost(cb);
                     Control.BuildStrip.Items.Insert(Control.BuildStrip.Items.IndexOf(Control.OptionsSeparator), host);
-
                     cb.CheckStateChanged += (s, ex) =>
                     {
-                        CheckState cs = cb.CheckState;
-                        if(cs == CheckState.Checked)
+                        if ((s as CheckBox).CheckState == CheckState.Checked)
                             Document.TreeBuilder.Prepruning = true;
                         else
                             Document.TreeBuilder.Prepruning = false;
                     };
                     //
+                    //PostpruneCheckBox
+                    //
+                    /*CheckBox*/ cb = PostpruneCheckBox = new CheckBox();
+                    cb.Text = "Postprune";
+                    cb.CheckState = CheckState.Checked;
+                    /*ToolStripControlHost*/ host = new ToolStripControlHost(cb);
+                    Control.BuildStrip.Items.Insert(Control.BuildStrip.Items.IndexOf(Control.OptionsSeparator), host);
+                    cb.CheckStateChanged += (s, ex) =>
+                    {
+                        if ((s as CheckBox).CheckState == CheckState.Checked)
+                            Document.TreeBuilder.Postpruning = true;
+                        else
+                            Document.TreeBuilder.Postpruning = false;
+                    };
+
                     break;
                 case RefreshKind.Final:
                     Trace.Listeners.Remove(TraceListener);

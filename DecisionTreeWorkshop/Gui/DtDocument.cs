@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-using DtWorkshop.ID3;
+using DtWorkshop.Plugin.ID3;
 
 namespace DtWorkshop.GUI
 {

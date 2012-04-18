@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DtWorkshop.ID3
+namespace DtWorkshop.Plugin.ID3
 {
     public delegate float DtHeuristic(DtNodeBuilder context, DtAttribute attribute);
 
