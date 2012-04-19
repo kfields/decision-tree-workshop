@@ -56,9 +56,6 @@ namespace DtWorkshop.Plugin.ID3
             Running = true;
             Trace.WriteLine("Build Started");
             //
-            //DtAttribute[] childAttributes = Attributes.Except(new DtAttribute[] { TargetAttr }).ToArray();
-            //List<DtAttribute> _childAttributes = Attributes.Except(new DtAttribute[] { TargetAttr }).ToList();
-            //_childAttributes.Add(TargetAttr);
             DtAttribute[] childAttributes = Attributes;
             DtNodeBuilder child = new DtNodeBuilder(this, null, Query, null, childAttributes);
             child.Build();
@@ -66,56 +63,31 @@ namespace DtWorkshop.Plugin.ID3
                 return;
             //else
             if (Postpruning)
-                Postprune();
+                Postprune(Tree.Root);
             BuildFinished();
             Trace.WriteLine("Build Finished");
         }
-        private struct Replacement
-        {
-            public DtNode ToRemove, ToAdd;
-            public Replacement(DtNode toRemove, DtNode toAdd)
-            {
-                ToRemove = toRemove;
-                ToAdd = toAdd;
-            }
-        }
-        private void Postprune()
-        {
-            List<Replacement> replacements = new List<Replacement>();
-            Postprune(Tree.Root, replacements);
-            foreach (Replacement replacement in replacements)
-            {
-                DtBranch removeParent = replacement.ToRemove.Parent;
-                removeParent.RemoveChild(replacement.ToRemove);
-
-                DtBranch addParent = replacement.ToAdd.Parent;
-                addParent.RemoveChild(replacement.ToAdd);
-
-                replacement.ToAdd.Edge = replacement.ToRemove.Edge;
-                replacement.ToAdd.Edge.To = replacement.ToAdd;
-
-                removeParent.AddChild(replacement.ToAdd);
-            }
-        }
-        private DtBranch Postprune(DtBranch branch, List<Replacement> replacements)
+        private DtBranch Postprune(DtBranch branch)
         {
             DtBranch bottom = branch;
             //
-            if (branch.HasLeafChildren)
+            if (branch.HasAllLeafChildren)
                 return branch;
             else if (branch.HasSingleChild)
             {
                 DtBranch child = branch.Children.Single() as DtBranch;
-                bottom = Postprune(child, replacements);
-                replacements.Add(new Replacement(branch, bottom));
+                bottom = Postprune(child);
+                bottom.Edge = branch.Edge;
+                bottom.Edge.To = bottom;
             }
             else
                 foreach (DtNode child in branch.Children)
                     if(child.Kind == DtElementKind.Branch)
-                        Postprune(child as DtBranch, replacements);
+                        Postprune(child as DtBranch);
             //
             return bottom;
         }
+
         public void Cancel()
         {
             Canceled = true;

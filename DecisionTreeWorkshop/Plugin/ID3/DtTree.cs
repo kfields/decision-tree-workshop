@@ -152,7 +152,7 @@ namespace DtWorkshop.Plugin.ID3
                 return true;
             }
         }*/
-        public bool HasLeafChildren
+        public bool HasAllLeafChildren
         {
             get
             {
