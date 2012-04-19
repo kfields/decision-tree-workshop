@@ -91,6 +91,9 @@ namespace DtWorkshop.Plugin.ID3
                 DtBranch addParent = replacement.ToAdd.Parent;
                 addParent.RemoveChild(replacement.ToAdd);
 
+                replacement.ToAdd.Edge = replacement.ToRemove.Edge;
+                replacement.ToAdd.Edge.To = replacement.ToAdd;
+
                 removeParent.AddChild(replacement.ToAdd);
             }
         }
@@ -99,18 +102,12 @@ namespace DtWorkshop.Plugin.ID3
             DtBranch bottom = branch;
             //
             if (branch.HasLeafChildren)
-            {
                 return branch;
-            }
             else if (branch.HasSingleChild)
             {
                 DtBranch child = branch.Children.Single() as DtBranch;
-                if (child.IsBranch && child.HasSingleChild)
-                {
-                    bottom = Postprune(child, replacements);
-                    if (bottom != null)
-                        replacements.Add(new Replacement(branch, bottom));
-                }
+                bottom = Postprune(child, replacements);
+                replacements.Add(new Replacement(branch, bottom));
             }
             else
                 foreach (DtNode child in branch.Children)
